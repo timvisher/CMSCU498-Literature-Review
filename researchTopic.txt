@@ -1,0 +1,16 @@
+Research Topic
+CMSCU 310
+Tim Visher
+
+Problem Statement 
+=================
+
+The advent of cloud computing has changed the way many people and disciplines use and think of computers. However, most computer hardware manufacturers are still building hardware for the old model of computing where most processing power resides on the PC. Will the cloud computing model change the way hardware manufacturers are building PCs and in what ways does this new model encourage them to do so?
+
+Questions
+=========
+
+- What is cloud computing?
+- Has cloud computing actually begun to be adopted by a statistically significant portion of the population?
+- What implications does cloud computing have for demands placed on PC performance?
+- What new technologies have to be/are being developed currently to help in the utilization of cloud computing?

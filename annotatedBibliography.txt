@@ -1,0 +1,132 @@
+Tim Visher
+CMSCU 310
+Annotated Bibliography
+
+Web 2.0
+=======
+
+Oreilly, Tim (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
+
+Oreilly's seminal paper on the advent of Web 2.0 technology and its distinguishing characteristics is recognized in the field as an authoritative work of definition and forethought in the area of Cloud Computing or software as a service.  This should be very useful to my research as it is well recognized and oft-cited by others.
+
+Thin Client Architecture
+========================
+
+Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
+
+The author here does an excellent job documenting the uses of Thin Client hardware to greatly simplify IT support and provide tremendous functionality to many different niche industries such as the Medical Industry. It is primarily concerned with desktop thin clients, however it is very interesting that it strongly projects the development of a mobile thin client in the near future that will quickly become the most common computing device in the world. It covers the balance between power and utility that must be struck in a thin client.
+
+This is truly an excellent article which should be very useful in documenting how desktop thin clients are currently being used. It doesn't go into great technical detail as to how they are designed, but does give the business reasons for their uses. It has an inset about extending the thin client model to a mobile environment, which should be useful in my efforts to document the necessary configuration of a mobile thin-client.
+
+Schmidt, B. K., Lam, M. S., Northcutt, J. D. (1999). The interactive performance of SLIM: a stateless, thin-client architecture. Operating Systems Review, 34(5), 32-47.
+
+The authors here collaborate with the product development team from Sun that developed the Sun Ray(tm) 1 to evaluate the performance of SLIM architecture products using a newly developed system interaction testing methodology.  The methodology is actually newly developed because not much testing has been done in this space before.  They found that utilizing SLIM architecture, they were able to get performance out of SLIM consoles that was indistinguishable from more traditional Desktop PCs.  
+
+They go on to describe SLIM architecture, which consists of: an Interconnection Fabric which does not have to be high end, the SLIM protocol which relies on sending only raw pixel values to the console, thus reducing the need for any computational power at all on the client, and SLIM Servers which simply multiplex out the Output and multiplex in the Input for SLIM clients to a machine running any number of OSes, thus removing the need to implement special Network Display protocols such as X or ICA.  
+
+The authors go into great detail describing their testing methodologies, their classification of different user profiles, and then their results.  They conclude that utilizing SLIM architecture is well within the performance limits of today's common networks.  They key is in their use of a low level protocol that requires only encoded information about pixels to be sent over the network, allowing all processing to be done on the server and reducing the intelligence requirement of the client to nothing more than a frame buffer.
+
+This article is useful mainly because it goes into great detail about what makes thin clients usable and the limitations on what you can expect a client to do in such situations.  This is applicable because my eventual goal is to attempt to design a prototype system that is built to take advantage of ubiquitous broadband Internet access and Cloud Computing services.
+
+Richardson, T., Stafford-Fraser, Q., Wood, K. R., Hopper, A. (1998). Virtual Network Computing. IEEE Internet Computing, 2(1), 33-38.
+
+This article presents a history of the VNC (virtual network computing) technology, which is a thin-client technology allowing people to utilize computer resources through a thin virtualized client to a machine that is serving it's interface data out.  It goes on to document at a high level the parts of the technology that make up VNC and roughly how it is implemented in order to get the performance that they do.  
+
+The main advantage of this model is that the customer can utilize the computing resources from anywhere without having to carry around any hardware.  Nothing at all is stored on the client side so everything, including the cursor position and all, remain intact between accessing sessions.  Also, because of the technology level at which VNC is implemented (the framebuffer), it works transparently on any system that has a GUI.
+
+Finally, the document, briefly, future work that they are hoping to do, including providing implementations for many more device types like Televisions.
+
+I found this article to be a very good overview of the technological reasons behind the design of VNC.  It should play very nicely in trying to see how an ultra-mobile netbook could be designed.
+
+Lai, E. (2007). Thin Client's Get Microsoft's Approval-For Some Users. Computer World, 41(15), 1,16.
+
+This brief article covers Microsoft's May thin-client turnabout.  Previously, Microsoft was anti thin-client uses of Windows, apparently due to licensing issues.  Now, however, they must have worked out their business model and they are ready to begin offering Thin Client licenses for Vista, but only or a substantially increased price.  
+
+This article should be marginally useful showing the business adoption of the Thin-Client model.
+
+Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. [City], [State]: Microsoft Press
+
+The author here provides an in-depth overview of the thin-client computing model.  He covers what thin-client computing is, how it works, as well as several use cases for environments where thin-client computing is particularly applicable.  In the end, he makes a strong business case for moving to thin-client computing, as he shows that it significantly reduces TOC.  
+
+This article should be useful on multiple levels.  First, it goes in depth into the technological challenges facing thin-client computing, which should be useful in attempting to design a netbook.  Secondly, he attempts to build a business case for using thin-client computing, which should be useful in showing where netbooks would be applicable business wise.
+
+Lai, A., Nieh, J. (2002) Limits of Wide-Area Thin-Client Computing. Proceedings of the ACM Sigmetrics, 30(1), 228-239.
+
+
+
+Battery Research
+================
+
+Hp. (2008). Hp Breaks the 24-Hour Battery Life Barrier. Retrieved November 7, 2008, from http://www.hp.com/sbso/solutions/pc_expertise/battery/?jumpid=em_di_426632_US_US_0_000&diaid=di_hpc_us_720035_US&dimid=1002814586&dicid=taw_Nov08&mrm=1-4BVUP
+
+[annotate]
+
+Goodenough, J. B., Padhi, A., Nanjundaswamy, K. S., Masquelier, C. (1997). European Patent No. 20040022447. Free Patents Online: http://www.freepatentsonline.com/EP1501137A2.html
+
+[annotate]
+
+Whittingham, M. S. (1976). Electrical Energy Storage and Intercalation Chemistry. Science Magazine, 192, 1126-1127.
+
+This is Whittingham's publishing of his discovery of the use of Lithium-Ion technology in rechargeable power sources.  It will be used to provide a reference for the history section of the battery research.
+
+Timesharing and Client/Server
+=============================
+
+Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
+
+The author in this book attempts to document the 'other' side of the computer revolution, which was the Hacker culture that developed at MIT and went on through loose organizations like the Home Brew Computer Club etc. to help the PC revolution happen. He covers the history of the computer revolution from the Tech Model Railroad Company (where the term Hacker was first coined) through to contemporary culture and theorizing about the future. The primary parts that I am interested in are the parts on developments in Time-Sharing. He covers the various technologies that were developed during Time-Sharing, along with why, and in small ways how.
+
+This book should be very useful in analyzing how Time-Sharing was developed and why. The stories are mostly anecdotal, but Levy's sources are mostly primary so they should be fairly trustworthy. It's possible that I could use some of the information regarding the Client configurations (basically dumb terminals) in reference to developing a model for today's clients, but it seems unlikely.
+
+Campbell-Kelly, M., & Aspray, W. (2004). Computer: A History of the Information Machine. Boulder, CO: Westview Press.
+
+This book is another history, more formal than Hackers, of the Computer from its inceptions (in theory with people like Babbage) all the way through contemporary times. It also has a significant portion dedicated to the Time Sharing model which covers the rise and fall of computation as utility.
+
+I hope to use this source to help define and explain Time Sharing as a model and explain why it fell out of favor. Understanding why Time Sharing fell out of favor should also help describe why it's coming back in today in the form of Cloud Computing.
+
+Ritchie, D. M., Thompson, K. (1974). The UNIX Time-Sharing System. Communications of the ACM, 17(7), 365-375.
+
+[annotate]
+
+Greenberger, M. (1964). The Computers of Tomorrow. The Atlantic, 213(5), 63-67.
+
+[annotate]
+
+Cloud Computing
+===============
+
+Hayes, B. (2008). Cloud Computing. Communications of the ACM, 51(7), 9-11.
+
+In this article, the author attempts to document the current trends in Cloud Computing by first describing what it is, a movement of the locus of computation from the desktop to the 'compute cloud', or the Internet. The author moves on to briefly analyze it's similarity to the Time-Sharing model of ~50 years ago which was the successor to the mainframe model that had been the norm since the invention of the computer; a hub-and-spoke model which bears remarkable similarity to the Cloud Computing model. Finally, the author notes 4 specific trends (Cloud Office Suites, Enterprise Systems, Extreme Data Infrastructure, Cloud OSes which focus on delivering the familiar OS environment via the Internet instead of just through the browser) in an effort to help predict possible directions that Cloud Computing might go. The author wraps up with a discussion of some of the major challenges facing efforts to encourage Cloud Computing: Scalability, the need to master multiple technologies, business models, and ensuring privacy and security.
+
+I would like to use this article to help make the connection between the Time-Sharing, Computing-as-utility model that preceded the PC and today's Cloud Computing, as well as to help define Cloud Computing. Beyond this, the article really only provides conjectures and is not concerned with hard-proofs of any given concept, just in the reality of the shift to Cloud Computing that is happening currently. It does not cite many sources, nor does it appear to be aimed at academia. However, it is from a reputable, peer-reviewed journal and so should be dependable enough.
+
+Astley, M., & Bhola, S., & Ward, M. J., & Shagin, K., & Paz, H., & Gershinsky, C. (2008). Pulsar: A resource-control architecture for time-critical service-oriented applications. IBM Systems Journal, 47(2), 265-280.
+
+This article presents a system which is meant to ensure latency targets are met for a given cloud system. It is intended as a support technology for something that its authors saw as a critical deficiency in today's technologies which is that there is currently no way to specify latency targets and ensure that they are met. This is seen as a critical error especially in the area of Real Time Systems which need to provide verifiable performance before they are adopted. They present the case for the need of such a system, the model under which they developed their system, and a case-study which they use to help evaluate the effectiveness of Pulsar.
+
+My intentions for the use of this article are simply to utilize their information on the needs of the server-side hardware that they provide to extrapolate information about how powerful the specifications for the client-hardware would need to be. Other than that, most of the information is not all that useful to me. My topic does not touch on the application programming models they address nor the actual solution they are attempting to provide. This article is really only minimally useful.
+
+Bleicher, P. (2006). Solutions Delivered, Not Installed. Applied Clinical Trials, 15(6), 41-44.
+
+The author covers in a fair amount of detail here the possible business models associated with companies who are or who want to be providing Software as a Service (or Saas), otherwise known as Cloud Computing solutions. He uses Postini as an example of a company that is doing very well as a provider of Cloud Computing services (in their case, Spam filtering), noting how their ability to constantly upgrade their system as well as configure it for new clients in a matter of days with no infrastructure required at the client's site as their key to success. He points out various reasons you might want to move your corporation's solutions to the cloud: Cost can be driven down as you no longer have to pay for the infrastructure and on-site technical expertise to maintain the software, you are no longer responsible for the fine tuning of the software or its development (which presumably is not your area of expertise anyway), and you save time by reducing the cost of selecting and then implementing a solution. He also gives three points to consider if you are trying to make the decision of whether to use SaaS: Consider the functionality gap that still exists between the SaaS solution and traditional locally hosted solutions, security needs as your data is often stored across multiple servers with many other clients data, and whether their will be consideration in the future of an in house installation.
+
+I plan on using this article to help analyze the applicability of Cloud Computing as seen from a business perspective. While my topic is not directly related to business applicability, this article does mention the ability to reduce costs through savings in infrastructure by outsourcing that computing power, which should be useful in analyzing the computing needs of clients accessing cloud services
+
+Bleicher, P. (2004). How Do I Buy Software? Let Me Count the Ways. Applied Clinical Trials, 13(6), 34-38.
+
+The author enumerates many of the different ways that software can be be bought today in the contexts of both the enterprise and the individual, ranging from shrink-wrapped, perpetual or term licensing to one-time use software (for instance TurboTax), to the new on-demand model (the cloud model) in the context of attempting to calculate the total cost of ownership.
+
+The author has done a decent job of briefly covering different software ownership models and does enumerate some of the savings associated with going with an on-demand model for their software solutions. Again, this is only minimally useful as a technical reference for what client-hardware configurations need to be, but at the same time it does provide an interesting business perspective on Cloud Computing and on the other models of business software purchasing.
+
+Lohr, Steve (2007). Google and I.B.M. Join in ‘Cloud Computing’ Research. NY Times. Retrieved 19 September, 2008, from http://www.nytimes.com/2007/10/08/technology/08cloud.html?_r=1&ex=1349582400&en=92a8c77c354521ba&ei=5088&partner=rssnyt&emc=rss&oref=slogin
+
+Lohr's article on the new initiative being taken up by Google and IBM in late 2007 is an interesting overview of Cloud Computing in an academic environment.  It does not provide scholarly research into the topic and thus could not be used in any authoritative way in the final research paper.  However, it does provide interesting commentary from academics about how Cloud Computing is shaping up in the future.
+
+Reiss, Spencer. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
+
+[annotate]
+
+Peterson, Robyn (2008). What You Need To Know About Cloud Computing. PC Magazine. Retrieved 19 September, 2008, from http://www.pcmag.com/print_article2/0,1217,a%253D231900,00.asp
+
+This article provides a great overview of Cloud Computing and its current use in industry.  However, since it is not peer reviewed it will not be a great source alone in my final research paper.  However, with other supporting content, it should be nice to have.

@@ -1,0 +1,8 @@
+- Problem of Computer maintenance and applicability.  
+- Lots of research towards maximizing the usefulness of desktop PCs.
+- The premise of this paper is that commodity networks are fast enough to use a low-level protocol to remotely serve graphical displays of common, GUI-based applications without any noticeable performance degradation.
+- The requiremenst for producing such a system are that it be a Stateless, Low-Level Interface Machine (or SLIM)
+- SLIM consoles bear more resemblance to an applicance because the device becomes nothing but a cheap device that implements a fixed, low-level protocol.
+- Addresses 1) The extent to which common networks can support todays GUI programs when using a SLIM architecture and 2) What advantages would be gained by utilizing this model.
+- The Sun Ray(tm) 1 product is an embodiment of SLIM and reportedly performs as expected.
+- The paper contributes a methodology for studying the interactive performance of a system, as not much had been done in this space prior to the esearch deone here.
