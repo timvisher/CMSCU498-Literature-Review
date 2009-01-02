@@ -52,7 +52,15 @@ This article should be useful on multiple levels.  First, it goes in depth into 
 
 Lai, A., Nieh, J. (2002) Limits of Wide-Area Thin-Client Computing. Proceedings of the ACM Sigmetrics, 30(1), 228-239.
 
+This article attempts to test the effectiveness of 6 popular thin-client implementations from a variety of providers in order to understand how thin-client architecture can be most effectively optimized for WANs.  The interest is primarily in understanding how thin-clients can be optimized to best utilize ASPs in the coming Cloud Computing period.  
 
+It begins by outlining the experimental design that they would utilize during their tests.  Since no research had been done prior to this on the effectiveness of thin-client offerings in the context of WANs, the actual design of the experimental method is one of the deliverables of this paper.  Because most of the systems they tested were closed source, they had to verify that their testing methodology was basically correct.  They did this through testing the VNC thin-client technology which is a well-understood, open source thin-client architecture.
+
+The experimental set up consisted of a number of machines located on the two coasts to ensure that a true WAN experience was being tested.  To have a control group of sorts, they also used a local isolated testing suite that involved the use of a network simulator to mimic the East and West (the logical identifiers of the two testing sites) sites but in a much more controlled way.  They used three different benchmarks in order to measure the usability of thin-clients: Latency in which a variety of simple operations were performed to understand the basic latency of the response times over the thin-client software, Web in which they used a version of the Ziff-Davis i-Bench web benchmark to load and display a large number of web pages (108) in succession, and Video in which they played a 30 second video clip through the thin-client software.
+
+The article concludes that there is a large variety of performance among the popular thin-client offerings.  They offer suggestions about what can be done to maximize performance in a WAN context such as optimizing for latency rather than bandwidth (the opposite of what many systems are doing today).
+
+This article goes into a great amount of detail about what makes thin-client architecture tick.  It should be very useful in the design of thin-client systems and the enumeration of what technological advances would have to happen in order to make thin-client computing in a mobile environment tolerable and useful.  
 
 Battery Research
 ================
