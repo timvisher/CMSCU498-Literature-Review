@@ -67,7 +67,9 @@ Battery Research
 
 Hp. (2008). Hp Breaks the 24-Hour Battery Life Barrier. Retrieved November 7, 2008, from http://www.hp.com/sbso/solutions/pc_expertise/battery/?jumpid=em_di_426632_US_US_0_000&diaid=di_hpc_us_720035_US&dimid=1002814586&dicid=taw_Nov08&mrm=1-4BVUP
 
-[annotate]
+This news item from HP outlines their new Ultra Capacity Lithium Ion Battery which they claim can get up to 24 hours of life out of a single charge with very specific configuration options.  
+
+This article should only be marginally useful as it merely outlines the use of the current battery technology to make todays mobile hardware designs last longer.
 
 Goodenough, J. B., Padhi, A., Nanjundaswamy, K. S., Masquelier, C. (1997). European Patent No. 20040022447. Free Patents Online: http://www.freepatentsonline.com/EP1501137A2.html
 
