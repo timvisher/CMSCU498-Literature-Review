@@ -79,7 +79,9 @@ Relevant Technology/Current Trends
 
 #### Introduction ####
 
-#### Definition and Relevance ####
+"Thin-client Computing is the modern version of the old time-sharing approach" (Schmidt, 1999).  The advent of ubiquitous high-speed networks has allowed the development of dumb or thin-client terminals that access powerful centralized servers and execute their applications on the server.  This has several effects, such as a reduced total cost of ownership through the lack of a need to upgrade the client hardware on a regular basis, ease of administration with only a few centralized computing resources that you can control directly, etc.  
+
+#### Definition ####
 
 Thin-Clients are, in short, computing systems that consist of a server which runs all logic and processing requirements of an application and a Client which displays the output only from the remote server of a Remote Display Protocol (RDP) (Lai, 2002).  An advantage of thin-client architecture for doing remote computing is that most applications can be run as they are, without any rewrite to take advantage of a remote protocol, because the display protocol is implemented at a lower level in the OS Hierarchy than the applications execute (Schmidt, 1999).  Thus, instead of a sending the display information to a local monitor, you instruct the OS to send its display information instead over the network to a client that has requested that you send said information to it.  Anyone with network access can request to utilize the computing resources of a central server that has implemented the server protocol of the thin-client and from anywhere at any time remotely access their session as if they were sitting at the machine.  
 
@@ -91,7 +93,11 @@ A clear advantage cited by many as an important reason to utilize thin-client co
 
 So far, thin-client systems have primarily penetrated in the medical, banking, education, government, and sales industries. Still, they only account for less than 1% of the total market share.  However, experts believe that trends indicate that they will rapidly grow in market share, especially in the Enterprise market. (Tynan, 2005)  
 
-Current pushes in research are focused mainly on figuring out how to get thin-clients to work well over wide-area networks such as the Internet and Internet2.  In order to do this, researchers are attempting to understand what the performance bottlenecks are and how they can be overcome.  The designers of the SLIM protocol, which is a Sun product, believe that the bottleneck exists mainly in requiring too much communication between the client and the server; rather than keeping the client completely dumb, most thin-client systems try to keep a foot in both worlds, requiring some state to be maintained by the client and some by the server, which occasionally requires multiple round trips to the server in order to accomplish simple operations (Lai, 2007). (Schmidt, 1999)  
+Current pushes in research are focused mainly on figuring out how to get thin-clients to work well over wide-area networks such as the Internet and Internet2.  In order to do this, researchers are attempting to understand what the performance bottlenecks are and how they can be overcome.  The designers of the SLIM protocol, which is a Sun product, believe that the bottleneck exists mainly in requiring too much communication between the client and the server; rather than keeping the client completely dumb, most thin-client systems try to keep a foot in both worlds, requiring some state to be maintained by the client and some by the server, which occasionally requires multiple round trips to the server in order to accomplish simple operations (Lai, 2007). (Schmidt, 1999)  By design, Microsoft appears to believe that the bottle neck is bandwidth (Lai, 2007).  Lai and Nieh of Colombia University indicate that the real performance hindrance is network latency and choice of lower order display primitives or application level programming interfaces (2007).  
+
+#### Relevance ####
+
+Thin-clients are applicable to my current reseaurch project in that the design of a mobile hardware platform that is fine-tuned for taking advantage of Cloud services would have a great deal of similarity with today's thin-clients.  Very little processing power would have to exist on the client side as long as they had a high-bandwidth connection to the application server.  The question would only be how thin you would make the clients.
 
 ### Web 2.0 ###
 
