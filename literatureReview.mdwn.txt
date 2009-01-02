@@ -77,6 +77,10 @@ Relevant Technology/Current Trends
 
 ### Thin-Clients ###
 
+#### Introduction ####
+
+Thin-Clients are, in short, 
+
 ### Web 2.0 ###
 
 #### Google Gears ####
