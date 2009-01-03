@@ -32,7 +32,7 @@ Richardson, T., Stafford-Fraser, Q., Wood, K. R., Hopper, A. (1998). Virtual Net
 
 This article presents a history of the VNC (virtual network computing) technology, which is a thin-client technology allowing people to utilize computer resources through a thin virtualized client to a machine that is serving it's interface data out.  It goes on to document at a high level the parts of the technology that make up VNC and roughly how it is implemented in order to get the performance that they do.  
 
-The main advantage of this model is that the customer can utilize the computing resources from anywhere without having to carry around any hardware.  Nothing at all is stored on the client side so everything, including the cursor position and all, remain intact between accessing sessions.  Also, because of the technology level at which VNC is implemented (the framebuffer), it works transparently on any system that has a GUI.
+The main advantage of this model is that the customer can utilize the computing resources from anywhere without having to carry around any hardware.  Nothing at all is stored on the client side so everything, including the cursor position and all, remain intact between accessing sessions.  Also, because of the technology level at which VNC is implemented (the frame buffer), it works transparently on any system that has a GUI.
 
 Finally, the document, briefly, future work that they are hoping to do, including providing implementations for many more device types like Televisions.
 
@@ -69,7 +69,7 @@ Hp. (2008). Hp Breaks the 24-Hour Battery Life Barrier. Retrieved November 7, 20
 
 This news item from HP outlines their new Ultra Capacity Lithium Ion Battery which they claim can get up to 24 hours of life out of a single charge with very specific configuration options.  
 
-This article should only be marginally useful as it merely outlines the use of the current battery technology to make todays mobile hardware designs last longer.
+This article should only be marginally useful as it merely outlines the use of the current battery technology to make today's mobile hardware designs last longer.
 
 Goodenough, J. B., Padhi, A., Nanjundaswamy, K. S., Masquelier, C. (1997). European Patent No. 20040022447. Free Patents Online: http://www.freepatentsonline.com/EP1501137A2.html
 
@@ -79,7 +79,11 @@ Whittingham, M. S. (1976). Electrical Energy Storage and Intercalation Chemistry
 
 This is Whittingham's publishing of his discovery of the use of Lithium-Ion technology in rechargeable power sources.  It will be used to provide a reference for the history section of the battery research.
 
-Timesharing and Client/Server
+Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office: http://v3.espacenet.com/publicationDetails/biblio?CC=US&NR=4304825A&KC=A&FT=D&date=19811208
+
+This is the patent filed by Bell Labs regarding the development of the Graphite anode and Titanium Sulfide as the cathode.  It was the first patent of a feasible lithium-ion battery because it used Graphite rather than Lithium Metal as the anode.  Using Lithium Metal as the anode yields a highly unstable and dangerous battery.  I plan to use this as a reference in the battery section of my paper describing the different battery technology developments.
+
+Time-sharing and Client/Server
 =============================
 
 Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
@@ -96,11 +100,11 @@ I hope to use this source to help define and explain Time Sharing as a model and
 
 Ritchie, D. M., Thompson, K. (1974). The UNIX Time-Sharing System. Communications of the ACM, 17(7), 365-375.
 
-[annotate]
+This document is the original description of the first Unix system implementation created by Ritchie and Thompson.  It contains a full disclosure of the most important implementation details along with why the implementation was chosen.  I intend to use it in my discussion of Time-Sharing Systems.
 
 Greenberger, M. (1964). The Computers of Tomorrow. The Atlantic, 213(5), 63-67.
 
-[annotate]
+This article has a seminal place in the annals of computing history.  It describes in some detail the design and applicability of the computer utility model.  It's written in a bit of a futurist style, but it should still be useful as it is widely cited as solidifying the concept of the computer utility.
 
 Cloud Computing
 ===============

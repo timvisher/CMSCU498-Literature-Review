@@ -46,13 +46,11 @@ Rechargeable Batteries
 
 ### Description and Relevance ###
 
-There is one main strain of research regarding batteries for mobile computing and other such devices: Lithium-Ion Technology.  Lithium-Ion technology was first proposed by M. S. Whittingham while he was at Exxon in 1976 (Whittingham).  At the time, the advance was revolutionary, allowing for a highly configurable battery shape which made it's applicability in the mobile electronics market very extensive and reducing the battery 'bleed' effect where a rechargeable battery will slowly loose its charge in storage.  In fact, Lithium-Ion batteries do not exhibit this effect at all, but they do age at a predetermined rate regardless of use, slowly reducing their ability to hold a charge.  
+There is one main strain of research regarding batteries for mobile computing and other such devices: Lithium-Ion Technology.  Lithium-Ion technology was first proposed by M. S. Whittingham while he was at Exxon in 1976.  At the time, the advance was revolutionary, allowing for a highly configurable battery shape which made it's applicability in the mobile electronics market very extensive and reducing the battery 'bleed' effect where a rechargeable battery will slowly loose its charge in storage.  In fact, Lithium-Ion batteries do not exhibit this effect at all, but they do age at a predetermined rate regardless of use, slowly reducing their ability to hold a charge.  
 
 ### Relevant Mobile Computing Battery Research ###
 
 Advances in Lithium-Ion Battery technology are primarily in 3 areas.  The first is in the area of safety.  The materials recommended by Whittingham were titanium sulfide and lithium metal.  It turned out that batteries using lithium metal are extremely dangerous.  The first advances were in the material used.  If you forgo the use of lithium metal in favor of another material that contains lithium ions, you get a much more stable battery [citation].  Second, the composition of the materials (known as the anode and the cathode) is being changed experimentally to increase the amount of cycles the battery has and to improve its power output [citation].  Finally, advances have been made in the structure of the anode and cathode to allow for greater surface area.  This allows for the battery to have a higher capacity, as the surface area of the structure of the lithium materials is the primary barrier to higher capacity batteries [citation].
-
---Aside-- I've been through several patents in this area and I'm not sure how to cite them or even if they are good sources for this area of my paper.
 
 ### Current Trends ###
 
@@ -96,7 +94,7 @@ Current pushes in research are focused mainly on figuring out how to get thin-cl
 
 ### Relevance ###
 
-Thin-clients are applicable to my current reseaurch project in that the design of a mobile hardware platform that is fine-tuned for taking advantage of Cloud services would have a great deal of similarity with today's thin-clients.  Very little processing power would have to exist on the client side as long as they had a high-bandwidth connection to the application server.  The question would only be how thin you would make the clients.
+Thin-clients are applicable to my current research project in that the design of a mobile hardware platform that is fine-tuned for taking advantage of Cloud services would have a great deal of similarity with today's thin-clients.  Very little processing power would have to exist on the client side as long as they had a high-bandwidth connection to the application server.  The question would only be how thin you would make the clients.
 
 Web 2.0
 -------
