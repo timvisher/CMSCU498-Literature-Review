@@ -54,6 +54,10 @@ Advances in Lithium-Ion Battery technology are primarily in 3 areas.  The first 
 
 --Aside-- I've been through several patents in this area and I'm not sure how to cite them or even if they are good sources for this area of my paper.
 
+### Current Trends ###
+
+[fill-in]
+
 Cloud Computing
 ---------------
 
@@ -101,9 +105,6 @@ Web 2.0
 
 Ultra-Mobile PCs / Netbooks
 ---------------------------
-
-Battery Technology
-------------------
 
 Smart-Phone Technology
 ----------------------
