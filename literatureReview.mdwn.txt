@@ -103,11 +103,8 @@ Web 2.0
 
 ### Google Gears ###
 
-Ultra-Mobile PCs / Netbooks
+Ultra-Mobile PCs / Netbooks / Smart-Phones
 ---------------------------
-
-Smart-Phone Technology
-----------------------
 
 Internet2 / Broadband
 ---------------------
