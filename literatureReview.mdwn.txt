@@ -8,8 +8,8 @@ Introduction
 
 - This section should present an explanation of the topic being researched. It should include the _purpose_ of the research, a _thesis or problem statement_ and explain _the relevance and significance_ of the problem being researched. This section should also include an _overview_ of the literature review. You should include a few subheadings under this section
 
-Background/History
-===================
+Relevant Technologies and Historical Developments
+=================================================
 
 - This section should present a brief, but inclusive history of the topic under research. It should present background information about the topic being researched with particular emphasize on elements that are directly related to your research.
 
@@ -70,14 +70,10 @@ Cloud Computing has its roots in the Time-Sharing Computer Utility model that tr
 
 Today, Amazon and many others such as Yahoo [citation], Google [citation], and Microsoft [citation] are beginning to offer Cloud Computers under various guises.  Google, for instance, offers many software services for free (such as a Mail Client, a Document editor, and a Spread Sheet editor) while they insert their ad service into them [citation].  Beyond just the cloud as a computer, there is a whole new breed of software termed Software as a Service (SAAS) which offers no install, enterprise grade, software services delivered via the cloud.  While this is not necessarily 'traditional' cloud computing, it does offload the hardware and software requirements for computer solutions to a central server and off of your local hardware installation.  
 
-Relevant Technology/Current Trends
-===================================
+Thin-Clients
+------------
 
-- This section should focus on the technology used in the field of your research topic. If the focus of your research is a particular type of technology, then this section would be included in other areas. Otherwise, this is an extremely important section of the paper.
-
-### Thin-Clients ###
-
-#### Introduction ####
+### Introduction ###
 
 "Thin-client Computing is the modern version of the old time-sharing approach" (Schmidt, 1999).  The advent of ubiquitous high-speed networks has allowed the development of dumb or thin-client terminals that access powerful centralized servers and execute their applications on the server.  This has several effects, such as a reduced total cost of ownership through the lack of a need to upgrade the client hardware on a regular basis, ease of administration with only a few centralized computing resources that you can control directly, etc.  
 
