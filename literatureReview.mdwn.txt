@@ -4,7 +4,7 @@ Literature Review
 Due Date: 5-12-08
 
 Introduction
-=============
+============
 
 - This section should present an explanation of the topic being researched. It should include the _purpose_ of the research, a _thesis or problem statement_ and explain _the relevance and significance_ of the problem being researched. This section should also include an _overview_ of the literature review. You should include a few subheadings under this section
 
@@ -12,7 +12,7 @@ Relevant Technologies and Historical Developments
 =================================================
 
 Introduction
---------------
+------------
 
 The road to Cloud Computing is somewhat cyclical.  While the technologies that have developed recently and become widespread are new, the concepts are actually nearly as old as computing, or at the very least networked computing, itself.  To begin with, the principles of Cloud Computing have their roots in the Time Sharing Computing Model (TSCM) which was pioneered by [pioneer] at MIT. [citation]  The lack of widely available high-speed Internet access made the viability and applicability of this model short-lived but times have begun to change.  This section will cover in some detail the TSCM and its applicability to the investigation here-in.
 
@@ -113,13 +113,13 @@ Internet2 / Broadband
 ---------------------
 
 Summary/Conclusions
-======================
+===================
 
 - This section should show the connection and reasons for the previous sections by providing an overall summary of the literature review. Any conclusions that can be drawn from the research should be stated here. Be sure to back up your conclusions with references from the literature. 
 - You will probably not have subheadings in this section, but the summary should clearly pull together all the sections in the paper. It should be several paragraphs long.
 
 References
-===========
+==========
 
 - Every citation must have a reference in and every reference in this section is cited in your paper.
 
