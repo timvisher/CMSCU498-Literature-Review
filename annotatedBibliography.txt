@@ -2,15 +2,13 @@ Tim Visher
 CMSCU 310
 Annotated Bibliography
 
-Web 2.0
-=======
+* Web 2.0
 
 Oreilly, Tim (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
 
 Oreilly's seminal paper on the advent of Web 2.0 technology and its distinguishing characteristics is recognized in the field as an authoritative work of definition and forethought in the area of Cloud Computing or software as a service.  This should be very useful to my research as it is well recognized and oft-cited by others.
 
-Thin Client Architecture
-========================
+* Thin Client Architecture
 
 Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
 
@@ -44,7 +42,7 @@ This brief article covers Microsoft's May thin-client turnabout.  Previously, Mi
 
 This article should be marginally useful showing the business adoption of the Thin-Client model.
 
-Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. [City], [State]: Microsoft Press
+Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. [[City]], [[State]]: Microsoft Press
 
 The author here provides an in-depth overview of the thin-client computing model.  He covers what thin-client computing is, how it works, as well as several use cases for environments where thin-client computing is particularly applicable.  In the end, he makes a strong business case for moving to thin-client computing, as he shows that it significantly reduces TOC.  
 
@@ -62,8 +60,7 @@ The article concludes that there is a large variety of performance among the pop
 
 This article goes into a great amount of detail about what makes thin-client architecture tick.  It should be very useful in the design of thin-client systems and the enumeration of what technological advances would have to happen in order to make thin-client computing in a mobile environment tolerable and useful.  
 
-Battery Research
-================
+* Battery Research
 
 Hp. (2008). Hp Breaks the 24-Hour Battery Life Barrier. Retrieved November 7, 2008, from http://www.hp.com/sbso/solutions/pc_expertise/battery/?jumpid=em_di_426632_US_US_0_000&diaid=di_hpc_us_720035_US&dimid=1002814586&dicid=taw_Nov08&mrm=1-4BVUP
 
@@ -73,7 +70,7 @@ This article should only be marginally useful as it merely outlines the use of t
 
 Goodenough, J. B., Padhi, A., Nanjundaswamy, K. S., Masquelier, C. (1997). European Patent No. 20040022447. Free Patents Online: http://www.freepatentsonline.com/EP1501137A2.html
 
-[annotate]
+[[annotate]]
 
 Whittingham, M. S. (1976). Electrical Energy Storage and Intercalation Chemistry. Science Magazine, 192, 1126-1127.
 
@@ -83,8 +80,7 @@ Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office: http://v3.es
 
 This is the patent filed by Bell Labs regarding the development of the Graphite anode and Titanium Sulfide as the cathode.  It was the first patent of a feasible lithium-ion battery because it used Graphite rather than Lithium Metal as the anode.  Using Lithium Metal as the anode yields a highly unstable and dangerous battery.  I plan to use this as a reference in the battery section of my paper describing the different battery technology developments.
 
-Time-sharing and Client/Server
-=============================
+* Time-sharing and Client/Server
 
 Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
 
@@ -106,8 +102,7 @@ Greenberger, M. (1964). The Computers of Tomorrow. The Atlantic, 213(5), 63-67.
 
 This article has a seminal place in the annals of computing history.  It describes in some detail the design and applicability of the computer utility model.  It's written in a bit of a futurist style, but it should still be useful as it is widely cited as solidifying the concept of the computer utility.
 
-Cloud Computing
-===============
+* Cloud Computing
 
 Hayes, B. (2008). Cloud Computing. Communications of the ACM, 51(7), 9-11.
 
@@ -139,7 +134,7 @@ Lohr's article on the new initiative being taken up by Google and IBM in late 20
 
 Reiss, Spencer. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
 
-[annotate]
+[[annotate]]
 
 Peterson, Robyn (2008). What You Need To Know About Cloud Computing. PC Magazine. Retrieved 19 September, 2008, from http://www.pcmag.com/print_article2/0,1217,a%253D231900,00.asp
 
