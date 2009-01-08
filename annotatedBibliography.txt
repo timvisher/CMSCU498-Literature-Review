@@ -8,6 +8,14 @@ Oreilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for the
 
 Oreilly's seminal paper on the advent of Web 2.0 technology and its distinguishing characteristics is recognized in the field as an authoritative work of definition and forethought in the area of Cloud Computing or software as a service.  This should be very useful to my research as it is well recognized and oft-cited by others.
 
+Giustini, D. (2006). How Web 2.0 is changing medicine: Is a medical Wikipedia the next step?. BMJ, 333(7582), 1283-4.
+
+In this editorial, the author gives a short account of what Web 2.0 is, emphasizing that Web 2.0's goals chiefly appear to be the use of the Internet to share information and collaborate with each other.  Also of note would be is an emphasis on the use of free services delivered over the Web as a Platform to accomplish this sharing and collaborating.  The author has an emphasis on the use of Web 2.0 technology in the medical industry.
+
+He documents one case of a blog that has been quite successful in the medical community, citing that the author's consistent sharing of timely information and the rich community that has grown up around it that comments on and discusses the information as the reason for its success.  Another distinctly Web 2.0 technology, RSS, is also cited in the article as beginning to change the way medical practitioners work.  In a the busy world in which we live, doctors simply don't have time to keep up with all of the disparate publications that come to their door.  With RSS, they have a consistent interface through which all the information flows.  Finally, he discusses the possibility of using Wiki technology in the medical community.
+
+This is an interesting editorial which does a good job not only of capturing the essence of what Web 2.0 is about, but also documenting how it is already beginning to change the medical community at large.  I will be using this in the Web 2.0 section of my literature review when talking about the use of the Web as Platform.
+
 * Thin Client Architecture
 
 Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
