@@ -2,3 +2,5 @@
 *~
 build*
 scratch
+._*
+.DS_Store
