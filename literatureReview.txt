@@ -21,17 +21,17 @@ Third, this section will cover the beginnings of Cloud Computing.  What is Cloud
 
 ** Time Sharing Computing Model
 
-*** Description and Relevance ***
+*** Description and Relevance
 
 The first time-sharing computing system showed up at MIT in 1961.  "A time-sharing computer was one organized so that it could be used simultaneously by many users, each person having the illusion of being the sole user of the system—which, in effect, became his or her personal machine" (Campbell-Kelly, 2004).  Prior to the creation of time-sharing systems, the only way a computer could be efficiently used was through the batch processing model which required users to submit their work to a computer center where operators would decide how to keep the computer busy through efficiently scheduling the separate tasks.  It did keep the computers busy, but it was a difficult way to use the system because there was no immediate feedback to your actions.  The solution was proposed by a British Computer scientist named Christopher Strachey in 1959 and by John McCarthy at MIT around the same time: Allow multiple users to interact with a single mainframe computer through access terminals, using the time that they weren't directly using the CPU to process other people's jobs (Campbell-Kelly, 2004).  Today, all systems are in theory able to be used by multiple users at once over a network, but the practice is different because the computers are designed to be used by a single person with direct access to the machine.  
 
 This is relevant to the topic of Cloud Computing and Ultramoblie PC development because Cloud Computing is really a rehashing of the old computing-as-utility model that developed because of advances in time-sharing.  Until computers could be accessed by multiple users over a diverse geographical area, there was no way for computer utilities to exist.  However, other developments would have to happen before this model would become obsolete and then viable again.
 
-*** Different Time Sharing Systems (TSS) and Their Characteristics ***
+*** Different Time Sharing Systems (TSS) and Their Characteristics
 
 Several TSS were developed in the 1960s, which was the heyday of the time-sharing computing model.  The first was the Compatible Time-Sharing System (CTSS) developed at MIT under the guidance of Robert Fano and Fernando Corbato, which is considered to have been a proof of concept of sorts but never was acceptable for whole-sale public consumption.  It only allowed for 3 users to be signed on at one time and was difficult to use given that it required you to learn a language like FORTRAN which was of course acceptable in academia but was too much to ask of a normal human being (Campbell-Kelly, 2004).  The best known early system was the Dartmouth Time-Sharing System (DTSS).  It allowed for 30 concurrent users and made the important jump to the brand new BASIC programming language which for the first time allowed the masses to write their own programs to accomplish their information processing needs.  Finally, a system called Multics was developed at MIT in conjunction with General Electric and Bell Labs.  Multics could support 300 concurrent users and also used the BASIC language as well as allowing for programming in other languages (Levy, 1994).  Multics (and later Unix) is what allowed the Computer Utility to take flight. 
 
-*** Rise of the PC and the Death of Time Sharing ***
+*** Rise of the PC and the Death of Time Sharing
 
 Several factors contributed to the eventual collapse of the computer-as-utility model.  First, Grosch's Law became obsolete for the average computer user.  Grosch's law states that a computers power varies as a square of its price.  Because of this, it is more economical to have 25 people using a $1,000,000 machine rather than giving each individual a $200,000 machine.  Fortunately, hardware costs plummeted and made it possible to own a computer that was powerful enough to do anything you wanted and could be accessed only by you.  While Grosch's law holds true to this day, at the time it simply didn't matter (Campbell-Kelly, 2004).
 
@@ -41,39 +41,39 @@ Simply put, the corporations working so hard to deliver computer-as-utility coul
 
 ** Rechargeable Batteries
 
-*** Description and Relevance ***
+*** Description and Relevance
 
 There is one main strain of research regarding batteries for mobile computing and other such devices: Lithium-Ion Technology.  Lithium-Ion technology was first proposed by M. S. Whittingham while he was at Exxon in 1976.  At the time, the advance was revolutionary, allowing for a highly configurable battery shape which made it's applicability in the mobile electronics market very extensive and reducing the battery 'bleed' effect where a rechargeable battery will slowly loose its charge in storage.  In fact, Lithium-Ion batteries do not exhibit this effect at all, but they do age at a predetermined rate regardless of use, slowly reducing their ability to hold a charge.  
 
-*** Relevant Mobile Computing Battery Research ***
+*** Relevant Mobile Computing Battery Research
 
 Advances in Lithium-Ion Battery technology are primarily in 3 areas.  The first is in the area of safety.  The materials recommended by Whittingham were titanium sulfide and lithium metal.  It turned out that batteries using lithium metal are extremely dangerous.  The first advances were in the material used.  If you forgo the use of lithium metal in favor of another material that contains lithium ions, you get a much more stable battery [citation].  Second, the composition of the materials (known as the anode and the cathode) is being changed experimentally to increase the amount of cycles the battery has and to improve its power output [citation].  Finally, advances have been made in the structure of the anode and cathode to allow for greater surface area.  This allows for the battery to have a higher capacity, as the surface area of the structure of the lithium materials is the primary barrier to higher capacity batteries [citation].
 
-*** Current Trends ***
+*** Current Trends
 
 [[write]]
 
 ** Cloud Computing
 
-*** Description and Relevance ***
+*** Description and Relevance
 
 Cloud Computing is a relatively new trend in computing services that capitulates on old computing theories that have finally had hardware and software catch up to them.  As a definition, Cloud Computing is the use of outsourced hardware for doing your computing via the Internet.  Combined with broadband Internet access, Cloud Computing has become one of the largest revolutions in computer history, transforming the way people think about their computers and how they should be used.  Principally, application suites such as the offerings from Google have modified the thought that having control over the software you use day to day is a necessity.  Whereas the original shift from faith in a centralized system to belief that personal control was better came from the inherent flaws in the software being produced and the hardware being designed, today's world sees software reaching a very mature state and Internet connections finally being up to speed enough to provide near desktop-like experiences.  The off loading of the need for computing power to something over the Internet could signal extreme changes in the design of mobile computers.
 
-*** Development ***
+*** Development
 
 Cloud Computing has its roots in the Time-Sharing Computer Utility model that tried to take flight in the 1960s.  However, many of the problems encountered then have been solved (massive concurrent access, interface issues, Internet (Broadband) access, etc.).  Amazon is widely considered to be the progenitor of Cloud Computing in its modern form.  They expressly take the utility approach to computing in the Cloud.  The development of the service was organic in that the company needed a very high-powered computer system in order to deal with its burgeoning success in the online sales industry.  Once it had developed the system it needed, the company's founder Jeff Bezos realized that the potential was there to open the system up in a metered way to the rest of the world.  This was done both for monetary purposes (as the computing utility business model is quite lucrative) and because it was a practical way for getting more information into Amazon's systems.
 
-*** Application ***
+*** Application
 
 Today, Amazon and many others such as Yahoo [citation], Google [citation], and Microsoft [citation] are beginning to offer Cloud Computers under various guises.  Google, for instance, offers many software services for free (such as a Mail Client, a Document editor, and a Spread Sheet editor) while they insert their ad service into them [citation].  Beyond just the cloud as a computer, there is a whole new breed of software termed Software as a Service (SAAS) which offers no install, enterprise grade, software services delivered via the cloud.  While this is not necessarily 'traditional' cloud computing, it does offload the hardware and software requirements for computer solutions to a central server and off of your local hardware installation.  
 
 ** Thin-Clients
 
-*** Introduction ***
+*** Introduction
 
 "Thin-client Computing is the modern version of the old time-sharing approach" (Schmidt, 1999).  The advent of ubiquitous high-speed networks has allowed the development of dumb or thin-client terminals that access powerful centralized servers and execute their applications on the server.  This has several effects, such as a reduced total cost of ownership through the lack of a need to upgrade the client hardware on a regular basis, ease of administration with only a few centralized computing resources that you can control directly, etc.  
 
-*** Definition ***
+*** Definition
 
 Thin-Clients are, in short, computing systems that consist of a server which runs all logic and processing requirements of an application and a Client which displays the output only from the remote server of a Remote Display Protocol (RDP) (Lai, 2002).  An advantage of thin-client architecture for doing remote computing is that most applications can be run as they are, without any rewrite to take advantage of a remote protocol, because the display protocol is implemented at a lower level in the OS Hierarchy than the applications execute (Schmidt, 1999).  Thus, instead of a sending the display information to a local monitor, you instruct the OS to send its display information instead over the network to a client that has requested that you send said information to it.  Anyone with network access can request to utilize the computing resources of a central server that has implemented the server protocol of the thin-client and from anywhere at any time remotely access their session as if they were sitting at the machine.  
 
@@ -81,13 +81,13 @@ In the pure sense of the word, a simple text-only protocol such as telnet or ssh
 
 A clear advantage cited by many as an important reason to utilize thin-client computers is the centralization of maintenance and upkeeping.  The obvious disadvantage of a PC in the context of a corporation or other group of people is that it's hard to control what's installed and to upgrade the hardware.  To a great extent, every machine must in effect be administered separately.  Though tools have arisen that make this somewhat easier, there is still a challenge associated with administering a distributed network of PCs.  Often, the cost of upgrading everyone's PCs renders hardware 'obsolete before it has been paid for". (Schmidt, 1999)  The use of thin-client systems allows maintenance, security, and configuration to be done at a clear centralized point rather than across a disparate, ever changing network.  
 
-*** Current Research ***
+*** Current Research
 
 So far, thin-client systems have primarily penetrated in the medical, banking, education, government, and sales industries. Still, they only account for less than 1% of the total market share.  However, experts believe that trends indicate that they will rapidly grow in market share, especially in the Enterprise market. (Tynan, 2005)  
 
 Current pushes in research are focused mainly on figuring out how to get thin-clients to work well over wide-area networks such as the Internet and Internet2.  In order to do this, researchers are attempting to understand what the performance bottlenecks are and how they can be overcome.  The designers of the SLIM protocol, which is a Sun product, believe that the bottleneck exists mainly in requiring too much communication between the client and the server; rather than keeping the client completely dumb, most thin-client systems try to keep a foot in both worlds, requiring some state to be maintained by the client and some by the server, which occasionally requires multiple round trips to the server in order to accomplish simple operations (Lai, 2007). (Schmidt, 1999)  By design, Microsoft appears to believe that the bottle neck is bandwidth (Lai, 2007).  Lai and Nieh of Colombia University indicate that the real performance hindrance is network latency and choice of lower order display primitives or application level programming interfaces (2007).  
 
-*** Relevance ***
+*** Relevance
 
 Thin-clients are applicable to my current research project in that the design of a mobile hardware platform that is fine-tuned for taking advantage of Cloud services would have a great deal of similarity with today's thin-clients.  Very little processing power would have to exist on the client side as long as they had a high-bandwidth connection to the application server.  The question would only be how thin you would make the clients.
 
