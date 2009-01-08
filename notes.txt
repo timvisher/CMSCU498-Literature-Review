@@ -1,3 +1,30 @@
+* TODO
+
+Annotated Bibliography
+
+- Web 2.0
+    - 3 more articles
+- Battery
+    - 2 more articles
+    - Annotation
+- Time-Sharing
+    - 2 Annotations
+- Cloud Computing
+    - Annotation
+
+Literature Review
+
+- Introduction to Relevant Technology and Historical Development needs to be fleshed out to include the Relevant Technological Developments that will be covered.
+- Rechargeable batteries 
+    - Needs to have current research added to it.
+    - Needs to have citations filled in
+- Cloud Computing needs citations
+- Web 2.0 needs research and writing.
+- Ultra-mobile PCs needs research and writing.
+- Internet2 needs research and writing.
+
+* Notes
+
 - Problem of Computer maintenance and applicability.  
 - Lots of research towards maximizing the usefulness of desktop PCs.
 - The premise of this paper is that commodity networks are fast enough to use a low-level protocol to remotely serve graphical displays of common, GUI-based applications without any noticeable performance degradation.
