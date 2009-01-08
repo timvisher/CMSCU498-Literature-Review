@@ -4,7 +4,7 @@ Annotated Bibliography
 
 * Web 2.0
 
-Oreilly, Tim (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
+Oreilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
 
 Oreilly's seminal paper on the advent of Web 2.0 technology and its distinguishing characteristics is recognized in the field as an authoritative work of definition and forethought in the area of Cloud Computing or software as a service.  This should be very useful to my research as it is well recognized and oft-cited by others.
 
