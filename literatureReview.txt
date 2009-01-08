@@ -95,7 +95,13 @@ Thin-clients are applicable to my current research project in that the design of
 
 [[write]]
 
-*** Google Gears ***
+*** The Web is the Platform
+
+[[write]]
+
+*** Emphasis on Interaction and Openness
+
+*** Google Gears
 
 [[write]]
 
