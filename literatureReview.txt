@@ -99,7 +99,19 @@ Thin-clients are applicable to my current research project in that the design of
 
 [[write]]
 
-*** Emphasis on Interaction and Openness
+*** Key Properties
+
+**** Collaboration 
+
+**** Openness
+
+**** Folksonomy
+
+*** Social Software
+
+**** Bookmarking
+
+**** Blogging
 
 *** Google Gears
 
