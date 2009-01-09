@@ -28,6 +28,12 @@ The author here outlines in great detail the core values and principles of Web 2
 
 The core values that the author enumerates are really quite detailed and good.  When I'm defining Web 2.0, this article should be very useful.
 
+Alexander, B. (2006). Web 2.0: New Wave of Innovation for Teaching and Learning?. EDUCAUSE Review, 41(2), 32-44
+
+This author also starts out attempting to explain what Web 2.0 is.  He identifies several major themes, such as openness, collaboration, and folksonomies and uses them to draw the distinguishing line between Web 1.0 and Web 2.0.  The claim is that it is these ideas and attitudes that are the real game changers.  He then goes on to discuss the applicability of Web 2.0 in the context of higher learning institutions.  Of special interest to him seems to be the rich pedagogical possibilities inherent in these collaborative techonologies.  He highlights especially social bookmarking as a way to draw out important themes that the communities tagging those events hold.  Finally, the author spends some time outlining where he believes Web 2.0 is going, predicting that unlike the dot com bubble of the turn of the millenium, this trend is here to stay.
+
+This article eloquently summarizes thet spirit of Web 2.0 technology.  It should be useful regarding the discussion of the 'why' of Web 2.0 as well as its possible uses in the 'real world'.
+
 * Thin Client Architecture
 
 Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
