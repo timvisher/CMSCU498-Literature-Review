@@ -22,7 +22,11 @@ The authors here provide a brief overview of what Web 2.0 is and what it is abou
 
 This article documents another way that the medical industry specifically is using Web 2.0 technologies as well as giving more language to what Web 2.0 is.  It should be useful both in documenting and describing Web 2.0 as well as showing how it is being used in professional fields.
 
+Miller, P. (2005). Web 2.0: Building the New Library. Ariadne. 45. Retrieved 15 December, 2008 from http://www.ariadne.ac.uk/issue45/miller/
 
+The author here outlines in great detail the core values and principles of Web 2.0.  Afterwards, he briefly discusses the applicability of this new paradigm in the context of libraries.  
+
+The core values that the author enumerates are really quite detailed and good.  When I'm defining Web 2.0, this article should be very useful.
 
 * Thin Client Architecture
 
