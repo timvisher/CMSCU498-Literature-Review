@@ -11,8 +11,6 @@ Due Date: 8-1-09
 
 * Relevant Technologies and Historical Developments
 
-** Introduction
-
 The road to Cloud Computing is somewhat cyclical.  While the technologies that have developed recently and become widespread are new, the concepts are actually nearly as old as computing, or at the very least networked computing, itself.  To begin with, the principles of Cloud Computing have their roots in the Time Sharing Computing Model (TSCM) which was pioneered by [pioneer] at MIT. [citation]  The lack of widely available high-speed Internet access made the viability and applicability of this model short-lived but times have begun to change.  This section will cover in some detail the TSCM and its applicability to the investigation here-in.
 
 Second, mobile computing has developed greatly within the past decade.  Technological developments have created smaller computers that are able to consume less power to do more work.  Also, high-speed wireless networking has become widely available in a variety of places from McDonalds to LAX.  At the same time, advances in mobile power had reached something of a plateau.  This section will cover the development of mobile power as it pertains to the adoption of Cloud Computing as the preferred model.
@@ -69,8 +67,6 @@ Today, Amazon and many others such as Yahoo [citation], Google [citation], and M
 
 ** Thin-Clients
 
-*** Introduction
-
 "Thin-client Computing is the modern version of the old time-sharing approach" (Schmidt, 1999).  The advent of ubiquitous high-speed networks has allowed the development of dumb or thin-client terminals that access powerful centralized servers and execute their applications on the server.  This has several effects, such as a reduced total cost of ownership through the lack of a need to upgrade the client hardware on a regular basis, ease of administration with only a few centralized computing resources that you can control directly, etc.  
 
 *** Definition
@@ -93,11 +89,11 @@ Thin-clients are applicable to my current research project in that the design of
 
 ** Web 2.0
 
-[[write]]
+A central development that's helping to pave the way for netbook computers that are streamlined for thin-client like computation utilizing Cloud Services is the advent of what has come to be known as Web 2.0.  Tim O'Reilly, in his seminal paper on the subject, describes Web 2.0 "as a set of principles and practices that tie together a veritable solar system of sites that demonstrate some or all of those principles." The principles he is referring to are things such as an emphasis on deep customer collaboration, offering of your applications not as delivered software but as web services, and an emphasis on multiple light-weight UIs to the samedata, especially the web connected devices.
 
 *** The Web is the Platform
 
-[[write]]
+The "Web is the Platform" phrase is just ambiguous enough that it's incredibly easy to misinterpret.  Tim O'Reilly notes this as well when he states that the term has been adopted by "buzz-word addicted start-ups" with "no real understanding of what it means".  The Web is the Platform simply means 
 
 *** Key Properties
 
