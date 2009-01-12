@@ -23,7 +23,7 @@ Third, this section will cover the beginnings of Cloud Computing.  What is Cloud
 
 The first time-sharing computing system showed up at MIT in 1961.  "A time-sharing computer was one organized so that it could be used simultaneously by many users, each person having the illusion of being the sole user of the system—which, in effect, became his or her personal machine" (Campbell-Kelly, 2004).  Prior to the creation of time-sharing systems, the only way a computer could be efficiently used was through the batch processing model which required users to submit their work to a computer center where operators would decide how to keep the computer busy through efficiently scheduling the separate tasks.  It did keep the computers busy, but it was a difficult way to use the system because there was no immediate feedback to your actions.  The solution was proposed by a British Computer scientist named Christopher Strachey in 1959 and by John McCarthy at MIT around the same time: Allow multiple users to interact with a single mainframe computer through access terminals, using the time that they weren't directly using the CPU to process other people's jobs (Campbell-Kelly, 2004).  Today, all systems are in theory able to be used by multiple users at once over a network, but the practice is different because the computers are designed to be used by a single person with direct access to the machine.  
 
-This is relevant to the topic of Cloud Computing and Ultramoblie PC development because Cloud Computing is really a rehashing of the old computing-as-utility model that developed because of advances in time-sharing.  Until computers could be accessed by multiple users over a diverse geographical area, there was no way for computer utilities to exist.  However, other developments would have to happen before this model would become obsolete and then viable again.
+This is relevant to the topic of Cloud Computing and Ultramobile PC development because Cloud Computing is really a rehashing of the old computing-as-utility model that developed because of advances in time-sharing.  Until computers could be accessed by multiple users over a diverse geographical area, there was no way for computer utilities to exist.  However, other developments would have to happen before this model would become obsolete and then viable again.
 
 *** Different Time Sharing Systems (TSS) and Their Characteristics
 
@@ -95,13 +95,15 @@ A central development that's helping to pave the way for netbook computers that 
 
 The "Web is the Platform" phrase is just ambiguous enough that it's incredibly easy to misinterpret.  Tim O'Reilly notes this as well when he states that the term has been adopted by "buzz-word addicted start-ups" with "no real understanding of what it means".  The Web is the Platform, at its core, means the use of the Internet to deliver your service to customers (Miller).  This is in stark contrast to the model of 'shrink wrapped software' where a long development cycle is concluded with a monolithic release that contains maybe a years worth of work available for repurchasing.  In that model, a customer would buy a license to use a particular release of your software forever and would only purchase a new version if the features warranted it.  So in a strict sense if you use the Web to deliver your software then you are using the Web as a platform.  However, you would not be very Web 2.0.
 
-To be Web 2.0, you must also pursue an agressive release schedule which delivers new features that are ready to be used on a regular basis to your customers (Miller).  This is what advocates of Web 2.0 say is the advantage of the Web as Platform; the ability to deliver features to your audience at a much higher rate (O'Reilly).
+To be Web 2.0, you must also pursue an aggressive release schedule which delivers new features that are ready to be used on a regular basis to your customers (Miller).  This is what advocates of Web 2.0 say is the advantage of the Web as Platform; the ability to deliver features to your audience at a much higher rate (O'Reilly).
 
 *** Key Properties
 
-That being said, there are many key properties that have come to define Web 2.0.  Going back to O'Reilly, software vendors are judged on a continuoum regarding their adherance to the general principles of Web 2.0 rather than being stricly 'in' or 'out'.  Here I will define the core principles of Web 2.0 that have been identified already.
+-- TODO Incorporate Alexander's article into citations
 
-**** Collaboration (Miller)
+That being said, there are many key properties that have come to define Web 2.0.  Going back to O'Reilly, software vendors are judged on a continuum regarding their adherence to the general principles of Web 2.0 rather than being strictly 'in' or 'out'.  Here I will define the core principles of Web 2.0 that have been identified already.
+
+**** Collaboration
 
 There is a massive emphasis on collaboration at many levels in Web 2.0 (O'Reilly).  
 
@@ -111,21 +113,21 @@ At the customer level, there is a new push for user generated content.  O'Reilly
 
 O'Reilly gives an example of this at the time his paper was written: Barnes and Noble vs. Amazon.  Barnes and Noble does not offer less books than Amazon and it's less or more well known, but Amazon consistently out sells Barnes and Noble through their online store.  O'Reilly believes that this is because Amazon specifically encourages user participation in the form of product reviews, wish lists, product recommendation lists (viewable by the public), and not the least of which the use of their opinion to form search results.  Whereas a search at Barnes and Noble often "lead[s] with the company's own products, or sponsored results, Amazon always leads with "most popular", a real-time computation based not only on sales but other factors that Amazon insiders call the "flow" around products" (O'Reilly).
 
-**** Openness (Miller)
+**** Openness
 
+Closely associated with collaboration, the principle of openness is primarily in reference to data.  In the seven discreet core competencies of Web 2.0 organizations that O'Reilly documents, he lists "control over unique, hard-to-recreate data sources that get richer as more people use them."  However, control here does not imply hiding.  Instead, it means that you control the interfaces by which the data can be manipulated and added to. Again in the case of Delicious, they have defined APIs for adding new bookmarks, accessing current bookmarks, accessing popular bookmarks, etc. that allow others to create new views into that data that customers may find add enough value to the raw data that they are willing to pay for it.  
 
+Of course, the other part of the quote indicates that the data gets better as more people uses it.  Services like Delicious, Reddit, and Digg are so valuable _because_ of the amount of people using them.  It would be possible to create a Delicious application that only I could use on my personal machine (i.e. the bookmarking feature of your browser), but that wouldn't be very valuable outside of my own personal use.  But if 100,000 people are all using your bookmarking service, suddenly the information that can be derived from the service is much more interesting to a much wider audience.  And obviously, the more popular your particular service is, the harder it becomes to reproduce your data set because the market has shrunk.  In the words of O'Reilly, "the race is on to own certain classes of core data."  Once you own the data, then you can expose that data to others and allow them to create other interfaces.
 
-**** Folksonomy
+**** Mashup Software
 
-**** Mashup Software (Miller)
+A third principle at the core of Web 2.0 is the delivery of software quickly with an emphasis on streamlining for a specific purpose rather than creating the next Microsoft Office or Adobe Creative Suite (Miller).  A prime example of this would be Google Maps.  Maps has an extremely comprehensive data back end but the interface to that data that Google designed is focused tightly on getting directions to and from locations and viewing data about locations and routes.  No attempts are made to shoehorn atlas type data or historical information onto the location.  However, they have exposed an API to that map data and other people or businesses are free to attempt to build that information over the map information.  Thus, the business model of today's Web 2.0 corporations is adding value to data through the interface.  
+
+Because the sources of data are exposing it to other businesses and to the public, it's possible to create what has become known as mashup software.  This is software that doesn't create any data of its own, but instead aggregates data in an interesting way that may or may not be more useful to the customer.
 
 *** Specific Applications
 
-**** Social Software
-
-***** Bookmarking
-
-***** Blogging
+There are two business domains that have taken a special interest in Web 2.0 as a way to enhance what they are offering to their customers: The Medical Community and the Library Community.
 
 **** Medical 
 
