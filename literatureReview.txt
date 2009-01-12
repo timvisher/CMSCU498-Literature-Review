@@ -89,27 +89,47 @@ Thin-clients are applicable to my current research project in that the design of
 
 ** Web 2.0
 
-A central development that's helping to pave the way for netbook computers that are streamlined for thin-client like computation utilizing Cloud Services is the advent of what has come to be known as Web 2.0.  Tim O'Reilly, in his seminal paper on the subject, describes Web 2.0 "as a set of principles and practices that tie together a veritable solar system of sites that demonstrate some or all of those principles." The principles he is referring to are things such as an emphasis on deep customer collaboration, offering of your applications not as delivered software but as web services, and an emphasis on multiple light-weight UIs to the samedata, especially the web connected devices.
+A central development that's helping to pave the way for netbook computers that are streamlined for thin-client like computation utilizing Cloud Services is the advent of what has come to be known as Web 2.0.  Tim O'Reilly, in his seminal paper on the subject, describes Web 2.0 "as a set of principles and practices that tie together a veritable solar system of sites that demonstrate some or all of those principles." The principles he is referring to are things such as an emphasis on deep customer collaboration, offering of your applications not as delivered software but as web services, and an emphasis on multiple light-weight UIs to the same data, especially the web connected devices.
 
 *** The Web is the Platform
 
-The "Web is the Platform" phrase is just ambiguous enough that it's incredibly easy to misinterpret.  Tim O'Reilly notes this as well when he states that the term has been adopted by "buzz-word addicted start-ups" with "no real understanding of what it means".  The Web is the Platform simply means 
+The "Web is the Platform" phrase is just ambiguous enough that it's incredibly easy to misinterpret.  Tim O'Reilly notes this as well when he states that the term has been adopted by "buzz-word addicted start-ups" with "no real understanding of what it means".  The Web is the Platform, at its core, means the use of the Internet to deliver your service to customers (Miller).  This is in stark contrast to the model of 'shrink wrapped software' where a long development cycle is concluded with a monolithic release that contains maybe a years worth of work available for repurchasing.  In that model, a customer would buy a license to use a particular release of your software forever and would only purchase a new version if the features warranted it.  So in a strict sense if you use the Web to deliver your software then you are using the Web as a platform.  However, you would not be very Web 2.0.
+
+To be Web 2.0, you must also pursue an agressive release schedule which delivers new features that are ready to be used on a regular basis to your customers (Miller).  This is what advocates of Web 2.0 say is the advantage of the Web as Platform; the ability to deliver features to your audience at a much higher rate (O'Reilly).
 
 *** Key Properties
 
-**** Collaboration 
+That being said, there are many key properties that have come to define Web 2.0.  Going back to O'Reilly, software vendors are judged on a continuoum regarding their adherance to the general principles of Web 2.0 rather than being stricly 'in' or 'out'.  Here I will define the core principles of Web 2.0 that have been identified already.
 
-**** Openness
+**** Collaboration (Miller)
+
+There is a massive emphasis on collaboration at many levels in Web 2.0 (O'Reilly).  
+
+At the developer/vendor level, there is in emphasis on the use of open tools and technologies to promote the maximum amount of interoperability possible without literal reproduction of services (Miller).  For example, the social bookmarking site Delicious.com allows anyone to access their data stream for any purpose (with the exception that you are not to create a search engine using it).  This could be as simple as including your latest delicious bookmarks on the homepage of your blog or as complex as designing a popular tag portal that includes advertisements based on the most popular tags clicked.  The point is, Delicious.com opens up their data rather than creating a proprietary model that attempts to lock out other services.  
+
+At the customer level, there is a new push for user generated content.  O'Reilly calls this the page to rich user experience shift (Miller).  Another way to put this would be for a shift from one-way delivery of content to two-way production participation (Miller).   A key feature of Web 1.0 was that the customer was seen primarily as a consumer of content rather than a participant in its creation.  So even if you had a dynamically created page with a database back-end etc., you would still be in control of all of the variables in order to create the user experience you desired.  Then, customers would use your service if they liked what you did or they would not.  In Web 2.0, you let the user have a great degree of effect on their own experience with your service.
+
+O'Reilly gives an example of this at the time his paper was written: Barnes and Noble vs. Amazon.  Barnes and Noble does not offer less books than Amazon and it's less or more well known, but Amazon consistently out sells Barnes and Noble through their online store.  O'Reilly believes that this is because Amazon specifically encourages user participation in the form of product reviews, wish lists, product recommendation lists (viewable by the public), and not the least of which the use of their opinion to form search results.  Whereas a search at Barnes and Noble often "lead[s] with the company's own products, or sponsored results, Amazon always leads with "most popular", a real-time computation based not only on sales but other factors that Amazon insiders call the "flow" around products" (O'Reilly).
+
+**** Openness (Miller)
+
+
 
 **** Folksonomy
 
-*** Social Software
+**** Mashup Software (Miller)
 
-**** Bookmarking
+*** Specific Applications
 
-**** Blogging
+**** Social Software
 
-*** Google Gears
+***** Bookmarking
+
+***** Blogging
+
+**** Medical 
+
+**** Libraries
 
 [[write]]
 
