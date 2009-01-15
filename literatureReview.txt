@@ -133,7 +133,7 @@ There are two business domains that have taken a special interest in Web 2.0 as 
 
 **** Libraries
 
-Paul Miller discusses how Web 2.0 philosophies can be applied in the Library community in his Ariadne article.  
+Paul Miller discusses how Web 2.0 philosophies can be applied in the Library community in his Ariadne article.  The core of the argument is that instead of fearing the inherent openness and collaboritive nature of the Web 2.0 philosophy, Libraries and Librarians should instead embrace these philosohpies to help their customer and each other much more effectively.  Libraries are already uniquely positioned with highly specialized and unique data sources that until now have been controlled completely by them.  To start, Miller proposes an effort to at least build collaboration between Libraries (an effort which has already begun to take shape in our day with services such as that offered by SirsiDynix for a global library catalog).  This would be more along the lines of business to business collaboration, but would begin to help Libraries behave in a more Web 2.0 way.  Finally, he makes the suggestion that while building inter-library collaboration is a good start, Libraries need to utilize every applicable service to make their incredible wealth of data easily available to the customer.
 
 ** Ultra-Mobile PCs / Netbooks / Smart-Phones
 
