@@ -131,11 +131,7 @@ There are two business domains that have taken a special interest in Web 2.0 as 
 
 **** Medical 
 
-***** Blogs
-
-***** RSS
-
-***** Medical Wikipedia
+Dean Giustini discusses how changes brought about by Web 2.0 could be utilized to greatly change the way the Medical community serves its customers in his editorial in the BMJ.  He envisions blogs as a way to help the medical community skim through the massive volumes of information published by their colleagues in a focused way.  Citing one especially notable blog, Clinical Cases and Images, he notes that not only is it a way to get a lot of information cleanly and easily, but it also allows for the medical community to engage with the information instantaneously.  The prominent Web 2.0 technology RSS is also noted as a way for the medical community to engage with information in a simple and organized fashion.  Finally, he notes that a true success would be accomplished if the medical community would embrace a wiki technology and engage with one another in the building up of medical knowledge that is accessible to all.  This would be a massive shift in the attitude of the medical community which today is focused on secrecy more than collaboration.  However, he feels that a wiki edited and controlled by the experts of the field could possibly "create optimal knowledge build opportunities for doctors."
 
 **** Libraries
 
