@@ -116,6 +116,18 @@ This is an article describing CPI's (a subsidiary of LG Chemical) research regar
 
 This article will be used in the brief discussion of cathode-anode developments in the battery research section of my paper.
 
+Nam, K. T., Kim, D., Yoo, P., Chiang, C., Meethong, N., Hammond, P., Chiang, Y., Belcher, A. (2006). Virus-Enabled Synthesis and Assembly of Nanowires for Lithium Ion Battery Electrodes. Science, 312(5775), 885-8.
+
+Article published to announce the new method developed at MIT to produce nano-sized wires using viruses.  
+
+Stanford University (2007, December 20). New Nanowire Battery Holds 10 Times The Charge Of Existing Ones. ScienceDaily. Retrieved January 13, 2009, from http://www.sciencedaily.com /releases/2007/12/071219103105.htm
+
+Documents the successful creation of a nano-wire battery by scientists at Stanford University.  They claim that the battery has 10 times the energy density of today's Lithium-Ion batteries, which is a very significant improvement.
+
+Ellis, B. l., Makahnouk, W. R. M., Makimura, Y., Toghill, K., Nazar, L. F. (2007). A multifunctional 3.5V iron-based phosphate cathode for rechargeable batteries.  Nature Materials, 6(10), 749-753.
+
+Paper documenting the development of a new cathode material to replace LiFePO4, A2FePO4F.  It boasts longer life expectancy and higher energy density than the traditional cathode.
+
 * Time-sharing and Client/Server
 
 Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
