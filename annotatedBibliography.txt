@@ -168,7 +168,7 @@ Lohr, Steve (2007). Google and I.B.M. Join in ‘Cloud Computing’ Research. NY
 
 Lohr's article on the new initiative being taken up by Google and IBM in late 2007 is an interesting overview of Cloud Computing in an academic environment.  It does not provide scholarly research into the topic and thus could not be used in any authoritative way in the final research paper.  However, it does provide interesting commentary from academics about how Cloud Computing is shaping up in the future.
 
-Reiss, Spencer. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
+Reiss, S. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
 
 This article covers the evolution of Amazon's cloud computing service, Amazon Web Services.  It goes through the business model being used, a brief overview of the history of computing as a utility, and the different companies that are beginning to compete in the market like IBM, Google, and Microsoft.
 
