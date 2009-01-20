@@ -170,7 +170,7 @@ Lohr's article on the new initiative being taken up by Google and IBM in late 20
 
 Reiss, Spencer. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
 
-[[annotate]]
+This article covers the evolution of Amazon's cloud computing service, Amazon Web Services.  It goes through the business model being used, a brief overview of the history of computing as a utility, and the different companies that are beginning to compete in the market like IBM, Google, and Microsoft.
 
 Peterson, Robyn (2008). What You Need To Know About Cloud Computing. PC Magazine. Retrieved 19 September, 2008, from http://www.pcmag.com/print_article2/0,1217,a%253D231900,00.asp
 
