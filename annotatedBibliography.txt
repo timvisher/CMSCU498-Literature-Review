@@ -183,3 +183,7 @@ Yahoo's page documenting their Cloud Computing offerings.
 Baker, S. (2007). Google and the Wisdom of Clouds. Retrieved 13 January, 2009, from http://www.businessweek.com/print/magazine/content/07_52/b4064048925836.htm.
 
 This article documents Christophe Bisiglia's development of Google's cloud services, from their start as Google 101 to today's offerings as a tool for researchers and industries the world over.
+
+McDougall, P. (2007). Google Targets Microsoft With Launch Of Business Applications. Retrieved 13 January, 2009, from http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
+
+This article covers the unveiling of the Google App Suite for Business (the 'Premiere' edition).  It mentions that the public version was funded by ads while the business model here will be ad free but subscription based.
