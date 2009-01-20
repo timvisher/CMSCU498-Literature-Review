@@ -63,7 +63,7 @@ Cloud Computing has its roots in the Time-Sharing Computer Utility model that tr
 
 *** Application
 
-Today, Amazon (Spencer) and many others such as Yahoo (Yahoo), Google (Baker), and Microsoft [citation] are beginning to offer Cloud Computers under various guises.  Google, for instance, offers many software services for free (such as a Mail Client, a Document editor, and a Spread Sheet editor) while they insert their ad service into them [citation].  Beyond just the cloud as a computer, there is a whole new breed of software termed Software as a Service (SAAS) which offers no install, enterprise grade, software services delivered via the cloud.  While this is not necessarily 'traditional' cloud computing, it does offload the hardware and software requirements for computer solutions to a central server and off of your local hardware installation.  
+Today, Amazon (Reiss) and many others such as Yahoo (Yahoo), Google (Baker), and Microsoft (Reiss) are beginning to offer Cloud Computers under various guises.  Google, for instance, offers many software services for free (such as a Mail Client, a Document editor, and a Spread Sheet editor) while they insert their ad service into them (McDougall).  Beyond just the cloud as a computer, there is a whole new breed of software termed Software as a Service (SAAS) which offers no install, enterprise grade, software services delivered via the cloud.  While this is not necessarily 'traditional' cloud computing, it does offload the hardware and software requirements for computer solutions to a central server and off of your local hardware installation.  
 
 ** Thin-Clients
 
