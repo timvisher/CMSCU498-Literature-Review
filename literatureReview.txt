@@ -5,9 +5,7 @@ Due Date: 8-1-09
 
 * Introduction
 
-- This section should present an explanation of the topic being researched. It should include the _purpose_ of the research, a _thesis or problem statement_ and explain _the relevance and significance_ of the problem being researched. This section should also include an _overview_ of the literature review. You should include a few subheadings under this section
 
-[[write]]
 
 * Relevant Technologies and Historical Developments
 
