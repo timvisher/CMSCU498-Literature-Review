@@ -61,7 +61,7 @@ Advances in Lithium-Ion Battery technology are primarily in 3 areas.  The first 
 
 *** Current Trends
 
-
+Currently, improvements to Lithium Ion technology specifically still deal primarily with the 3 main areas: better anode cathode structure, better materials for use as the anode or the cathode, and safer batteries able to tolerate higher variability in the operational environment.  A group at MIT claimed in 2006 to have developed a bio-technology whereby viruses are used to create nano-sized wires, obviously having a tremendous potential to greatly increase the capacity of Lithium Ion batteries (Nam).  In 2007, researchers at Stanford successfully created a battery using this technology that had 10 times the energy density of a conventional Lithium-Ion battery (Stanford).  Also, other groups are investigating other cathode materials such as A2FePO4F citing some of the inherent problems with olivine structures such as comparatively short theoretical life expectancies.  New cathode materials overcome this (Ellis).  These trends and others are enabling the battery life expectancy of electronic devices to increase greatly.
 
 ** Cloud Computing
 
