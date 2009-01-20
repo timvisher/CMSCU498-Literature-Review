@@ -111,8 +111,6 @@ To be Web 2.0, you must also pursue an aggressive release schedule which deliver
 
 *** Key Properties
 
--- TODO Incorporate Alexander's article into citations
-
 That being said, there are many key properties that have come to define Web 2.0.  Going back to O'Reilly, software vendors are judged on a continuum regarding their adherence to the general principles of Web 2.0 rather than being strictly 'in' or 'out'.  Here I will define the core principles of Web 2.0 that have been identified already.
 
 **** Collaboration
