@@ -68,7 +68,7 @@ This brief article covers Microsoft's May thin-client turnabout.  Previously, Mi
 
 This article should be marginally useful showing the business adoption of the Thin-Client model.
 
-Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. [[City]], [[State]]: Microsoft Press
+Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. Redmond, Washington: Microsoft Press
 
 The author here provides an in-depth overview of the thin-client computing model.  He covers what thin-client computing is, how it works, as well as several use cases for environments where thin-client computing is particularly applicable.  In the end, he makes a strong business case for moving to thin-client computing, as he shows that it significantly reduces TOC.  
 
