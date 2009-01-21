@@ -202,10 +202,6 @@ Yahoo's page documenting their Cloud Computing offerings.
 
 * Netbooks, Smart-Phones
 
-Best, J. (2006). Analysis: What is a smart phone?. Retrieved 14 January, 2009, from http://networks.silicon.com/mobile/0,39024665,39156391,00.htm.
-
-This article is an extensive discussion of what smartphones are.  
-
 AP. (2009). Netbooks power down for portability. Retrieved 20 January, 2009, from http://www.australianit.news.com.au/story/0,24897,24932480-5013037,00.html.
 
 This article offers a brief overview of the current offerings in the Netbook space, concluding that for at least the near future, Netbooks will be a significant player in the mobile computing market.
@@ -213,6 +209,10 @@ This article offers a brief overview of the current offerings in the Netbook spa
 Bergevin, P. (2008). Thoughts on Netbooks. Retreived 3 March, 2009, from http://blogs.intel.com/technology/2008/03/thoughts_on_netbooks.php.
 
 This is a blog entry by an executive at Intel that covers briefly what Netbooks are, why they are currently successful, and potential markets that they may be able to serve.
+
+Best, J. (2006). Analysis: What is a smart phone?. Retrieved 14 January, 2009, from http://networks.silicon.com/mobile/0,39024665,39156391,00.htm.
+
+This article is an extensive discussion of what smartphones are.  
 
 Copeland, M. (2008). Disruptors: The 'netbook' revolution. Fortune Magazine. Retrieved 15 January, 2009, from http://money.cnn.com/2008/10/13/technology/copeland_asus.fortune/index.htm.
 
