@@ -149,7 +149,17 @@ Paul Miller discusses how Web 2.0 philosophies can be applied in the Library com
 
 ** Ultra-Mobile PCs / Netbooks / Smartphones
 
-[[write]]
+*** Netbooks
+
+**** Not truly a new technology
+
+**** Focus on portability and Internet usage.
+
+*** Smartphones
+
+**** Merging phone service, PDA functionality, and open application ecosystems.
+
+**** Not a new technology, just smaller.
 
 ** Internet2 / Broadband
 
