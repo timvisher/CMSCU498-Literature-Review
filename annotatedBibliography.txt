@@ -4,9 +4,17 @@ Annotated Bibliography
 
 * Web 2.0
 
-O'Reilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
+Alexander, B. (2006). Web 2.0: New Wave of Innovation for Teaching and Learning?. EDUCAUSE Review, 41(2), 32-44
 
-O'Reilly's seminal paper on the advent of Web 2.0 technology and its distinguishing characteristics is recognized in the field as an authoritative work of definition and forethought in the area of Cloud Computing or software as a service.  This should be very useful to my research as it is well recognized and oft-cited by others.
+This author also starts out attempting to explain what Web 2.0 is.  He identifies several major themes, such as openness, collaboration, and folksonomies and uses them to draw the distinguishing line between Web 1.0 and Web 2.0.  The claim is that it is these ideas and attitudes that are the real game changers.  He then goes on to discuss the applicability of Web 2.0 in the context of higher learning institutions.  Of special interest to him seems to be the rich pedagogical possibilities inherent in these collaborative techonologies.  He highlights especially social bookmarking as a way to draw out important themes that the communities tagging those events hold.  Finally, the author spends some time outlining where he believes Web 2.0 is going, predicting that unlike the dot com bubble of the turn of the millenium, this trend is here to stay.
+
+This article eloquently summarizes thet spirit of Web 2.0 technology.  It should be useful regarding the discussion of the 'why' of Web 2.0 as well as its possible uses in the 'real world'.
+
+Barsky, E., Purdon, M. (2006). Introducing Web 2.0: social networking and social bookmarking for health librarians. JCHLA, 27(3), 65-7.
+
+The authors here provide a brief overview of what Web 2.0 is and what it is about.  They state that it is primarily about participation and information, rather than about commerce (as they claim Web 1.0 was typified by).  They focus specifally on two areas of Web 2.0 and how they pertain to Librarians in the Health Industry.  Social Networks (Facebook, MySpace, and the like), they claim, can be used to facilitate the sharing of information between both medical practicioners and clientelle.  The ability to quickly construct focussed micro-communities is key to this.  Also, they note Social Bookmarking services (Delicious, Furl) that have cropped up.  These services are commonly used to create folksonomies but can just as easily be used by professional librarians to create Internet guides for use by their clients.
+
+This article documents another way that the medical industry specifically is using Web 2.0 technologies as well as giving more language to what Web 2.0 is.  It should be useful both in documenting and describing Web 2.0 as well as showing how it is being used in professional fields.
 
 Giustini, D. (2006). How Web 2.0 is changing medicine: Is a medical Wikipedia the next step?. BMJ, 333(7582), 1283-4.
 
@@ -16,23 +24,15 @@ He documents one case of a blog that has been quite successful in the medical co
 
 This is an interesting editorial which does a good job not only of capturing the essence of what Web 2.0 is about, but also documenting how it is already beginning to change the medical community at large.  I will be using this in the Web 2.0 section of my literature review when talking about the use of the Web as Platform.
 
-Barsky, E., Purdon, M. (2006). Introducing Web 2.0: social networking and social bookmarking for health librarians. JCHLA, 27(3), 65-7.
-
-The authors here provide a brief overview of what Web 2.0 is and what it is about.  They state that it is primarily about participation and information, rather than about commerce (as they claim Web 1.0 was typified by).  They focus specifally on two areas of Web 2.0 and how they pertain to Librarians in the Health Industry.  Social Networks (Facebook, MySpace, and the like), they claim, can be used to facilitate the sharing of information between both medical practicioners and clientelle.  The ability to quickly construct focussed micro-communities is key to this.  Also, they note Social Bookmarking services (Delicious, Furl) that have cropped up.  These services are commonly used to create folksonomies but can just as easily be used by professional librarians to create Internet guides for use by their clients.
-
-This article documents another way that the medical industry specifically is using Web 2.0 technologies as well as giving more language to what Web 2.0 is.  It should be useful both in documenting and describing Web 2.0 as well as showing how it is being used in professional fields.
-
 Miller, P. (2005). Web 2.0: Building the New Library. Ariadne. 45. Retrieved 15 December, 2008 from http://www.ariadne.ac.uk/issue45/miller/
 
 The author here outlines in great detail the core values and principles of Web 2.0.  Afterwards, he briefly discusses the applicability of this new paradigm in the context of libraries.  
 
 The core values that the author enumerates are really quite detailed and good.  When I'm defining Web 2.0, this article should be very useful.
 
-Alexander, B. (2006). Web 2.0: New Wave of Innovation for Teaching and Learning?. EDUCAUSE Review, 41(2), 32-44
+O'Reilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
 
-This author also starts out attempting to explain what Web 2.0 is.  He identifies several major themes, such as openness, collaboration, and folksonomies and uses them to draw the distinguishing line between Web 1.0 and Web 2.0.  The claim is that it is these ideas and attitudes that are the real game changers.  He then goes on to discuss the applicability of Web 2.0 in the context of higher learning institutions.  Of special interest to him seems to be the rich pedagogical possibilities inherent in these collaborative techonologies.  He highlights especially social bookmarking as a way to draw out important themes that the communities tagging those events hold.  Finally, the author spends some time outlining where he believes Web 2.0 is going, predicting that unlike the dot com bubble of the turn of the millenium, this trend is here to stay.
-
-This article eloquently summarizes thet spirit of Web 2.0 technology.  It should be useful regarding the discussion of the 'why' of Web 2.0 as well as its possible uses in the 'real world'.
+O'Reilly's seminal paper on the advent of Web 2.0 technology and its distinguishing characteristics is recognized in the field as an authoritative work of definition and forethought in the area of Cloud Computing or software as a service.  This should be very useful to my research as it is well recognized and oft-cited by others.
 
 * Thin Client Architecture
 
