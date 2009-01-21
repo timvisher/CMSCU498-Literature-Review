@@ -152,17 +152,15 @@ This document is the original description of the first Unix system implementatio
 
 * Cloud Computing
 
-Hayes, B. (2008). Cloud Computing. Communications of the ACM, 51(7), 9-11.
-
-In this article, the author attempts to document the current trends in Cloud Computing by first describing what it is, a movement of the locus of computation from the desktop to the 'compute cloud', or the Internet. The author moves on to briefly analyze it's similarity to the Time-Sharing model of ~50 years ago which was the successor to the mainframe model that had been the norm since the invention of the computer; a hub-and-spoke model which bears remarkable similarity to the Cloud Computing model. Finally, the author notes 4 specific trends (Cloud Office Suites, Enterprise Systems, Extreme Data Infrastructure, Cloud OSes which focus on delivering the familiar OS environment via the Internet instead of just through the browser) in an effort to help predict possible directions that Cloud Computing might go. The author wraps up with a discussion of some of the major challenges facing efforts to encourage Cloud Computing: Scalability, the need to master multiple technologies, business models, and ensuring privacy and security.
-
-I would like to use this article to help make the connection between the Time-Sharing, Computing-as-utility model that preceded the PC and today's Cloud Computing, as well as to help define Cloud Computing. Beyond this, the article really only provides conjectures and is not concerned with hard-proofs of any given concept, just in the reality of the shift to Cloud Computing that is happening currently. It does not cite many sources, nor does it appear to be aimed at academia. However, it is from a reputable, peer-reviewed journal and so should be dependable enough.
-
 Astley, M., & Bhola, S., & Ward, M. J., & Shagin, K., & Paz, H., & Gershinsky, C. (2008). Pulsar: A resource-control architecture for time-critical service-oriented applications. IBM Systems Journal, 47(2), 265-280.
 
 This article presents a system which is meant to ensure latency targets are met for a given cloud system. It is intended as a support technology for something that its authors saw as a critical deficiency in today's technologies which is that there is currently no way to specify latency targets and ensure that they are met. This is seen as a critical error especially in the area of Real Time Systems which need to provide verifiable performance before they are adopted. They present the case for the need of such a system, the model under which they developed their system, and a case-study which they use to help evaluate the effectiveness of Pulsar.
 
 My intentions for the use of this article are simply to utilize their information on the needs of the server-side hardware that they provide to extrapolate information about how powerful the specifications for the client-hardware would need to be. Other than that, most of the information is not all that useful to me. My topic does not touch on the application programming models they address nor the actual solution they are attempting to provide. This article is really only minimally useful.
+
+Baker, S. (2007). Google and the Wisdom of Clouds. Retrieved 13 January, 2009, from http://www.businessweek.com/print/magazine/content/07_52/b4064048925836.htm.
+
+This article documents Christophe Bisiglia's development of Google's cloud services, from their start as Google 101 to today's offerings as a tool for researchers and industries the world over.
 
 Bleicher, P. (2006). Solutions Delivered, Not Installed. Applied Clinical Trials, 15(6), 41-44.
 
@@ -176,29 +174,31 @@ The author enumerates many of the different ways that software can be be bought 
 
 The author has done a decent job of briefly covering different software ownership models and does enumerate some of the savings associated with going with an on-demand model for their software solutions. Again, this is only minimally useful as a technical reference for what client-hardware configurations need to be, but at the same time it does provide an interesting business perspective on Cloud Computing and on the other models of business software purchasing.
 
+Hayes, B. (2008). Cloud Computing. Communications of the ACM, 51(7), 9-11.
+
+In this article, the author attempts to document the current trends in Cloud Computing by first describing what it is, a movement of the locus of computation from the desktop to the 'compute cloud', or the Internet. The author moves on to briefly analyze it's similarity to the Time-Sharing model of ~50 years ago which was the successor to the mainframe model that had been the norm since the invention of the computer; a hub-and-spoke model which bears remarkable similarity to the Cloud Computing model. Finally, the author notes 4 specific trends (Cloud Office Suites, Enterprise Systems, Extreme Data Infrastructure, Cloud OSes which focus on delivering the familiar OS environment via the Internet instead of just through the browser) in an effort to help predict possible directions that Cloud Computing might go. The author wraps up with a discussion of some of the major challenges facing efforts to encourage Cloud Computing: Scalability, the need to master multiple technologies, business models, and ensuring privacy and security.
+
+I would like to use this article to help make the connection between the Time-Sharing, Computing-as-utility model that preceded the PC and today's Cloud Computing, as well as to help define Cloud Computing. Beyond this, the article really only provides conjectures and is not concerned with hard-proofs of any given concept, just in the reality of the shift to Cloud Computing that is happening currently. It does not cite many sources, nor does it appear to be aimed at academia. However, it is from a reputable, peer-reviewed journal and so should be dependable enough.
+
 Lohr, Steve (2007). Google and I.B.M. Join in ‘Cloud Computing’ Research. NY Times. Retrieved 19 September, 2008, from http://www.nytimes.com/2007/10/08/technology/08cloud.html?_r=1&ex=1349582400&en=92a8c77c354521ba&ei=5088&partner=rssnyt&emc=rss&oref=slogin
 
 Lohr's article on the new initiative being taken up by Google and IBM in late 2007 is an interesting overview of Cloud Computing in an academic environment.  It does not provide scholarly research into the topic and thus could not be used in any authoritative way in the final research paper.  However, it does provide interesting commentary from academics about how Cloud Computing is shaping up in the future.
 
-Reiss, S. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
+McDougall, P. (2007). Google Targets Microsoft With Launch Of Business Applications. Retrieved 13 January, 2009, from http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
 
-This article covers the evolution of Amazon's cloud computing service, Amazon Web Services.  It goes through the business model being used, a brief overview of the history of computing as a utility, and the different companies that are beginning to compete in the market like IBM, Google, and Microsoft.
+This article covers the unveiling of the Google App Suite for Business (the 'Premiere' edition).  It mentions that the public version was funded by ads while the business model here will be ad free but subscription based.
 
 Peterson, Robyn (2008). What You Need To Know About Cloud Computing. PC Magazine. Retrieved 19 September, 2008, from http://www.pcmag.com/print_article2/0,1217,a%253D231900,00.asp
 
 This article provides a great overview of Cloud Computing and its current use in industry.  However, since it is not peer reviewed it will not be a great source alone in my final research paper.  However, with other supporting content, it should be nice to have.
 
+Reiss, S. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
+
+This article covers the evolution of Amazon's cloud computing service, Amazon Web Services.  It goes through the business model being used, a brief overview of the history of computing as a utility, and the different companies that are beginning to compete in the market like IBM, Google, and Microsoft.
+
 Yahoo (2009). Cloud Computing. Retrieved 12 January, 2009, from http://research.yahoo.com/Cloud_Computing.
 
 Yahoo's page documenting their Cloud Computing offerings.
-
-Baker, S. (2007). Google and the Wisdom of Clouds. Retrieved 13 January, 2009, from http://www.businessweek.com/print/magazine/content/07_52/b4064048925836.htm.
-
-This article documents Christophe Bisiglia's development of Google's cloud services, from their start as Google 101 to today's offerings as a tool for researchers and industries the world over.
-
-McDougall, P. (2007). Google Targets Microsoft With Launch Of Business Applications. Retrieved 13 January, 2009, from http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
-
-This article covers the unveiling of the Google App Suite for Business (the 'Premiere' edition).  It mentions that the public version was funded by ads while the business model here will be ad free but subscription based.
 
 * Netbooks, Smart-Phones
 
