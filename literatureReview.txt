@@ -55,7 +55,7 @@ Simply put, the corporations working so hard to deliver computer-as-utility coul
 
 *** Definition
 
-Thin-Clients are, in short, computing systems that consist of a server which runs all logic and processing requirements of an application and a Client which displays the output only from the remote server of a Remote Display Protocol (RDP) (Lai).  An advantage of thin-client architecture for doing remote computing is that most applications can be run as they are, without any rewrite to take advantage of a remote protocol, because the display protocol is implemented at a lower level in the OS Hierarchy than the applications execute (Schmidt).  Thus, instead of a sending the display information to a local monitor, you instruct the OS to send its display information instead over the network to a client that has requested that you send said information to it.  Anyone with network access can request to utilize the computing resources of a central server that has implemented the server protocol of the thin-client and from anywhere at any time remotely access their session as if they were sitting at the machine.  
+Thin-Clients are, in short, computing systems that consist of a server which runs all logic and processing requirements of an application and a Client which displays the output only from the remote server of a Remote Display Protocol (RDP) (Lai, Nieh).  An advantage of thin-client architecture for doing remote computing is that most applications can be run as they are, without any rewrite to take advantage of a remote protocol, because the display protocol is implemented at a lower level in the OS Hierarchy than the applications execute (Schmidt).  Thus, instead of a sending the display information to a local monitor, you instruct the OS to send its display information instead over the network to a client that has requested that you send said information to it.  Anyone with network access can request to utilize the computing resources of a central server that has implemented the server protocol of the thin-client and from anywhere at any time remotely access their session as if they were sitting at the machine.  
 
 In the pure sense of the word, a simple text-only protocol such as telnet or ssh is a thin-client system.  They leave the processing and computing responsibility up to the server and simply request that the text be sent back to them rather than displayed on the server's local interface.  This worked for a large number of applications for a number of years but is no longer sufficient in today's GUI environment.  However, the concept still holds constant: Transport remote input to the server over the network, execute logic, transfer display back to the client over the network.  Also, any system today can behave as a thin-client.  For instance, any laptop running an Apple, Microsoft, or Linux OS has VNC clients and servers written for them.  However, in the sense that we are concerned with, only a computer that is nothing but a dumb terminal is interesting.  These clients can be configured to address a remote server over the network but apart from the access to the server, they can do nothing.  All they do is implement the client protocol so that they can display the information being sent to them.
 
@@ -65,7 +65,7 @@ A clear advantage cited by many as an important reason to utilize thin-client co
 
 So far, thin-client systems have primarily penetrated in the medical, banking, education, government, and sales industries. Still, they only account for less than 1% of the total market share.  However, experts believe that trends indicate that they will rapidly grow in market share, especially in the Enterprise market. (Tynan)  
 
-Current pushes in research are focused mainly on figuring out how to get thin-clients to work well over wide-area networks such as the Internet and Internet2.  In order to do this, researchers are attempting to understand what the performance bottlenecks are and how they can be overcome.  The designers of the SLIM protocol, which is a Sun product, believe that the bottleneck exists mainly in requiring too much communication between the client and the server; rather than keeping the client completely dumb, most thin-client systems try to keep a foot in both worlds, requiring some state to be maintained by the client and some by the server, which occasionally requires multiple round trips to the server in order to accomplish simple operations (Lai). (Schmidt)  By design, Microsoft appears to believe that the bottle neck is bandwidth (Lai).  Lai and Nieh of Colombia University indicate that the real performance hindrance is network latency and choice of lower order display primitives or application level programming interfaces (2007).  
+Current pushes in research are focused mainly on figuring out how to get thin-clients to work well over wide-area networks such as the Internet and Internet2.  In order to do this, researchers are attempting to understand what the performance bottlenecks are and how they can be overcome.  The designers of the SLIM protocol, which is a Sun product, believe that the bottleneck exists mainly in requiring too much communication between the client and the server; rather than keeping the client completely dumb, most thin-client systems try to keep a foot in both worlds, requiring some state to be maintained by the client and some by the server, which occasionally requires multiple round trips to the server in order to accomplish simple operations (Lai, Nieh). (Schmidt)  By design, Microsoft appears to believe that the bottle neck is bandwidth (Lai, Nieh).  Lai and Nieh of Colombia University indicate that the real performance hindrance is network latency and choice of lower order display primitives or application level programming interfaces.  
 
 *** Relevance
 
@@ -167,7 +167,45 @@ The long and short of it is that today's computers that are designed for basic u
 
 * References
 
-- Every citation must have a reference in and every reference in this section is cited in your paper.
+Alexander, B. (2006). Web 2.0: New Wave of Innovation for Teaching and Learning?. EDUCAUSE Review, 41(2), 32-44
 
-[[write]]
+AP. (2009). Netbooks power down for portability. Retrieved 20 January, 2009, from http://www.australianit.news.com.au/story/0,24897,24932480-5013037,00.html.
+
+Baker, S. (2007). Google and the Wisdom of Clouds. Retrieved 13 January, 2009, from http://www.businessweek.com/print/magazine/content/07_52/b4064048925836.htm.
+
+Bergevin, P. (2008). Thoughts on Netbooks. Retreived 3 March, 2009, from http://blogs.intel.com/technology/2008/03/thoughts_on_netbooks.php.
+
+Bleicher, P. (2006). Solutions Delivered, Not Installed. Applied Clinical Trials, 15(6), 41-44.
+
+Campbell-Kelly, M., & Aspray, W. (2004). Computer: A History of the Information Machine. Boulder, CO: Westview Press.
+
+Copeland, M. (2008). Disruptors: The 'netbook' revolution. Fortune Magazine. Retrieved 15 January, 2009, from http://money.cnn.com/2008/10/13/technology/copeland_asus.fortune/index.htm.
+
+Ellis, B. l., Makahnouk, W. R. M., Makimura, Y., Toghill, K., Nazar, L. F. (2007). A multifunctional 3.5V iron-based phosphate cathode for rechargeable batteries.  Nature Materials, 6(10), 749-753.
+
+Idota, Y., Kubota, T., Matsufuji, A., Maekawa, Y., Miyasaka, T. (1997). Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage Material. Science Magazine, 276(5317), 1395-7.
+
+Lai, A., Nieh, J. (2002) Limits of Wide-Area Thin-Client Computing. Proceedings of the ACM Sigmetrics, 30(1), 228-239.
+
+Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
+
+McDougall, P. (2007). Google Targets Microsoft With Launch Of Business Applications. Retrieved 13 January, 2009, from http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
+
+Miller, P. (2005). Web 2.0: Building the New Library. Ariadne. 45. Retrieved 15 December, 2008 from http://www.ariadne.ac.uk/issue45/miller/
+
+Nam, K. T., Kim, D., Yoo, P., Chiang, C., Meethong, N., Hammond, P., Chiang, Y., Belcher, A. (2006). Virus-Enabled Synthesis and Assembly of Nanowires for Lithium Ion Battery Electrodes. Science, 312(5775), 885-8.
+
+O'Reilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
+
+Reiss, S. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
+
+Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office: http://v3.espacenet.com/publicationDetails/biblio?CC=US&NR=4304825A&KC=A&FT=D&date=19811208
+
+Schmidt, B. K., Lam, M. S., Northcutt, J. D. (1999). The interactive performance of SLIM: a stateless, thin-client architecture. Operating Systems Review, 34(5), 32-47.
+
+Stanford University (2007, December 20). New Nanowire Battery Holds 10 Times The Charge Of Existing Ones. ScienceDaily. Retrieved January 13, 2009, from http://www.sciencedaily.com /releases/2007/12/071219103105.htm
+
+Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
+
+Yahoo (2009). Cloud Computing. Retrieved 12 January, 2009, from http://research.yahoo.com/Cloud_Computing.
 
