@@ -199,3 +199,6 @@ This article documents Christophe Bisiglia's development of Google's cloud servi
 McDougall, P. (2007). Google Targets Microsoft With Launch Of Business Applications. Retrieved 13 January, 2009, from http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
 
 This article covers the unveiling of the Google App Suite for Business (the 'Premiere' edition).  It mentions that the public version was funded by ads while the business model here will be ad free but subscription based.
+
+* Netbooks, Smart-Phones, and Ultra-Mobile PCs.
+
