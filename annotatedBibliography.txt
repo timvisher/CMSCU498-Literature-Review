@@ -88,45 +88,45 @@ This is truly an excellent article which should be very useful in documenting ho
 
 * Battery Research
 
-Hp. (2008). Hp Breaks the 24-Hour Battery Life Barrier. Retrieved November 7, 2008, from http://www.hp.com/sbso/solutions/pc_expertise/battery/?jumpid=em_di_426632_US_US_0_000&diaid=di_hpc_us_720035_US&dimid=1002814586&dicid=taw_Nov08&mrm=1-4BVUP
-
-This news item from HP outlines their new Ultra Capacity Lithium Ion Battery which they claim can get up to 24 hours of life out of a single charge with very specific configuration options.  
-
-This article should only be marginally useful as it merely outlines the use of the current battery technology to make today's mobile hardware designs last longer.
-
-Goodenough, J. B., Padhi, A., Nanjundaswamy, K. S., Masquelier, C. (1997). European Patent No. 20040022447. Free Patents Online: http://www.freepatentsonline.com/EP1501137A2.html
-
-This documents the patent filed by Goodenough et al regarding the development of LiFePO4 as a Cathode material.  This is one of the materials being used in today's Lithium Ion batteries.  
-
-Idota, Y., Kubota, T., Matsufuji, A., Maekawa, Y., Miyasaka, T. (1997). Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage Material. Science Magazine, 276(5317), 1395-7.
-
-This article documents the development of a new lithium-ion storage material that has a higher capacity due to its chemical structure.
-
-Whittingham, M. S. (1976). Electrical Energy Storage and Intercalation Chemistry. Science Magazine, 192, 1126-1127.
-
-This is Whittingham's publishing of his discovery of the use of Lithium-Ion technology in rechargeable power sources.  It will be used to provide a reference for the history section of the battery research.
-
-Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office: http://v3.espacenet.com/publicationDetails/biblio?CC=US&NR=4304825A&KC=A&FT=D&date=19811208
-
-This is the patent filed by Bell Labs regarding the development of the Graphite anode and Titanium Sulfide as the cathode.  It was the first patent of a feasible lithium-ion battery because it used Graphite rather than Lithium Metal as the anode.  Using Lithium Metal as the anode yields a highly unstable and dangerous battery.  I plan to use this as a reference in the battery section of my paper describing the different battery technology developments.
-
 Brooke, L. (2006, October). CPI takes new direction on Li-ion batteries. Automotive Engineering International, 16-17.
 
 This is an article describing CPI's (a subsidiary of LG Chemical) research regarding Lithium-Ion secondary battery technology for use in Hybrid Electric Vehicles.  The key fact here is the use of a manganese cathode instead of the more traditional LiCoO2 cathode.  The use of this material allows them to utilize a revolutionary electrode configuration they call the 'stack and fold' design.  This design allows them to increase the overall calendar life of the battery, improve on the safety of the technology, and achive greater energy density and output.  
 
 This article will be used in the brief discussion of cathode-anode developments in the battery research section of my paper.
 
+Ellis, B. l., Makahnouk, W. R. M., Makimura, Y., Toghill, K., Nazar, L. F. (2007). A multifunctional 3.5V iron-based phosphate cathode for rechargeable batteries.  Nature Materials, 6(10), 749-753.
+
+Paper documenting the development of a new cathode material to replace LiFePO4, A2FePO4F.  It boasts longer life expectancy and higher energy density than the traditional cathode.
+
+Goodenough, J. B., Padhi, A., Nanjundaswamy, K. S., Masquelier, C. (1997). European Patent No. 20040022447. Free Patents Online: http://www.freepatentsonline.com/EP1501137A2.html
+
+This documents the patent filed by Goodenough et al regarding the development of LiFePO4 as a Cathode material.  This is one of the materials being used in today's Lithium Ion batteries.  
+
+Hp. (2008). Hp Breaks the 24-Hour Battery Life Barrier. Retrieved November 7, 2008, from http://www.hp.com/sbso/solutions/pc_expertise/battery/?jumpid=em_di_426632_US_US_0_000&diaid=di_hpc_us_720035_US&dimid=1002814586&dicid=taw_Nov08&mrm=1-4BVUP
+
+This news item from HP outlines their new Ultra Capacity Lithium Ion Battery which they claim can get up to 24 hours of life out of a single charge with very specific configuration options.  
+
+This article should only be marginally useful as it merely outlines the use of the current battery technology to make today's mobile hardware designs last longer.
+
+Idota, Y., Kubota, T., Matsufuji, A., Maekawa, Y., Miyasaka, T. (1997). Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage Material. Science Magazine, 276(5317), 1395-7.
+
+This article documents the development of a new lithium-ion storage material that has a higher capacity due to its chemical structure.
+
 Nam, K. T., Kim, D., Yoo, P., Chiang, C., Meethong, N., Hammond, P., Chiang, Y., Belcher, A. (2006). Virus-Enabled Synthesis and Assembly of Nanowires for Lithium Ion Battery Electrodes. Science, 312(5775), 885-8.
 
 Article published to announce the new method developed at MIT to produce nano-sized wires using viruses.  
+
+Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office: http://v3.espacenet.com/publicationDetails/biblio?CC=US&NR=4304825A&KC=A&FT=D&date=19811208
+
+This is the patent filed by Bell Labs regarding the development of the Graphite anode and Titanium Sulfide as the cathode.  It was the first patent of a feasible lithium-ion battery because it used Graphite rather than Lithium Metal as the anode.  Using Lithium Metal as the anode yields a highly unstable and dangerous battery.  I plan to use this as a reference in the battery section of my paper describing the different battery technology developments.
 
 Stanford University (2007, December 20). New Nanowire Battery Holds 10 Times The Charge Of Existing Ones. ScienceDaily. Retrieved January 13, 2009, from http://www.sciencedaily.com /releases/2007/12/071219103105.htm
 
 Documents the successful creation of a nano-wire battery by scientists at Stanford University.  They claim that the battery has 10 times the energy density of today's Lithium-Ion batteries, which is a very significant improvement.
 
-Ellis, B. l., Makahnouk, W. R. M., Makimura, Y., Toghill, K., Nazar, L. F. (2007). A multifunctional 3.5V iron-based phosphate cathode for rechargeable batteries.  Nature Materials, 6(10), 749-753.
+Whittingham, M. S. (1976). Electrical Energy Storage and Intercalation Chemistry. Science Magazine, 192, 1126-1127.
 
-Paper documenting the development of a new cathode material to replace LiFePO4, A2FePO4F.  It boasts longer life expectancy and higher energy density than the traditional cathode.
+This is Whittingham's publishing of his discovery of the use of Lithium-Ion technology in rechargeable power sources.  It will be used to provide a reference for the history section of the battery research.
 
 * Time-sharing and Client/Server
 
