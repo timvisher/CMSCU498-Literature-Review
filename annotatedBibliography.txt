@@ -36,43 +36,17 @@ O'Reilly's seminal paper on the advent of Web 2.0 technology and its distinguish
 
 * Thin Client Architecture
 
-Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
+Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. Redmond, Washington: Microsoft Press
 
-The author here does an excellent job documenting the uses of Thin Client hardware to greatly simplify IT support and provide tremendous functionality to many different niche industries such as the Medical Industry. It is primarily concerned with desktop thin clients, however it is very interesting that it strongly projects the development of a mobile thin client in the near future that will quickly become the most common computing device in the world. It covers the balance between power and utility that must be struck in a thin client.
+The author here provides an in-depth overview of the thin-client computing model.  He covers what thin-client computing is, how it works, as well as several use cases for environments where thin-client computing is particularly applicable.  In the end, he makes a strong business case for moving to thin-client computing, as he shows that it significantly reduces TOC.  
 
-This is truly an excellent article which should be very useful in documenting how desktop thin clients are currently being used. It doesn't go into great technical detail as to how they are designed, but does give the business reasons for their uses. It has an inset about extending the thin client model to a mobile environment, which should be useful in my efforts to document the necessary configuration of a mobile thin-client.
-
-Schmidt, B. K., Lam, M. S., Northcutt, J. D. (1999). The interactive performance of SLIM: a stateless, thin-client architecture. Operating Systems Review, 34(5), 32-47.
-
-The authors here collaborate with the product development team from Sun that developed the Sun Ray(tm) 1 to evaluate the performance of SLIM architecture products using a newly developed system interaction testing methodology.  The methodology is actually newly developed because not much testing has been done in this space before.  They found that utilizing SLIM architecture, they were able to get performance out of SLIM consoles that was indistinguishable from more traditional Desktop PCs.  
-
-They go on to describe SLIM architecture, which consists of: an Interconnection Fabric which does not have to be high end, the SLIM protocol which relies on sending only raw pixel values to the console, thus reducing the need for any computational power at all on the client, and SLIM Servers which simply multiplex out the Output and multiplex in the Input for SLIM clients to a machine running any number of OSes, thus removing the need to implement special Network Display protocols such as X or ICA.  
-
-The authors go into great detail describing their testing methodologies, their classification of different user profiles, and then their results.  They conclude that utilizing SLIM architecture is well within the performance limits of today's common networks.  They key is in their use of a low level protocol that requires only encoded information about pixels to be sent over the network, allowing all processing to be done on the server and reducing the intelligence requirement of the client to nothing more than a frame buffer.
-
-This article is useful mainly because it goes into great detail about what makes thin clients usable and the limitations on what you can expect a client to do in such situations.  This is applicable because my eventual goal is to attempt to design a prototype system that is built to take advantage of ubiquitous broadband Internet access and Cloud Computing services.
-
-Richardson, T., Stafford-Fraser, Q., Wood, K. R., Hopper, A. (1998). Virtual Network Computing. IEEE Internet Computing, 2(1), 33-38.
-
-This article presents a history of the VNC (virtual network computing) technology, which is a thin-client technology allowing people to utilize computer resources through a thin virtualized client to a machine that is serving it's interface data out.  It goes on to document at a high level the parts of the technology that make up VNC and roughly how it is implemented in order to get the performance that they do.  
-
-The main advantage of this model is that the customer can utilize the computing resources from anywhere without having to carry around any hardware.  Nothing at all is stored on the client side so everything, including the cursor position and all, remain intact between accessing sessions.  Also, because of the technology level at which VNC is implemented (the frame buffer), it works transparently on any system that has a GUI.
-
-Finally, the document, briefly, future work that they are hoping to do, including providing implementations for many more device types like Televisions.
-
-I found this article to be a very good overview of the technological reasons behind the design of VNC.  It should play very nicely in trying to see how an ultra-mobile netbook could be designed.
+This article should be useful on multiple levels.  First, it goes in depth into the technological challenges facing thin-client computing, which should be useful in attempting to design a netbook.  Secondly, he attempts to build a business case for using thin-client computing, which should be useful in showing where netbooks would be applicable business wise.
 
 Lai, E. (2007). Thin Client's Get Microsoft's Approval-For Some Users. Computer World, 41(15), 1,16.
 
 This brief article covers Microsoft's May thin-client turnabout.  Previously, Microsoft was anti thin-client uses of Windows, apparently due to licensing issues.  Now, however, they must have worked out their business model and they are ready to begin offering Thin Client licenses for Vista, but only or a substantially increased price.  
 
 This article should be marginally useful showing the business adoption of the Thin-Client model.
-
-Kanter, J. (1998) Understanding Thin-Client/Server Computing. Microsoft Strategic Technology Series. Redmond, Washington: Microsoft Press
-
-The author here provides an in-depth overview of the thin-client computing model.  He covers what thin-client computing is, how it works, as well as several use cases for environments where thin-client computing is particularly applicable.  In the end, he makes a strong business case for moving to thin-client computing, as he shows that it significantly reduces TOC.  
-
-This article should be useful on multiple levels.  First, it goes in depth into the technological challenges facing thin-client computing, which should be useful in attempting to design a netbook.  Secondly, he attempts to build a business case for using thin-client computing, which should be useful in showing where netbooks would be applicable business wise.
 
 Lai, A., Nieh, J. (2002) Limits of Wide-Area Thin-Client Computing. Proceedings of the ACM Sigmetrics, 30(1), 228-239.
 
@@ -85,6 +59,32 @@ The experimental set up consisted of a number of machines located on the two coa
 The article concludes that there is a large variety of performance among the popular thin-client offerings.  They offer suggestions about what can be done to maximize performance in a WAN context such as optimizing for latency rather than bandwidth (the opposite of what many systems are doing today).
 
 This article goes into a great amount of detail about what makes thin-client architecture tick.  It should be very useful in the design of thin-client systems and the enumeration of what technological advances would have to happen in order to make thin-client computing in a mobile environment tolerable and useful.  
+
+Richardson, T., Stafford-Fraser, Q., Wood, K. R., Hopper, A. (1998). Virtual Network Computing. IEEE Internet Computing, 2(1), 33-38.
+
+This article presents a history of the VNC (virtual network computing) technology, which is a thin-client technology allowing people to utilize computer resources through a thin virtualized client to a machine that is serving it's interface data out.  It goes on to document at a high level the parts of the technology that make up VNC and roughly how it is implemented in order to get the performance that they do.  
+
+The main advantage of this model is that the customer can utilize the computing resources from anywhere without having to carry around any hardware.  Nothing at all is stored on the client side so everything, including the cursor position and all, remain intact between accessing sessions.  Also, because of the technology level at which VNC is implemented (the frame buffer), it works transparently on any system that has a GUI.
+
+Finally, the document, briefly, future work that they are hoping to do, including providing implementations for many more device types like Televisions.
+
+I found this article to be a very good overview of the technological reasons behind the design of VNC.  It should play very nicely in trying to see how an ultra-mobile netbook could be designed.
+
+Schmidt, B. K., Lam, M. S., Northcutt, J. D. (1999). The interactive performance of SLIM: a stateless, thin-client architecture. Operating Systems Review, 34(5), 32-47.
+
+The authors here collaborate with the product development team from Sun that developed the Sun Ray(tm) 1 to evaluate the performance of SLIM architecture products using a newly developed system interaction testing methodology.  The methodology is actually newly developed because not much testing has been done in this space before.  They found that utilizing SLIM architecture, they were able to get performance out of SLIM consoles that was indistinguishable from more traditional Desktop PCs.  
+
+They go on to describe SLIM architecture, which consists of: an Interconnection Fabric which does not have to be high end, the SLIM protocol which relies on sending only raw pixel values to the console, thus reducing the need for any computational power at all on the client, and SLIM Servers which simply multiplex out the Output and multiplex in the Input for SLIM clients to a machine running any number of OSes, thus removing the need to implement special Network Display protocols such as X or ICA.  
+
+The authors go into great detail describing their testing methodologies, their classification of different user profiles, and then their results.  They conclude that utilizing SLIM architecture is well within the performance limits of today's common networks.  They key is in their use of a low level protocol that requires only encoded information about pixels to be sent over the network, allowing all processing to be done on the server and reducing the intelligence requirement of the client to nothing more than a frame buffer.
+
+This article is useful mainly because it goes into great detail about what makes thin clients usable and the limitations on what you can expect a client to do in such situations.  This is applicable because my eventual goal is to attempt to design a prototype system that is built to take advantage of ubiquitous broadband Internet access and Cloud Computing services.
+
+Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
+
+The author here does an excellent job documenting the uses of Thin Client hardware to greatly simplify IT support and provide tremendous functionality to many different niche industries such as the Medical Industry. It is primarily concerned with desktop thin clients, however it is very interesting that it strongly projects the development of a mobile thin client in the near future that will quickly become the most common computing device in the world. It covers the balance between power and utility that must be struck in a thin client.
+
+This is truly an excellent article which should be very useful in documenting how desktop thin clients are currently being used. It doesn't go into great technical detail as to how they are designed, but does give the business reasons for their uses. It has an inset about extending the thin client model to a mobile environment, which should be useful in my efforts to document the necessary configuration of a mobile thin-client.
 
 * Battery Research
 
