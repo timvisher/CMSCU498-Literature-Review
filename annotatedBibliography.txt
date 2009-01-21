@@ -130,25 +130,25 @@ This is Whittingham's publishing of his discovery of the use of Lithium-Ion tech
 
 * Time-sharing and Client/Server
 
-Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
-
-The author in this book attempts to document the 'other' side of the computer revolution, which was the Hacker culture that developed at MIT and went on through loose organizations like the Home Brew Computer Club etc. to help the PC revolution happen. He covers the history of the computer revolution from the Tech Model Railroad Company (where the term Hacker was first coined) through to contemporary culture and theorizing about the future. The primary parts that I am interested in are the parts on developments in Time-Sharing. He covers the various technologies that were developed during Time-Sharing, along with why, and in small ways how.
-
-This book should be very useful in analyzing how Time-Sharing was developed and why. The stories are mostly anecdotal, but Levy's sources are mostly primary so they should be fairly trustworthy. It's possible that I could use some of the information regarding the Client configurations (basically dumb terminals) in reference to developing a model for today's clients, but it seems unlikely.
-
 Campbell-Kelly, M., & Aspray, W. (2004). Computer: A History of the Information Machine. Boulder, CO: Westview Press.
 
 This book is another history, more formal than Hackers, of the Computer from its inceptions (in theory with people like Babbage) all the way through contemporary times. It also has a significant portion dedicated to the Time Sharing model which covers the rise and fall of computation as utility.
 
 I hope to use this source to help define and explain Time Sharing as a model and explain why it fell out of favor. Understanding why Time Sharing fell out of favor should also help describe why it's coming back in today in the form of Cloud Computing.
 
-Ritchie, D. M., Thompson, K. (1974). The UNIX Time-Sharing System. Communications of the ACM, 17(7), 365-375.
-
-This document is the original description of the first Unix system implementation created by Ritchie and Thompson.  It contains a full disclosure of the most important implementation details along with why the implementation was chosen.  I intend to use it in my discussion of Time-Sharing Systems.
-
 Greenberger, M. (1964). The Computers of Tomorrow. The Atlantic, 213(5), 63-67.
 
 This article has a seminal place in the annals of computing history.  It describes in some detail the design and applicability of the computer utility model.  It's written in a bit of a futurist style, but it should still be useful as it is widely cited as solidifying the concept of the computer utility.
+
+Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
+
+The author in this book attempts to document the 'other' side of the computer revolution, which was the Hacker culture that developed at MIT and went on through loose organizations like the Home Brew Computer Club etc. to help the PC revolution happen. He covers the history of the computer revolution from the Tech Model Railroad Company (where the term Hacker was first coined) through to contemporary culture and theorizing about the future. The primary parts that I am interested in are the parts on developments in Time-Sharing. He covers the various technologies that were developed during Time-Sharing, along with why, and in small ways how.
+
+This book should be very useful in analyzing how Time-Sharing was developed and why. The stories are mostly anecdotal, but Levy's sources are mostly primary so they should be fairly trustworthy. It's possible that I could use some of the information regarding the Client configurations (basically dumb terminals) in reference to developing a model for today's clients, but it seems unlikely.
+
+Ritchie, D. M., Thompson, K. (1974). The UNIX Time-Sharing System. Communications of the ACM, 17(7), 365-375.
+
+This document is the original description of the first Unix system implementation created by Ritchie and Thompson.  It contains a full disclosure of the most important implementation details along with why the implementation was chosen.  I intend to use it in my discussion of Time-Sharing Systems.
 
 * Cloud Computing
 
