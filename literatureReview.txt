@@ -149,6 +149,8 @@ Paul Miller discusses how Web 2.0 philosophies can be applied in the Library com
 
 ** Netbooks / Smartphones
 
+While there isn't really a specific set of technologies that are lending to the development of Netbooks and Smartphones other than the miniaturization of parts found commonly in todays computers, these devices play a major role in the development of mobile hardware designed specifically to take advantage of Internet based services.  Consumers have begun to realize that what they need out of a computer can mostly be provided by free and computationally inexpensive solutions in today's cloud computing market.  That has created a market for relatively cheap, low powered devices that are focussed on providing a solution in that space.
+
 *** Netbooks
 
 **** Not truly a new technology
@@ -157,9 +159,9 @@ Paul Miller discusses how Web 2.0 philosophies can be applied in the Library com
 
 *** Smartphones
 
-**** Merging phone service, PDA functionality, and open application ecosystems.
+Smartphones are the logical step beyond plain-vanilla mobile phones and PDAs.  In the words of one analyst quoted in Jo Best's article describing smartphones, smartphones are "a large-screen, data-centric, handheld device designed to offer complete phone functions whilst simultaneously functioning as a personal digital assistant (PDA)."  Best goes on to say that this definition may not go far enough, as another common attribute of smartphones today are that they run an open operating system that third party developers can provide applications to run on.  For example, Apple's iPhone provides a third party SDK and an application store through which iPhone customers can obtain the applications.  Google's G1 has a very similar feature set, though with a different API.  
 
-**** Not a new technology, just smaller.
+Another primary capability that most smartphones are beginning to develop is fully-capable web browsing on the phone.  The iPhone's Safari browser implementation utilizes zooming technology to render a web page as if the screen were larger, allowing the user then to zoom in on the interesting parts.  The G1's mobile Chrome implementation does similar things.  Also, they utilize the many different data networks to access the internet so that anywhere you can get mobile access you can also get Internet access, allowing customers to get to their online data through either applications created for the phone or via the browser.  Overall, smartphones do not represent anything truly revolutionary technology wise; they're more a mashup of old technologies much like the evolution of Web 2.0 was.  However, they represent a core strategy that could be used to provide a truly mobile computing platform.
 
 ** Internet2 / Broadband
 
