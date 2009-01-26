@@ -35,3 +35,4 @@ Literature Review
 - Addresses 1) The extent to which common networks can support todays GUI programs when using a SLIM architecture and 2) What advantages would be gained by utilizing this model.
 - The Sun Ray(tm) 1 product is an embodiment of SLIM and reportedly performs as expected.
 - The paper contributes a methodology for studying the interactive performance of a system, as not much had been done in this space prior to the esearch deone here.
+Test Test Test
