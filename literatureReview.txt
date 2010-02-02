@@ -12,7 +12,7 @@ motivation is that today's Netbook and ultra-mobile PC offerings are still being
 designed within a desktop computing frame of mind where most of the work the
 computer is going to do is to be taken care of locally.  It is believed that
 there is a better design model for these computers in this new environment.  The
-author’s thesis is that there is a certain performance barrier beyond which the
+author's thesis is that there is a certain performance barrier beyond which the
 consumer public will be willing to readopt the thin-client, time-sharing
 computer model, that barrier being a combination of usable life of the device
 between charges and optimization for basic tasks performed locally as well as
@@ -20,22 +20,22 @@ optimum performance for services accessed via the Internet.
 
 ** Relevance and Significance
 
-This topic is very relevant and significant today.  Amazon and others have
-already begun to offer a wide variety of cloud services designed to place the
-brunt of the computational and storage related burden on computers on the
-network rather than on the customers' desktop machine (Reiss).  These cloud
-computing services are giving rise to a new class of applications, coined
-collectively by Tim O'Reilly as Web 2.0, that focus on delivering effective
-software solutions via the Internet rather than distributing them via
-shrink-wrapped packages (Bleicher).  In tandem with and because of this
-development, companies such as ASUS are beginning to offer what have become
-known as Netbooks or ultra-mobile PCs.  These computers are stripped down
-versions of more traditional notebook computers, in both power and size.  They
-are designed to surf the web and do many of the other common things that
-computer users do (e-mail, word processing, light gaming) while being very
-portable.  Also, devices like the iPhone, Blackberry, and Palm, collectively
-known as smart-phones, are revolutionizing the way people surf the web and think
-about computing access.  GMail, Google's popular web based e-mail client, has a
+Amazon and others high-profile technology companies have already begun to offer
+a wide variety of cloud services designed to place the brunt of the
+computational and storage related burden on computers on the network rather than
+on the customers' desktop machine (Reiss, 2008).  These cloud computing services
+are giving rise to a new class of applications, coined collectively by Tim
+O'Reilly as Web 2.0, that focus on delivering effective software solutions via
+the Internet rather than distributing them via shrink-wrapped packages
+(Bleicher, 2006).  In tandem with and because of this development, companies
+such as ASUS are beginning to offer what have become known as netbooks or
+ultra-mobile PCs.  These computers are stripped down versions of more
+traditional notebook computers, in both power and size.  They are designed to
+surf the web and do many of the other common things that computer users do
+(e-mail, word processing, light gaming) while being very portable.  Also,
+devices like the iPhone, Blackberry, and Palm, collectively known as
+smart-phones, are revolutionizing the way people surf the web and think about
+computing access.  GMail, Google's popular web based e-mail client, has a
 version specifically designed to work with such small scale mobile computing
 devices (as smart-phones are really much more than phones now) in deference to
 the fact that many customers desire to be able to access the services they use
@@ -50,40 +50,39 @@ that environment.
 
 ** Topical Overview 
 
-In light of all of this, my literature review will be focused on a variety of
-topics all germane to the development of ultra-mobile computers specifically
-designed for long, cell-phone like inter-charge life expectancies and the use of
-cloud services.  One historical that is needed is the history of Time Sharing.
-Time Sharing was a computing model born in the days when computer hardware was
-very expensive.  The idea was that you could split the computational time of a
-machine between many users accessing the machine over dumb terminals that did
-nothing but display output and send input.  The idea never really took off in
-the consumer sector, but it appears to making it's comeback now.  In conjunction
-with this is the concept of a thin-client, which despite the relative lack of a
-success of the time sharing computing model has been very successful, especially
-in the medical space.  Thin-Client hardware is basically a dumb terminal
-optimized to display output from a centralized server which may run any kind of
-operating system.  A great deal of research has been done on the best way to
-implement thin-client architectures, but the field is alive and well and very
-relevant to the development of ultra-mobile PCs.
+In light of the above situation, this literature review will be focused on a
+variety of topics all germane to the development of ultra-mobile computers
+specifically designed for long, cell-phone like inter-charge life expectancies
+and the use of cloud services.  One historical development that needs to be
+covered is Time Sharing.  Time Sharing was a computing model born in the days
+when computer hardware was very expensive.  The idea was that a computer's
+computational time could be split between many users accessing the machine over
+dumb terminals that did nothing but display output and send input.  The idea
+never really took off in the consumer sector, but it appears to making its
+comeback now.  In conjunction with this is the concept of a thin-client, which
+despite the relative lack of a success of the time sharing computing model has
+been very successful, especially in the medical space.  Thin-Client hardware is
+basically a dumb terminal optimized to display output from a centralized server
+which may run any kind of operating system.  A great deal of research has been
+done on the best way to implement thin-client architectures, but the field is
+alive and well and very relevant to the development of ultra-mobile PCs.
 
 Rechargeable batteries play a significant role in almost every mobile electronic
-device on the market today.  Battery life is an oft-touted property of products;
-Often the battery life is the key component in the consumers decision making
-process.  The iPhone was criticized harshly until a firmware update enabled
-customers to get a days worth of use out of it between charges.  Google's G1
-sank under similar criticisms.  Today's ultra-mobile's don't offer battery life
-expectancy much greater than today's notebooks.  The success of smart-phone
-technology over the ultra-mobile at the moment mainly hinges on this
-distinction.
+device on the market today.  Often, battery life is the key component in the
+consumers decision making process.  The iPhone was criticized harshly until a
+firmware update enabled customers to get a day's worth of use out of it between
+charges.  Google's G1 sank under similar criticisms.  Today's ultra-mobiles
+don't offer battery life expectancy much greater than today's notebooks.  The
+success of smart-phone technology over the ultra-mobile at the moment mainly
+hinges on this distinction.
 
 Cloud Computing, Web 2.0, and the developments concerning broadband Internet
-access and Internet2 are also topics that I will be covering in this literature
-review.  Cloud Computing is, as stated, a rehashing of the old time sharing
-model only with much higher bandwidth and much broader access.  Web 2.0 is a
-loose consortium of ideals that many of the companies providing their software
-as a service adhere to (O'Reilly).  Broadband Internet is self explanatory.
-These 3 technologies together provide the basis for why an ultra-mobile,
+access and Internet2 are also topics this literature review will be covering.
+Cloud Computing is, as stated, a rehashing of the old time sharing model only
+with much higher bandwidth and much broader access.  Web 2.0 is a loose
+consortium of ideals that many of the companies providing their software as a
+service adhere to (O'Reilly, 2007).  Broadband Internet is self explanatory.
+These three technologies together provide the basis for why an ultra-mobile,
 thin-client PC could be possible now when it could not have been 10 or 20 years
 ago.  These technologies and the literature associated with them will be covered
 in the following sections.
@@ -95,7 +94,7 @@ have developed recently and become widespread are new, the concepts are actually
 nearly as old as computing, or at the very least networked computing, itself.
 To begin with, the principles of Cloud Computing have their roots in the Time
 Sharing Computing Model (TSCM) which was pioneered by John McCarthy at MIT
-(Levy).  The lack of widely available high-speed Internet access made the
+(Levy, 1994).  The lack of widely available high-speed Internet access made the
 viability and applicability of this model short-lived but times have begun to
 change.  This section will cover in some detail the TSCM and its applicability
 to the investigation here-in.
@@ -116,23 +115,24 @@ questions will be answered in this section.
 
 *** Description and Relevance
 
-The first time-sharing computing system showed up at MIT in 1961.  "A
+The first time-sharing computing system was developed at MIT in 1961.  "A
 time-sharing computer was one organized so that it could be used simultaneously
 by many users, each person having the illusion of being the sole user of the
-system—which, in effect, became his or her personal machine" (Campbell-Kelly).
-Prior to the creation of time-sharing systems, the only way a computer could be
-efficiently used was through the batch processing model which required users to
-submit their work to a computer center where operators would decide how to keep
-the computer busy through efficiently scheduling the separate tasks.  It did
-keep the computers busy, but it was a difficult way to use the system because
-there was no immediate feedback to your actions.  The solution was proposed by a
-British Computer scientist named Christopher Strachey in 1959 and by John
-McCarthy at MIT around the same time: Allow multiple users to interact with a
-single mainframe computer through access terminals, using the time that they
-weren't directly using the CPU to process other people's jobs (Campbell-Kelly).
-Today, all systems are in theory able to be used by multiple users at once over
-a network, but the practice is different because the computers are designed to
-be used by a single person with direct access to the machine.
+system---which, in effect, became his or her personal machine" (Campbell-Kelly,
+2004).  Prior to the creation of time-sharing systems, the only way a computer
+could be efficiently used was through the batch processing model which required
+users to submit their work to a computer center where operators would decide how
+to keep the computer busy through efficiently scheduling the separate tasks.  It
+did keep the computers busy, but it was a difficult way to use the system
+because there was no immediate feedback to the customer's actions.  The solution
+was proposed by a British Computer scientist named Christopher Strachey in 1959
+and by John McCarthy at MIT around the same time: Allow multiple users to
+interact with a single mainframe computer through access terminals, using the
+time that they weren't directly using the CPU to process other people's jobs
+(Campbell-Kelly, 2004).  Today, all systems are in theory able to be used by
+multiple users at once over a network, but the practice is different because the
+computers are designed to be used by a single person with direct access to the
+machine.
 
 This is relevant to the topic of Cloud Computing and Ultramobile PC development
 because Cloud Computing is really a rehashing of the old computing-as-utility
@@ -147,18 +147,19 @@ Several TSS were developed in the 1960s, which was the heyday of the
 time-sharing computing model.  The first was the Compatible Time-Sharing System
 (CTSS) developed at MIT under the guidance of Robert Fano and Fernando Corbato,
 which is considered to have been a proof of concept of sorts but never was
-acceptable for whole-sale public consumption.  It only allowed for 3 users to be
-signed on at one time and was difficult to use given that it required you to
-learn a language like FORTRAN which was of course acceptable in academia but was
-too much to ask of a normal human being (Campbell-Kelly).  The best known early
-system was the Dartmouth Time-Sharing System (DTSS).  It allowed for 30
-concurrent users and made the important jump to the brand new BASIC programming
-language which for the first time allowed the masses to write their own programs
-to accomplish their information processing needs.  Finally, a system called
-Multics was developed at MIT in conjunction with General Electric and Bell Labs.
-Multics could support 300 concurrent users and also used the BASIC language as
-well as allowing for programming in other languages (Levy).  Multics (and later
-Unix) is what allowed the Computer Utility to take flight.
+acceptable for whole-sale public consumption.  It only allowed for three users
+to be signed on at one time and was difficult to use given that it required the
+customer to learn a language like FORTRAN which was of course acceptable in
+academia but was too much to ask of a normal human being (Campbell-Kelly, 2004).
+The best known early system was the Dartmouth Time-Sharing System (DTSS).  It
+allowed for 30 concurrent users and made the important jump to the brand new
+BASIC programming language which for the first time allowed the masses to write
+their own programs to accomplish their information processing needs.  Finally, a
+system called Multics was developed at MIT in conjunction with General Electric
+and Bell Labs.  Multics could support 300 concurrent users and also used the
+BASIC language as well as allowing for programming in other languages (Levy,
+1994).  Multics (and later Unix) is what allowed the Computer Utility to take
+flight.
 
 *** Rise of the PC and the Death of Time Sharing
 
@@ -170,35 +171,35 @@ machine rather than giving each individual a $200,000 machine.  Fortunately,
 hardware costs plummeted and made it possible to own a computer that was
 powerful enough to do anything you wanted and could be accessed only by you.
 While Grosch's law holds true to this day, at the time it simply didn't matter
-(Campbell-Kelly).
+(Campbell-Kelly, 2004).
 
 The reason that it no longer mattered was two-fold.  First, technological
 developments outside of the computer industry proper allowed for the creation of
 computers that dwarfed the computational power of older machines and did it at a
-fraction of the cost.  The transition was from Vacuum Tubes down to Discrete
-Transistors and finally into Integrated Circuits.  Each down-step brought
+fraction of the cost.  The transition was from vacuum tubes down to discrete
+transistors and finally into integrated circuits.  Each down-step brought
 greater computational potential and reduced costs.  At the end of the 1960s, it
 was possible to buy a time-sharing system using something like Unix for its OS
 for a reasonable price and maintain control of it locally.  The reason this was
-so attractive is the other side of the issue (Campbell-Kelly).
+so attractive is the other side of the issue (Campbell-Kelly, 2004).
 
-Simply put, the corporations working so hard to deliver computer-as-utility
-could not put the software together to run their concept.  There was substantial
-interest, but after years of development a working system had not been expressed
-yet.  Eventually, GE pulled out of the industry altogether, believing that the
-software problem could not be solved.  IBM foundered for years with it's 360
+The corporations working so hard to deliver computer-as-utility could not put
+the software together to run their concept.  There was substantial interest, but
+after years of development a working system had not been expressed yet.
+Eventually, GE pulled out of the industry altogether, believing that the
+software problem could not be solved.  IBM floundered for years with its 360
 series of computers.  At the same time, a free OS named Unix which grew out of
 the Multics effort was made available to power the smaller machines that were
-being built with new Integrated Circuit technology.  That software actually
+being built with new integrated circuit technology.  That software actually
 worked and was extremely solid.  The trend of reducing the cost of the hardware
 for doing ever increasingly complex calculations has continued under Moore's Law
-till now (Campbell-Kelly).  It has only been recently that the demand for
+till now (Campbell-Kelly, 2004).  It has only been recently that the demand for
 computing power has once again opened the door for computing-as-utility.
 
 ** Thin-Clients
 
 "Thin-client Computing is the modern version of the old time-sharing approach"
-(Schmidt).  The advent of ubiquitous high-speed networks has allowed the
+(Schmidt, 1999).  The advent of ubiquitous high-speed networks has allowed the
 development of dumb or thin-client terminals that access powerful centralized
 servers and execute their applications on the server.  This has several effects,
 such as a reduced total cost of ownership through the lack of a need to upgrade
@@ -208,13 +209,13 @@ centralized computing resources that you can control directly, etc.
 *** Definition
 
 Thin-Clients are, in short, computing systems that consist of a server which
-runs all logic and processing requirements of an application and a Client which
+runs all logic and processing requirements of an application and a client which
 displays the output only from the remote server of a Remote Display Protocol
-(RDP) (Lai, Nieh).  An advantage of thin-client architecture for doing remote
+(RDP) (Lai, 2002).  An advantage of thin-client architecture for doing remote
 computing is that most applications can be run as they are, without any rewrite
 to take advantage of a remote protocol, because the display protocol is
-implemented at a lower level in the OS Hierarchy than the applications execute
-(Schmidt).  Thus, instead of a sending the display information to a local
+implemented at a lower level in the OS hierarchy than the applications execute
+(Schmidt, 1999).  Thus, instead of a sending the display information to a local
 monitor, you instruct the OS to send its display information instead over the
 network to a client that has requested that you send said information to it.
 Anyone with network access can request to utilize the computing resources of a
@@ -239,24 +240,24 @@ they do is implement the client protocol so that they can display the
 information being sent to them.
 
 A clear advantage cited by many as an important reason to utilize thin-client
-computers is the centralization of maintenance and upkeeping.  The obvious
+computers is the centralization of maintenance and upkeep.  The obvious
 disadvantage of a PC in the context of a corporation or other group of people is
 that it's hard to control what's installed and to upgrade the hardware.  To a
 great extent, every machine must in effect be administered separately.  Though
 tools have arisen that make this somewhat easier, there is still a challenge
 associated with administering a distributed network of PCs.  Often, the cost of
-upgrading everyone's PCs renders hardware 'obsolete before it has been paid
-for". (Schmidt) The use of thin-client systems allows maintenance, security, and
-configuration to be done at a clear centralized point rather than across a
-disparate, ever changing network.
+upgrading everyone's PCs renders hardware "obsolete before it has been paid
+for". (Schmidt, 1999) The use of thin-client systems allows maintenance,
+security, and configuration to be done at a clear centralized point rather than
+across a disparate, ever changing network.
 
 *** Current Research
 
-So far, thin-client systems have primarily penetrated in the medical, banking,
-education, government, and sales industries. Still, they only account for less
-than 1% of the total market share.  However, experts believe that trends
-indicate that they will rapidly grow in market share, especially in the
-Enterprise market. (Tynan)
+So far, thin-client systems have primarily seen market penetration in the
+medical, banking, education, government, and sales industries. Still, they
+account for less than 1% of the total market share.  However, experts believe
+that trends indicate that they will rapidly grow in market share, especially in
+the Enterprise market. (Tynan, 2005)
 
 Current pushes in research are focused mainly on figuring out how to get
 thin-clients to work well over wide-area networks such as the Internet and
@@ -267,16 +268,16 @@ mainly in requiring too much communication between the client and the server;
 rather than keeping the client completely dumb, most thin-client systems try to
 keep a foot in both worlds, requiring some state to be maintained by the client
 and some by the server, which occasionally requires multiple round trips to the
-server in order to accomplish simple operations (Lai, Nieh). (Schmidt) By
+server in order to accomplish simple operations (Lai, 2002). (Schmidt, 1999) By
 design, Microsoft appears to believe that the bottle neck is bandwidth (Lai,
-Nieh).  Lai and Nieh of Colombia University indicate that the real performance
+2002).  Lai and Nieh of Colombia University indicate that the real performance
 hindrance is network latency and choice of lower order display primitives or
 application level programming interfaces.
 
 *** Relevance
 
-Thin-clients are applicable to my current research project in that the design of
-a mobile hardware platform that is fine-tuned for taking advantage of Cloud
+Thin-clients are applicable to this research project in that the design of a
+mobile hardware platform that is fine-tuned for taking advantage of Cloud
 services would have a great deal of similarity with today's thin-clients.  Very
 little processing power would have to exist on the client side as long as they
 had a high-bandwidth connection to the application server.  The question would
@@ -289,10 +290,10 @@ development of Netbooks and Smartphones other than the miniaturization of parts
 found commonly in today's computers, these devices play a major role in the
 development of mobile hardware designed specifically to take advantage of
 Internet based services.  Consumers have begun to realize that what they need
-out of a computer can mostly be provided by free and computationally inexpensive
-solutions in today's cloud computing market.  That has created a market for
-relatively cheap, low powered devices that are focused on providing a solution
-in that space.
+out of a computer can, for the most part, be provided by free and
+computationally inexpensive solutions in today's cloud computing market.  That
+has created a market for relatively cheap, low powered devices that are focused
+on providing a solution in that the consumer computing services space.
 
 *** Netbooks
 
@@ -301,25 +302,26 @@ make heavy demands on their computer hardware but instead primarily use the
 Internet and do basic word processing and light gaming.  It turns out that this
 is a surprisingly high percentage of customers, if Amazon's sales statistics as
 of October, 2008 are any indicator; 13 of the top 15 notebook computers sold
-there were Netbooks at that time (Copeland).  It is important emphasize, as we
-will be noting of Smartphones as well, that Netbooks are not new in terms of
-technological innovation.  They are, rather, a response to a perceived reality
-in the computing consumer market which is that most people only really need to
-access the Internet to do most of what they want to do.
+there were netbooks at that time (Copeland, 2008).  It is important to
+emphasize, as we will be noting of Smartphones as well, that netbooks are not
+new in terms of technological innovation.  They are, rather, a response to a
+perceived reality in the computing consumer market which is that most people
+only really need to access the Internet to do most of what they want to do.
 
-According to Paul Bergevin, an executive at Intel, Netbooks are "small laptops
-that are designed for wireless communication and access to the Internet."
+According to Paul Bergevin, an executive at Intel, netbooks are "small laptops
+that are designed for wireless communication and access to the Internet" (2006).
 They're something of a "cross between a Blackberry and a full-blown laptop"
-(Copeland) that meet the consumer's expectation of a mobile device that they can
-use like they would a laptop (in contrast to a smart phone which is used quite
-differently due to the constrictive hardware) for accessing the Internet from a
-variety of locations.  There is also an emphasis on being low cost, about as
-much or less as the more expensive Smartphones.  As with Smartphones and today's
-notebook computers, there are data plans available from major telecoms companies
-such as AT&T to also allow access to the Internet via today's wireless networks,
-albeit not exactly broadband connectivity (AP).  Netbooks are a key development
-in the mobile computing market that are a step towards thin-client like mobile
-hardware designed to take advantage of the cloud.
+(Copeland, 2008) that meet the consumer's expectation of a mobile device that
+they can use like they would a laptop (in contrast to a smart phone which is
+used quite differently due to the constrictive hardware) for accessing the
+Internet from a variety of locations.  There is also an emphasis on being low
+cost, about as much or less as the more expensive Smartphones.  As with
+Smartphones and today's notebook computers, there are data plans available from
+major telecoms companies such as AT&T to also allow access to the Internet via
+today's wireless networks, albeit not exactly broadband connectivity (AP, 2009).
+Netbooks are a key development in the mobile computing market that are a step
+towards thin-client like mobile hardware designed to take advantage of the
+cloud.
 
 *** Smartphones
 
@@ -327,9 +329,9 @@ Smartphones are the logical step beyond plain-vanilla mobile phones and PDAs.
 In the words of one analyst quoted in Jo Best's article describing Smartphones,
 Smartphones are "a large-screen, data-centric, handheld device designed to offer
 complete phone functions whilst simultaneously functioning as a personal digital
-assistant (PDA)."  Best goes on to say that this definition may not go far
-enough, as another common attribute of Smartphones today are that they run an
-open operating system that third party developers can provide applications to
+assistant (PDA)" ().  Best continues, saying that this definition may not go far
+enough, as another common attribute of Smartphones today are that they implement
+an open operating system that third party developers can provide applications to
 run on.  For example, Apple's iPhone provides a third party SDK and an
 application store through which iPhone customers can obtain the applications.
 Google's G1 has a very similar feature set, though with a different API.
@@ -338,14 +340,15 @@ Another primary capability that most Smartphones are beginning to develop is
 fully-capable web browsing on the phone.  The iPhone's Safari browser
 implementation utilizes zooming technology to render a web page as if the screen
 were larger, allowing the user then to zoom in on the interesting parts.  The
-G1's mobile Chrome implementation does similar things.  Also, they utilize the
-many different data networks to access the Internet so that anywhere you can get
-mobile access you can also get Internet access, allowing customers to get to
-their online data through either applications created for the phone or via the
-browser.  Overall, Smartphones do not represent anything truly revolutionary
-technology wise; they're more a mashup of old technologies much like the
-evolution of Web 2.0 was.  However, they represent a core strategy that could be
-used to provide a truly mobile computing platform.
+G1's mobile Chrome implementation does similar things and other Smartphones as
+well.  Also, they utilize the many different data networks to access the
+Internet so that anywhere you can get mobile access you can also get Internet
+access, allowing customers to get to their online data through either
+applications created for the phone or via the browser.  Overall, Smartphones do
+not represent anything truly revolutionary technology wise; they're more a
+mashup of old technologies much like the evolution of Web 2.0.  However, they
+represent a core strategy that could be used to provide a truly mobile computing
+platform.
 
 ** Rechargeable Batteries
 
@@ -355,20 +358,20 @@ There is one main strain of research regarding batteries for mobile computing
 and other such devices: Lithium-Ion Technology.  Lithium-Ion technology was
 first proposed by M. S. Whittingham while he was at Exxon in 1976.  At the time,
 the advance was revolutionary, allowing for a highly configurable battery shape
-which made it's applicability in the mobile electronics market very extensive
-and reducing the battery 'bleed' effect where a rechargeable battery will slowly
-loose its charge in storage.  In fact, Lithium-Ion batteries do not exhibit this
+which made its applicability in the mobile electronics market very extensive and
+reducing the battery 'bleed' effect where a rechargeable battery will slowly
+lose its charge in storage.  In fact, Lithium-Ion batteries do not exhibit this
 effect at all, but they do age at a predetermined rate regardless of use, slowly
 reducing their ability to hold a charge.
 
 *** Relevant Mobile Computing Battery Research
 
-Advances in Lithium-Ion Battery technology are primarily in 3 areas.  The first
-is in the area of safety.  The materials recommended by Whittingham were
+Advances in Lithium-Ion Battery technology are primarily in three areas.  The
+first is in the area of safety.  The materials recommended by Whittingham were
 titanium sulfide and lithium metal.  It turned out that batteries using lithium
 metal are extremely dangerous.  The first advances were in the material used.
 If you forgo the use of lithium metal in favor of another material that contains
-lithium ions, you get a much more stable battery (Samar).  Second, the
+lithium ions, you get a much more stable battery (Samar, 1981).  Second, the
 composition of the materials (known as the anode and the cathode) is being
 changed experimentally to increase the amount of cycles the battery has and to
 improve its power output.  In one case, that of LG Chemical's CPI subsidiary,
@@ -380,24 +383,25 @@ developed another popular cathode material, LiFePO4.  Finally, advances have
 been made in the structure of the anode and cathode to allow for greater surface
 area.  This allows for the battery to have a higher capacity, as the surface
 area of the structure of the lithium materials is the primary barrier to higher
-capacity batteries (Idota).
+capacity batteries (Idota, 1997).
 
 *** Current Trends
 
 Currently, improvements to Lithium Ion technology specifically still deal
-primarily with the 3 main areas: better anode cathode structure, better
+primarily with the three main areas: better anode cathode structure, better
 materials for use as the anode or the cathode, and safer batteries able to
 tolerate higher variability in the operational environment.  A group at MIT
 claimed in 2006 to have developed a bio-technology whereby viruses are used to
 create nano-sized wires, obviously having a tremendous potential to greatly
-increase the capacity of Lithium Ion batteries (Nam).  In 2007, researchers at
-Stanford successfully created a battery using this technology that had 10 times
-the energy density of a conventional Lithium-Ion battery (Stanford).  Also,
-other groups are investigating other cathode materials such as A2FePO4F citing
-some of the inherent problems with olivine structures such as comparatively
-short theoretical life expectancies.  New cathode materials overcome this
-(Ellis).  These trends and others are enabling the battery life expectancy of
-electronic devices to increase greatly.
+increase the capacity of Lithium Ion batteries (Nam, 2006).  In 2007,
+researchers at Stanford successfully created a battery using this technology
+that had 10 times the energy density of a conventional Lithium-Ion battery
+(Stanford, 2007).  Also, other groups are investigating other cathode materials
+like A2FePO4F citing some of the inherent problems with olivine structures such
+as comparatively short theoretical life expectancies.  New cathode materials
+overcome these inherent shortcomings in olivine structures (Ellis, 2007).  These
+trends and others are enabling the battery life expectancy of electronic devices
+to increase greatly.
 
 ** Cloud Computing
 
@@ -406,7 +410,7 @@ electronic devices to increase greatly.
 Cloud Computing is a relatively new trend in computing services that capitulates
 on old computing theories that have finally had hardware and software catch up
 to them.  As a definition, Cloud Computing is the use of outsourced hardware for
-doing your computing via the Internet.  Combined with broadband Internet access,
+doing computing via the Internet.  Combined with broadband Internet access,
 Cloud Computing has become one of the largest revolutions in computer history,
 transforming the way people think about their computers and how they should be
 used.  Principally, application suites such as the offerings from Google have
@@ -437,106 +441,108 @@ into Amazon's systems.
 
 *** Application
 
-Today, Amazon (Reiss) and many others such as Yahoo (Yahoo), Google (Baker), and
-Microsoft (Reiss) are beginning to offer Cloud Computers under various guises.
-Google, for instance, offers many software services for free (such as a Mail
-Client, a Document editor, and a Spread Sheet editor) while they insert their ad
-service into them (McDougall).  Beyond just the cloud as a computer, there is a
-whole new breed of software termed Software as a Service (SAAS) which offers no
-install, enterprise grade, software services delivered via the cloud.  While
-this is not necessarily 'traditional' cloud computing, it does offload the
-hardware and software requirements for computer solutions to a central server
-and off of your local hardware installation.
+Today, Amazon (Reiss, 2008) and many others such as Yahoo (Yahoo, 2009), Google
+(Baker, 2007), and Microsoft (Reiss, 2008) are beginning to offer Cloud
+Computers under various guises.  Google, for instance, offers many software
+services for free (such as a Mail Client, a Document editor, and a Spread Sheet
+editor) while they insert their ad service into them (McDougall, 2007).  Beyond
+just the cloud as a computer, there is a whole new breed of software termed
+Software as a Service (SAAS) which offers no install, enterprise grade, software
+services delivered via the cloud.  While this is not necessarily 'traditional'
+cloud computing, it does offload the hardware and software requirements for
+computer solutions to a central server and off of your local hardware
+installation.
 
 ** Web 2.0
 
-A central development that's helping to pave the way for Netbook computers that
+A central development that's helping to pave the way for netbook computers that
 are streamlined for thin-client like computation utilizing Cloud Services is the
 advent of what has come to be known as Web 2.0.  Tim O'Reilly, in his seminal
 paper on the subject, describes Web 2.0 "as a set of principles and practices
 that tie together a veritable solar system of sites that demonstrate some or all
-of those principles." The principles he is referring to are things such as an
-emphasis on deep customer collaboration, offering of your applications not as
-delivered software but as web services, and an emphasis on multiple light-weight
-UIs to the same data, especially the web connected devices.
+of those principles" (2007). The principles he is referring to are things such
+as an emphasis on deep customer collaboration, offering of your applications not
+as delivered software but as web services, and an emphasis on multiple
+light-weight UIs to the same data, especially the web connected devices.
 
 *** The Web is the Platform
 
 The "Web is the Platform" phrase is just ambiguous enough that it's incredibly
 easy to misinterpret.  Tim O'Reilly notes this as well when he states that the
 term has been adopted by "buzz-word addicted start-ups" with "no real
-understanding of what it means".  The Web is the Platform, at its core, means
-the use of the Internet to deliver your service to customers (Miller).  This is
-in stark contrast to the model of 'shrink wrapped software' where a long
-development cycle is concluded with a monolithic release that contains maybe a
-years worth of work available for repurchasing.  In that model, a customer would
-buy a license to use a particular release of your software forever and would
-only purchase a new version if the features warranted it.  So in a strict sense
-if you use the Web to deliver your software then you are using the Web as a
-platform.  However, you would not be very Web 2.0.
+understanding of what it means" (2007).  The Web is the Platform, at its core,
+means the use of the Internet to deliver your service to customers (Miller,
+2005).  This is in stark contrast to the model of 'shrink wrapped software'
+where a long development cycle is concluded with a monolithic release that
+contains maybe a years worth of work available for repurchasing.  In that model,
+a customer would buy a license to use a particular release of your software
+forever and would only purchase a new version if the features warranted it.  So
+in a strict sense if you use the Web to deliver your software then you are using
+the Web as a platform.  However, you would not be very Web 2.0.
 
 To be Web 2.0, you must also pursue an aggressive release schedule which
 delivers new features that are ready to be used on a regular basis to your
-customers (Miller).  This is what advocates of Web 2.0 say is the advantage of
-the Web as Platform; the ability to deliver features to your audience at a much
-higher rate (O'Reilly).
+customers (Miller, 2005).  This is what advocates of Web 2.0 say is the
+advantage of the Web as Platform; the ability to deliver features to your
+audience at a much higher rate (O'Reilly, 2007).
 
 *** Key Properties
 
 That being said, there are many key properties that have come to define Web 2.0.
 Going back to O'Reilly, software vendors are judged on a continuum regarding
 their adherence to the general principles of Web 2.0 rather than being strictly
-'in' or 'out'.  Here I will define the core principles of Web 2.0 that have been
-identified already.
+'in' or 'out' (2007).  Here I will define the core principles of Web 2.0 that
+have been identified already.
 
-There is a massive emphasis on collaboration at many levels in Web 2.0 (O'Reilly).  
+There is a massive emphasis on collaboration at many levels in Web 2.0
+(O'Reilly, 2007).
 
 At the developer/vendor level, there is in emphasis on the use of open tools and
 technologies to promote the maximum amount of interoperability possible without
-literal reproduction of services (Miller).  For example, the social bookmarking
-site Delicious.com allows anyone to access their data stream for any purpose
-(with the exception that you are not to create a search engine using it).  This
-could be as simple as including your latest delicious bookmarks on the homepage
-of your blog or as complex as designing a popular tag portal that includes
-advertisements based on the most popular tags clicked.  The point is,
+literal reproduction of services (Miller, 2005).  For example, the social
+bookmarking site Delicious.com allows anyone to access their data stream for any
+purpose (with the exception that you are not to create a search engine using
+it).  This could be as simple as including your latest delicious bookmarks on
+the homepage of your blog or as complex as designing a popular tag portal that
+includes advertisements based on the most popular tags clicked.  The point is,
 Delicious.com opens up their data rather than creating a proprietary model that
 attempts to lock out other services.
 
 At the customer level, there is a new push for user generated content.  In the
 words of Bryan Alexander, "these sections of the Web break away from the page
 metaphor. Rather than following the notion of the Web as book, they are
-predicated on microcontent."  Another way to put this would be for a shift from
-one-way delivery of content to two-way content production participation
-(Alexander).  A key feature of Web 1.0 was that the customer was seen primarily
-as a consumer of content rather than a participant in its creation.  So even if
-you had a dynamically created page with a database back-end etc., you would
-still be in control of all of the variables in order to create the user
-experience you desired.  Then, customers would use your service if they liked
-what you did or they would not.  In Web 2.0, you let the user have a much larger
-degree of control on their own experience with your service.
+predicated on microcontent" (2006).  Another way to put this would be for a
+shift from one-way delivery of content to two-way content production
+participation (Alexander, 2006).  A key feature of Web 1.0 was that the customer
+was seen primarily as a consumer of content rather than a participant in its
+creation.  So even if you had a dynamically created page with a database
+back-end etc., you would still be in control of all of the variables in order to
+create the user experience you desired.  Then, customers would use your service
+if they liked what you did or they would not.  In Web 2.0, you let the user have
+a much larger degree of control on their own experience with your service.
 
 O'Reilly gives an example of this at the time his paper was written: Barnes and
-Noble vs. Amazon.  Barnes and Noble does not offer less books than Amazon and
-it's less or more well known, but Amazon consistently out sells Barnes and Noble
-through their online store.  O'Reilly believes that this is because Amazon
+Noble vs. Amazon (2007).  Barnes and Noble does not offer less books than Amazon
+and it's less or more well known, but Amazon consistently out sells Barnes and
+Noble through their online store.  O'Reilly believes that this is because Amazon
 specifically encourages user participation in the form of product reviews, wish
 lists, product recommendation lists (viewable by the public), and not the least
-of which the use of their opinion to form search results.  Whereas a search at
-Barnes and Noble often "lead[s] with the company's own products, or sponsored
-results, Amazon always leads with "most popular", a real-time computation based
-not only on sales but other factors that Amazon insiders call the "flow" around
-products" (O'Reilly).
+of which the use of their opinion to form search results (2007).  Whereas a
+search at Barnes and Noble often "lead[s] with the company's own products, or
+sponsored results, Amazon always leads with "most popular", a real-time
+computation based not only on sales but other factors that Amazon insiders call
+the "flow" around products" (O'Reilly, 2007).
 
 Closely associated with collaboration, the principle of openness is primarily in
 reference to data.  In the seven discreet core competencies of Web 2.0
 organizations that O'Reilly documents, he lists "control over unique,
 hard-to-recreate data sources that get richer as more people use them."
-However, control here does not imply hiding.  Instead, it means that you control
-the interfaces by which the data can be manipulated and added to. Again in the
-case of Delicious, they have defined APIs for adding new bookmarks, accessing
-current bookmarks, accessing popular bookmarks, etc. that allow others to create
-new views into that data that customers may find add enough value to the raw
-data that they are willing to pay for it.
+However, control here does not imply hiding (2007).  Instead, it means that you
+control the interfaces by which the data can be manipulated and added to. Again
+in the case of Delicious, they have defined APIs for adding new bookmarks,
+accessing current bookmarks, accessing popular bookmarks, etc. that allow others
+to create new views into that data that customers may find add enough value to
+the raw data that they are willing to pay for it.
 
 Of course, the other part of the quote indicates that the data gets better as
 more people uses it.  Services like Delicious, Reddit, and Digg are so valuable
@@ -549,19 +555,19 @@ more interesting to a much wider audience.  And obviously, the more popular your
 particular service is, the harder it becomes to reproduce your data set because
 the market has shrunk.  In the words of O'Reilly, "the race is on to own certain
 classes of core data."  Once you own the data, then you can expose that data to
-others and allow them to create other interfaces.
+others and allow them to create other interfaces (2007).
 
 A third principle at the core of Web 2.0 is the delivery of software quickly
 with an emphasis on streamlining for a specific purpose rather than creating the
-next Microsoft Office or Adobe Creative Suite (Miller).  A prime example of this
-would be Google Maps.  Maps has an extremely comprehensive data back end but the
-interface to that data that Google designed is focused tightly on getting
-directions to and from locations and viewing data about locations and routes.
-No attempts are made to shoehorn atlas type data or historical information onto
-the location.  However, they have exposed an API to that map data and other
-people or businesses are free to attempt to build that information over the map
-information.  Thus, the business model of today's Web 2.0 corporations is adding
-value to data through the interface.
+next Microsoft Office or Adobe Creative Suite (Miller, 2005).  A prime example
+of this would be Google Maps.  Maps has an extremely comprehensive data back end
+but the interface to that data that Google designed is focused tightly on
+getting directions to and from locations and viewing data about locations and
+routes.  No attempts are made to shoehorn atlas type data or historical
+information onto the location.  However, they have exposed an API to that map
+data and other people or businesses are free to attempt to build that
+information over the map information.  Thus, the business model of today's Web
+2.0 corporations is adding value to data through the interface.
 
 Because the sources of data are exposing it to other businesses and to the
 public, it's possible to create what has become known as mashup software.  This
@@ -598,20 +604,20 @@ edited and controlled by the experts of the field could possibly "create optimal
 knowledge building opportunities for doctors."
 
 Paul Miller discusses how Web 2.0 philosophies can be applied in the Library
-community in his Ariadne article.  The core of the argument is that instead of
-fearing the inherent openness and collaborative nature of the Web 2.0
+community in his Ariadne article (2005).  The core of the argument is that
+instead of fearing the inherent openness and collaborative nature of the Web 2.0
 philosophy, Libraries and Librarians should instead embrace these philosophies
 to help their customer and each other much more effectively.  Libraries are
 already uniquely positioned with highly specialized and unique data sources that
 until now have been controlled completely by them.  To start, Miller proposes an
 effort to at least build collaboration between Libraries (an effort which has
 already begun to take shape in our day with services such as that offered by
-SirsiDynix for a global library catalog).  This would be more along the lines of
-business to business collaboration, but would begin to help Libraries behave in
-a more Web 2.0 way.  Finally, he makes the suggestion that while building
-inter-library collaboration is a good start, Libraries need to utilize every
-applicable service to make their incredible wealth of data easily available to
-the customer.
+SirsiDynix for a global library catalog) (2005).  This would be more along the
+lines of business to business collaboration, but would begin to help Libraries
+behave in a more Web 2.0 way.  Finally, he makes the suggestion that while
+building inter-library collaboration is a good start, Libraries need to utilize
+every applicable service to make their incredible wealth of data easily
+available to the customer.
 
 * Summary/Conclusions
 
@@ -624,20 +630,21 @@ was too expensive to justify everyone having their own personal computer.  In
 order to cope with the situation, first computers were signed up for exclusive
 use by individuals or groups trying to solve a problem.  When that proved to be
 unworkable and inefficient, the solution appeared to be allowing multiple users
-to use one computer through remote access (Campbell-Kelly).  In time, with the
-rapid decline of hardware prices, the PC was born and it suddenly became viable
-and attractive to give every customer their own PC (Campbell-Kelly).  Over time,
-though, this has proved to be an inefficient deployment of computing hardware as
-it is a nightmare to maintain and administer (Schmidt).  Instead, a small return
-to time sharing has already happened in certain specific slices of the business
-world.  Thin-Client computing is essentially a rehashing of time-sharing except
-that today's thin clients must be able to display GUIs rather than just CLIs
-(Schmidt).  The same parallels are being drawn between Cloud Computing and
-time-sharing, just on a much larger scale.  Thin-clients today are primarily
-designed to work on an intranet.  Cloud Computing could take that one step
-further and put a thin client on the Internet accessing globally available
-hardware over today and tomorrows wireless broadband services.  A mobile thin
-client device could be very effective in the near future.
+to use one computer through remote access (Campbell-Kelly, 2004).  In time, with
+the rapid decline of hardware prices, the PC was born and it suddenly became
+viable and attractive to give every customer their own PC (Campbell-Kelly,
+2004).  Over time, though, this has proved to be an inefficient deployment of
+computing hardware as it is a nightmare to maintain and administer (Schmidt,
+1999).  Instead, a small return to time sharing has already happened in certain
+specific slices of the business world.  Thin-Client computing is essentially a
+rehashing of time-sharing except that today's thin clients must be able to
+display GUIs rather than just CLIs (Schmidt, 1999).  The same parallels are
+being drawn between Cloud Computing and time-sharing, just on a much larger
+scale.  Thin-clients today are primarily designed to work on an intranet.  Cloud
+Computing could take that one step further and put a thin client on the Internet
+accessing globally available hardware over today and tomorrows wireless
+broadband services.  A mobile thin client device could be very effective in the
+near future.
 
 Cloud Computing is what is making this possible.  Cloud Computing has two major
 sides: business and consumer.  On the one hand, Cloud Computing describes the
@@ -657,29 +664,30 @@ everything via the web, almost like a thin-client.
 
 Netbooks are a step in that direction.  While not completely thin, they are
 stripped down and designed to work with Internet applications rather than
-today's power hungry local applications (Bergevin).  Netbooks are a cross
+today's power hungry local applications (Bergevin, 2006).  Netbooks are a cross
 between the ultra-mobility of a PDA/Smartphone and the power and usability of a
-notebook computer (Copeland).  However, their battery life is still somewhat
-dissapointing.  For instance, the ASUS Eee PC only gets about 6 hours between
-charges.  It is my belief that Netbooks will not completely catch on until they
-last at least a day between charges, as most of today's successful smartphones
-already do.  On that note, smartphones are one the other end of the spectrum.
-They have a much smaller form factor, they are lower powered even than the
-Netbooks, and they have more custom (although open) OSes.  However, they are a
-platform that many customers are already using to access the services they use
-that live in the Cloud.  If there isn't an application written specifically for
-that service on your device, you can still access it via the web interfaces
-through the built in browser.  Despite this, the interface is constrictive
-enough (common complaints being the keyboards) that I believe Netbook sized
-computers would be a better solution.  With the problem lying in battery life, I
-investigated current and historical trends in battery technology.  Lithium-Ion
-secondary battery technology has been around since 1976 and first became
-commercially available in 1981 when Bell Labs successfully used a Graphite anode
-with a Titanium Sulfied cathode (Samar).  Today's research efforts are primarily
-in increasing the energy density through nano-technology and cathode materials.
-Already, batteries have been produced that have 10 times the energy density of a
-comparible volume battery today (so a battery that lasts 2 hours today would
-last 20) (Stanford).  This is very promising for every mobile device.
+notebook computer (Copeland, 2008).  However, their battery life is still
+somewhat dissapointing.  For instance, the ASUS Eee PC only gets about 6 hours
+between charges.  It is my belief that netbooks will not completely catch on
+until they last at least a day between charges, as most of today's successful
+smartphones already do.  On that note, smartphones are one the other end of the
+spectrum.  They have a much smaller form factor, they are lower powered even
+than the netbooks, and they have more custom (although open) OSes.  However,
+they are a platform that many customers are already using to access the services
+they use that live in the Cloud.  If there isn't an application written
+specifically for that service on your device, you can still access it via the
+web interfaces through the built in browser.  Despite this, the interface is
+constrictive enough (common complaints being the keyboards) that I believe
+netbook sized computers would be a better solution.  With the problem lying in
+battery life, I investigated current and historical trends in battery
+technology.  Lithium-Ion secondary battery technology has been around since 1976
+and first became commercially available in 1981 when Bell Labs successfully used
+a Graphite anode with a Titanium Sulfied cathode (Samar, 1981).  Today's
+research efforts are primarily in increasing the energy density through
+nano-technology and cathode materials.  Already, batteries have been produced
+that have 10 times the energy density of a comparable volume battery today (so a
+battery that lasts 2 hours today would last 20) (Stanford, 2007).  This is very
+promising for every mobile device.
 
 The long and short of it is that today's computers that are designed for basic
 usage are becoming thinner as higher order services are beginning to offered via
