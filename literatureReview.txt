@@ -48,7 +48,7 @@ The fact is, the move to the Cloud Computing paradigm is happening and is just
 waiting for someone to create a hardware platform that is truly optimized for
 that environment.
 
-** Topical Overview 
+** Topical Overview
 
 In light of the above situation, this literature review will be focused on a
 variety of topics all germane to the development of ultra-mobile computers
@@ -332,12 +332,13 @@ Smartphones are the logical step beyond plain-vanilla mobile phones and PDAs.
 In the words of one analyst quoted in Jo Best's article describing Smartphones,
 Smartphones are "a large-screen, data-centric, handheld device designed to offer
 complete phone functions whilst simultaneously functioning as a personal digital
-assistant (PDA)" (2006).  Best continues, saying that this definition may not go far
-enough, as another common attribute of Smartphones today are that they implement
-an open operating system that third party developers can provide applications to
-run on.  For example, Apple's iPhone provides a third party SDK and an
-application store through which iPhone customers can obtain the applications.
-Google's G1 has a very similar feature set, though with a different API.
+assistant (PDA)" (2006).  Best continues, saying that this definition may not go
+far enough, as another common attribute of Smartphones today are that they
+implement an open operating system that third party developers can provide
+applications to run on.  For example, Apple's iPhone provides a third party SDK
+and an application store through which iPhone customers can obtain the
+applications.  Google's G1 has a very similar feature set, though with a
+different API.
 
 Another primary capability that most Smartphones are beginning to develop is
 fully-capable web browsing on the phone.  The iPhone's Safari browser
@@ -485,9 +486,9 @@ as a platform.  However, it would not, by the that single virtue, be very Web
 
 To be Web 2.0, a company or service provider must also pursue an aggressive
 release schedule which delivers new features that are ready to be used on a
-regular basis to customers (Miller, 2005).  This is what advocates of Web
-2.0 say is the advantage of the Web as Platform; the ability to deliver features
-to users of a given software system at a much higher rate (O'Reilly, 2007).
+regular basis to customers (Miller, 2005).  This is what advocates of Web 2.0
+say is the advantage of the Web as Platform; the ability to deliver features to
+users of a given software system at a much higher rate (O'Reilly, 2007).
 
 *** Key Properties
 
@@ -516,28 +517,32 @@ attempts to lock out other services.
 At the customer level, there is a new push for user generated content.  In the
 words of Bryan Alexander, "these sections of the Web break away from the page
 metaphor. Rather than following the notion of the Web as book, they are
-predicated on microcontent" (2006).  Another way to put this would be for a
-shift from one-way delivery of content to two-way content production
-participation (Alexander, 2006).  A key feature of Web 1.0 was that the customer
-was seen primarily as a consumer of content rather than a participant in its
+predicated on microcontent" (2006).  In other words, rather than consumers doing
+nothing but receieving packaged content, Web 2.0 emphasizes a partnership
+between the primary content producer and the content consumers which yields a
+change in the content being produced from which both primary consumers and
+producers benefit.  The product is literally produced and changed as it is being
+consumed (Alexander, 2006).  A key feature of Web 1.0 was that the customer was
+seen primarily as a consumer of content rather than a participant in its
 creation.  So even if a company had a dynamically created page with a database
 back-end etc., they would still be in control of all of the variables in order
 to create the user experience they desired.  Then, customers would use that
 service if they liked what the company did or they would not.  In Web 2.0, that
 same company would let the user have a much larger degree of control over their
-own experience with the service.
+experience with the service.
 
-O'Reilly gives an example of this at the time his paper was written: Barnes and
-Noble vs. Amazon (2007).  Barnes and Noble does not offer less books than Amazon
-and it's less or more well known, but Amazon consistently out sells Barnes and
-Noble through their online store.  O'Reilly believes that this is because Amazon
-specifically encourages user participation in the form of product reviews, wish
-lists, product recommendation lists (viewable by the public), and not the least
-of which the use of their opinion to form search results (2007).  Whereas a
-search at Barnes and Noble often "lead[s] with the company's own products, or
-sponsored results, Amazon always leads with "most popular", a real-time
-computation based not only on sales but other factors that Amazon insiders call
-the "flow" around products" (O'Reilly, 2007).
+O'Reilly gives an example of this fundamental shift from Web 1.0 to Web 2.0 at
+the time his paper was written: Barnes and Noble vs. Amazon (2007).  Barnes and
+Noble does not offer fewer books than Amazon and it's just as recognizable
+brand-wise, yet Amazon consistently out sells Barnes and Noble through their
+online store.  O'Reilly believes that this is because Amazon specifically
+encourages user participation in the form of product reviews, wish lists,
+product recommendation lists (viewable by the public), and not the least of
+which the use of their opinion to form search results (2007).  Whereas a search
+at Barnes and Noble often "lead[s] with the company's own products, or sponsored
+results, Amazon always leads with "most popular", a real-time computation based
+not only on sales but other factors that Amazon insiders call the "flow" around
+products" (O'Reilly, 2007).
 
 Closely associated with collaboration, the principle of openness is primarily in
 reference to data.  In the seven discreet core competencies of Web 2.0
@@ -547,23 +552,23 @@ However, control here does not imply hiding (2007).  Instead, it means that the
 corporations who set up the services that created the data control the
 interfaces by which the data can be manipulated and added to. Again in the case
 of Delicious, they have defined APIs for adding new bookmarks, accessing current
-bookmarks, accessing popular bookmarks, etc. that allow others to create new
+bookmarks, accessing popular bookmarks, etc.  This allows others to create new
 views into that data that customers may find add enough value to the raw data
-that they are willing to pay for it.
+that they are willing to pay for access to the view.
 
 Of course, the other part of the quote indicates that the data gets better as
-more people uses it.  Services like Delicious, Reddit, and Digg are so valuable
+more people use it.  Services like Delicious, Reddit, and Digg are so valuable
 because of the amount of people using them.  It would be possible to create a
 Delicious application that could only be used by a single person (i.e. the
 bookmarking feature of any modern browser), but that wouldn't be very valuable
 outside of any one person's use.  But if 100,000 people are all using a
 bookmarking service, suddenly the information that can be derived from the
-service is much more interesting to a much wider audience.  And obviously, the
-more popular a particular service is, the harder it becomes to reproduce that
-data set because the market has shrunk.  In the words of O'Reilly, "the race is
-on to own certain classes of core data."  Once the data is safely centralized
-under the auspices of a partcular company it's then free to be exposed to
-others, allowing them to create other interfaces (2007).
+service is much more interesting to a much wider audience.  The more popular a
+particular service is, the harder it becomes to reproduce that data set because
+the market has shrunk.  In the words of O'Reilly, "the race is on to own certain
+classes of core data."  Once the data is safely centralized under the auspices
+of a partcular company it's then free to be exposed to others, allowing them to
+create other interfaces (2007).
 
 A third principle at the core of Web 2.0 is the delivery of software quickly
 with an emphasis on streamlining for a specific purpose rather than creating the
@@ -584,46 +589,46 @@ in an interesting way that may or may not be more useful to the customer.  One
 company provides a comprehensive map database with an API, another company
 provides an atlas service, and another provides a location based history
 service.  Finally, a fourth company comes along and does nothing but provide a
-mashup of the 3, allowing customers to browse a location, view statistics such as
-population density, and look at historical highlights.  That's the heart of
+mashup of the 3, allowing customers to browse a location, view statistics such
+as population density, and look at historical highlights.  That's the heart of
 mashup software and a significant part of what defines Web 2.0.
 
 *** Specific Applications
 
 There are two business domains that have taken a special interest in Web 2.0 as
 a way to enhance what they are offering to their customers: The Medical
-Community and the Library Community.
+Community and the library Community.
 
-Dean Giustini discusses how changes brought about by Web 2.0 could be utilized
-to greatly change the way the Medical community serves its customers in his
-editorial in the BMJ.  He envisions blogs as a way to help the medical community
-skim through the massive volumes of information published by their colleagues in
-a focused way.  Citing one especially notable blog, Clinical Cases and Images,
-he notes that not only is it a way to get a lot of information cleanly and
-easily, but it also allows for the medical community to engage with the
-information instantaneously.  The prominent Web 2.0 technology RSS is also noted
-as a way for the medical community to engage with information in a simple and
-organized fashion.  Finally, he notes that a true success would be accomplished
-if the medical community would embrace a wiki technology and engage with one
-another in the building up of medical knowledge that is accessible to all.  This
-would be a massive shift in the attitude of the medical community which today is
-focused on secrecy more than collaboration.  However, he feels that a wiki
-edited and controlled by the experts of the field could possibly "create optimal
-knowledge building opportunities for doctors."
+Dean Giustini (2006) discusses how changes brought about by Web 2.0 could be
+utilized to greatly change the way the Medical community serves its customers in
+his editorial in the BMJ.  He envisions blogs as a way to help the medical
+community skim through the massive volumes of information published by their
+colleagues in a focused way.  Citing one especially notable blog, Clinical Cases
+and Images, he notes that not only is it a way to get a lot of information
+cleanly and easily, but it also allows for the medical community to engage with
+the information instantaneously.  The prominent Web 2.0 technology RSS is also
+noted as a way for the medical community to engage with information in a simple
+and organized fashion.  Finally, he notes that a true success would be
+accomplished if the medical community would embrace a wiki technology and engage
+with one another in the building up of medical knowledge that is accessible to
+all.  This would be a massive shift in the attitude of the medical community
+which today is focused on secrecy more than collaboration.  However, he feels
+that a wiki edited and controlled by the experts of the field could possibly
+"create optimal knowledge building opportunities for doctors."
 
-Paul Miller discusses how Web 2.0 philosophies can be applied in the Library
+Paul Miller discusses how Web 2.0 philosophies can be applied in the library
 community in his Ariadne article (2005).  The core of the argument is that
 instead of fearing the inherent openness and collaborative nature of the Web 2.0
-philosophy, Libraries and Librarians should instead embrace these philosophies
-to help their customer and each other much more effectively.  Libraries are
-already uniquely positioned with highly specialized and unique data sources that
-until now have been controlled completely by them.  To start, Miller proposes an
-effort to at least build collaboration between Libraries (an effort which has
-already begun to take shape in our day with services such as that offered by
-SirsiDynix for a global library catalog) (2005).  This would be more along the
-lines of business to business collaboration, but would begin to help Libraries
+philosophy, libraries and librarians should instead embrace these philosophies
+to help their customers and each other more effectively.  Libraries are already
+uniquely positioned with highly specialized and unique data sources that until
+now have been controlled completely by them.  Miller proposes an effort to at
+least build collaboration between libraries (an effort which has already begun
+to take shape today with services such as that offered by SirsiDynix for a
+global library catalog) (2005).  This would be more along the lines of business
+to business collaboration.  Nevertheless, it would begin to help libraries
 behave in a more Web 2.0 way.  Finally, he makes the suggestion that while
-building inter-library collaboration is a good start, Libraries need to utilize
+building inter-library collaboration is a good start, libraries need to utilize
 every applicable service to make their incredible wealth of data easily
 available to the customer.
 
@@ -631,7 +636,7 @@ available to the customer.
 
 The thrust of all of the literature covered here is the design of computing
 hardware specifically made to interact with a more powerful machine that lives
-accross the network.
+across the network.
 
 Historically, the time sharing computing model developed when computing hardware
 was too expensive to justify everyone having their own personal computer.  In
@@ -675,73 +680,109 @@ stripped down and designed to work with Internet applications rather than
 today's power hungry local applications (Bergevin, 2006).  Netbooks are a cross
 between the ultra-mobility of a PDA/Smartphone and the power and usability of a
 notebook computer (Copeland, 2008).  However, their battery life is still
-somewhat dissapointing.  For instance, the ASUS Eee PC only gets about 6 hours
-between charges.  It is my belief that netbooks will not completely catch on
-until they last at least a day between charges, as most of today's successful
-smartphones already do.  On that note, smartphones are one the other end of the
+somewhat disappointing.  For instance, the ASUS Eee PC only gets about 6 hours
+between charges.  It is the author's belief that Netbooks will not completely
+catch on until they last at least a day between charges, as most of today's
+successful Smartphones already do.  Smartphones are one the other end of the
 spectrum.  They have a much smaller form factor, they are lower powered even
-than the netbooks, and they have more custom (although open) OSes.  However,
+than the Netbooks, and they have more custom (although open) OSes.  However,
 they are a platform that many customers are already using to access the services
 they use that live in the Cloud.  If there isn't an application written
-specifically for that service on your device, you can still access it via the
-web interfaces through the built in browser.  Despite this, the interface is
-constrictive enough (common complaints being the keyboards) that I believe
-netbook sized computers would be a better solution.  With the problem lying in
-battery life, I investigated current and historical trends in battery
-technology.  Lithium-Ion secondary battery technology has been around since 1976
-and first became commercially available in 1981 when Bell Labs successfully used
-a Graphite anode with a Titanium Sulfied cathode (Samar, 1981).  Today's
-research efforts are primarily in increasing the energy density through
-nano-technology and cathode materials.  Already, batteries have been produced
-that have 10 times the energy density of a comparable volume battery today (so a
-battery that lasts 2 hours today would last 20) (Stanford, 2007).  This is very
-promising for every mobile device.
+specifically for that service on the particular device owned by a customer, the
+service can still be accessed via the web interfaces through the built in
+browser.  Despite this, the interface is constrictive enough (common complaints
+being the keyboards) that the author believes Netbook sized computers would be a
+better solution.  With the problem lying in battery life, this paper
+investigated current and historical trends in battery technology.  Lithium-Ion
+secondary battery technology has been around since 1976 and first became
+commercially available in 1981 when Bell Labs successfully used a Graphite anode
+with a Titanium Sulfide cathode (Samar, 1981).  Today's research efforts are
+primarily in increasing the energy density through nano-technology and cathode
+materials.  Already, batteries have been produced that have 10 times the energy
+density of a comparable volume battery today (so a battery that lasts 2 hours
+today would last 20) (Stanford, 2007).  This is very promising for every mobile
+device.
 
-The long and short of it is that today's computers that are designed for basic
-usage are becoming thinner as higher order services are beginning to offered via
-the Cloud.
+In conclusion, the design of computers intended for general use is becoming
+thinner as more services are being offered over the Web via The Cloud.
 
 * References
 
-Alexander, B. (2006). Web 2.0: New Wave of Innovation for Teaching and Learning?. EDUCAUSE Review, 41(2), 32-44
+Alexander, B. (2006). Web 2.0: New Wave of Innovation for Teaching and
+Learning?. EDUCAUSE Review, 41(2), 32-44
 
-AP. (2009). Netbooks power down for portability. Retrieved 20 January, 2009, from http://www.australianit.news.com.au/story/0,24897,24932480-5013037,00.html.
+AP. (2009). Netbooks power down for portability. Retrieved 20 January, 2009,
+from http://www.australianit.news.com.au/story/0,24897,24932480-5013037,00.html.
 
-Baker, S. (2007). Google and the Wisdom of Clouds. Retrieved 13 January, 2009, from http://www.businessweek.com/print/magazine/content/07_52/b4064048925836.htm.
+Baker, S. (2007). Google and the Wisdom of Clouds. Retrieved 13 January, 2009,
+from
+http://www.businessweek.com/print/magazine/content/07_52/b4064048925836.htm.
 
-Bergevin, P. (2008). Thoughts on Netbooks. Retreived 3 March, 2009, from http://blogs.intel.com/technology/2008/03/thoughts_on_netbooks.php.
+Bergevin, P. (2008). Thoughts on Netbooks. Retreived 3 March, 2009, from
+http://blogs.intel.com/technology/2008/03/thoughts_on_netbooks.php.
 
-Bleicher, P. (2006). Solutions Delivered, Not Installed. Applied Clinical Trials, 15(6), 41-44.
+Best, J. (2006). Analysis: What is a smart phone?. Retrieved 14 January, 2009,
+from http://networks.silicon.com/mobile/0,39024665,39156391,00.htm.
 
-Campbell-Kelly, M., & Aspray, W. (2004). Computer: A History of the Information Machine. Boulder, CO: Westview Press.
+Bleicher, P. (2006). Solutions Delivered, Not Installed. Applied Clinical
+Trials, 15(6), 41-44.
 
-Copeland, M. (2008). Disruptors: The 'netbook' revolution. Fortune Magazine. Retrieved 15 January, 2009, from http://money.cnn.com/2008/10/13/technology/copeland_asus.fortune/index.htm.
+Campbell-Kelly, M., & Aspray, W. (2004). Computer: A History of the Information
+Machine. Boulder, CO: Westview Press.
 
-Ellis, B. l., Makahnouk, W. R. M., Makimura, Y., Toghill, K., Nazar, L. F. (2007). A multifunctional 3.5V iron-based phosphate cathode for rechargeable batteries.  Nature Materials, 6(10), 749-753.
+Copeland, M. (2008). Disruptors: The 'netbook' revolution. Fortune
+Magazine. Retrieved 15 January, 2009, from
+http://money.cnn.com/2008/10/13/technology/copeland_asus.fortune/index.htm.
 
-Idota, Y., Kubota, T., Matsufuji, A., Maekawa, Y., Miyasaka, T. (1997). Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage Material. Science Magazine, 276(5317), 1395-7.
+Ellis, B. l., Makahnouk, W. R. M., Makimura, Y., Toghill, K., Nazar,
+L. F. (2007). A multifunctional 3.5V iron-based phosphate cathode for
+rechargeable batteries.  Nature Materials, 6(10), 749-753.
 
-Lai, A., Nieh, J. (2002) Limits of Wide-Area Thin-Client Computing. Proceedings of the ACM Sigmetrics, 30(1), 228-239.
+Giustini, D. (2006). How Web 2.0 is changing medicine: Is a medical Wikipedia
+the next step?. BMJ, 333(7582), 1283-4.
 
-Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY: Penguin Books.
+Idota, Y., Kubota, T., Matsufuji, A., Maekawa, Y., Miyasaka,
+T. (1997). Tin-Based Amorphous Oxide: A High-Capacity Lithium-Ion-Storage
+Material. Science Magazine, 276(5317), 1395-7.
 
-McDougall, P. (2007). Google Targets Microsoft With Launch Of Business Applications. Retrieved 13 January, 2009, from http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
+Lai, A., Nieh, J. (2002) Limits of Wide-Area Thin-Client Computing. Proceedings
+of the ACM Sigmetrics, 30(1), 228-239.
 
-Miller, P. (2005). Web 2.0: Building the New Library. Ariadne. 45. Retrieved 15 December, 2008 from http://www.ariadne.ac.uk/issue45/miller/
+Levy, S. (1994). Hackers: Heroes of the Computer Revolution. New York, NY:
+Penguin Books.
 
-Nam, K. T., Kim, D., Yoo, P., Chiang, C., Meethong, N., Hammond, P., Chiang, Y., Belcher, A. (2006). Virus-Enabled Synthesis and Assembly of Nanowires for Lithium Ion Battery Electrodes. Science, 312(5775), 885-8.
+McDougall, P. (2007). Google Targets Microsoft With Launch Of Business
+Applications. Retrieved 13 January, 2009, from
+http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=197007903.
 
-O'Reilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. Communications and Strategies, No. 1, p. 17. Retrieved 19 September, 2008, from http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
+Miller, P. (2005). Web 2.0: Building the New Library. Ariadne. 45. Retrieved 15
+December, 2008 from http://www.ariadne.ac.uk/issue45/miller/
 
-Reiss, S. (2008). Cloud Computing. Available at Amazon.com Today. Wired Magazine, 16.05. Retrieved November 4, 2008, from http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
+Nam, K. T., Kim, D., Yoo, P., Chiang, C., Meethong, N., Hammond, P., Chiang, Y.,
+Belcher, A. (2006). Virus-Enabled Synthesis and Assembly of Nanowires for
+Lithium Ion Battery Electrodes. Science, 312(5775), 885-8.
 
-Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office: http://v3.espacenet.com/publicationDetails/biblio?CC=US&NR=4304825A&KC=A&FT=D&date=19811208
+O'Reilly, T. (2007). What is Web 2.0: Design Patterns and Business Models for
+the Next Generation of Software. Communications and Strategies, No. 1,
+p. 17. Retrieved 19 September, 2008, from
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1008839
 
-Schmidt, B. K., Lam, M. S., Northcutt, J. D. (1999). The interactive performance of SLIM: a stateless, thin-client architecture. Operating Systems Review, 34(5), 32-47.
+Reiss, S. (2008). Cloud Computing. Available at Amazon.com Today. Wired
+Magazine, 16.05. Retrieved November 4, 2008, from
+http://www.wired.com/techbiz/it/magazine/16-05/mf_amazon?currentPage=all
 
-Stanford University (2007, December 20). New Nanowire Battery Holds 10 Times The Charge Of Existing Ones. ScienceDaily. Retrieved January 13, 2009, from http://www.sciencedaily.com /releases/2007/12/071219103105.htm
+Samar, B. (1981). U.S. Patent No. 4304825A. European Patent Office:
+http://v3.espacenet.com/publicationDetails/biblio?CC=US&NR=4304825A&KC=A&FT=D&date=19811208
+
+Schmidt, B. K., Lam, M. S., Northcutt, J. D. (1999). The interactive performance
+of SLIM: a stateless, thin-client architecture. Operating Systems Review, 34(5),
+32-47.
+
+Stanford University (2007, December 20). New Nanowire Battery Holds 10 Times The
+Charge Of Existing Ones. ScienceDaily. Retrieved January 13, 2009, from
+http://www.sciencedaily.com /releases/2007/12/071219103105.htm
 
 Tynan, D. (2005). Think Thin. InfoWorld, 27(29), 32-36.
 
-Yahoo (2009). Cloud Computing. Retrieved 12 January, 2009, from http://research.yahoo.com/Cloud_Computing.
-
+Yahoo (2009). Cloud Computing. Retrieved 12 January, 2009, from
+http://research.yahoo.com/Cloud_Computing.
