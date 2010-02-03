@@ -169,9 +169,9 @@ Grosch's law states that a computers power varies as a square of its price.
 Because of this, it is more economical to have 25 people using a $1,000,000
 machine rather than giving each individual a $200,000 machine.  Fortunately,
 hardware costs plummeted and made it possible to own a computer that was
-powerful enough to do anything you wanted and could be accessed only by you.
-While Grosch's law holds true to this day, at the time it simply didn't matter
-(Campbell-Kelly, 2004).
+powerful enough to do anything most typical users wanted and could be accessed
+only by the computer's owner.  While Grosch's law holds true to this day, at the
+time it simply didn't matter (Campbell-Kelly, 2004).
 
 The reason that it no longer mattered was two-fold.  First, technological
 developments outside of the computer industry proper allowed for the creation of
@@ -204,7 +204,7 @@ development of dumb or thin-client terminals that access powerful centralized
 servers and execute their applications on the server.  This has several effects,
 such as a reduced total cost of ownership through the lack of a need to upgrade
 the client hardware on a regular basis, ease of administration with only a few
-centralized computing resources that you can control directly, etc.
+centralized computing resources that can be controlled directly, etc.
 
 *** Definition
 
@@ -216,12 +216,12 @@ computing is that most applications can be run as they are, without any rewrite
 to take advantage of a remote protocol, because the display protocol is
 implemented at a lower level in the OS hierarchy than the applications execute
 (Schmidt, 1999).  Thus, instead of a sending the display information to a local
-monitor, you instruct the OS to send its display information instead over the
-network to a client that has requested that you send said information to it.
-Anyone with network access can request to utilize the computing resources of a
-central server that has implemented the server protocol of the thin-client and
-from anywhere at any time remotely access their session as if they were sitting
-at the machine.
+monitor, operators of an RDP server instruct the OS to send its display
+information instead over the network to a client that has requested said
+information to be sent to it.  Anyone with network access can request to utilize
+the computing resources of a central server that has implemented the server
+protocol of the thin-client and from anywhere at any time remotely access their
+session as if they were sitting at the machine.
 
 In the pure sense of the word, a simple text-only protocol such as telnet or ssh
 is a thin-client system.  They leave the processing and computing responsibility
@@ -280,8 +280,11 @@ Thin-clients are applicable to this research project in that the design of a
 mobile hardware platform that is fine-tuned for taking advantage of Cloud
 services would have a great deal of similarity with today's thin-clients.  Very
 little processing power would have to exist on the client side as long as they
-had a high-bandwidth connection to the application server.  The question would
-only be how thin you would make the clients.
+had a high-bandwidth connection to the application server.  The only remaining
+question would be how thin the clients should be.  With nothing but an Internet
+connection and video card, the machine would be worthless without the Network,
+but it would in theory last a very long time and have access to enormous
+computing resources far outweighing the capabilities it could have locally.
 
 ** Netbooks / Smartphones
 
@@ -329,7 +332,7 @@ Smartphones are the logical step beyond plain-vanilla mobile phones and PDAs.
 In the words of one analyst quoted in Jo Best's article describing Smartphones,
 Smartphones are "a large-screen, data-centric, handheld device designed to offer
 complete phone functions whilst simultaneously functioning as a personal digital
-assistant (PDA)" ().  Best continues, saying that this definition may not go far
+assistant (PDA)" (2006).  Best continues, saying that this definition may not go far
 enough, as another common attribute of Smartphones today are that they implement
 an open operating system that third party developers can provide applications to
 run on.  For example, Apple's iPhone provides a third party SDK and an
@@ -342,13 +345,12 @@ implementation utilizes zooming technology to render a web page as if the screen
 were larger, allowing the user then to zoom in on the interesting parts.  The
 G1's mobile Chrome implementation does similar things and other Smartphones as
 well.  Also, they utilize the many different data networks to access the
-Internet so that anywhere you can get mobile access you can also get Internet
-access, allowing customers to get to their online data through either
-applications created for the phone or via the browser.  Overall, Smartphones do
-not represent anything truly revolutionary technology wise; they're more a
-mashup of old technologies much like the evolution of Web 2.0.  However, they
-represent a core strategy that could be used to provide a truly mobile computing
-platform.
+Internet so that the Internet is available anywhere mobile access is as well,
+allowing customers to get to their online data through either applications
+created for the phone or via the browser.  Overall, Smartphones do not represent
+anything truly revolutionary technology wise; they're more a mashup of old
+technologies much like the evolution of Web 2.0.  However, they represent a core
+strategy that could be used to provide a truly mobile computing platform.
 
 ** Rechargeable Batteries
 
@@ -370,8 +372,8 @@ Advances in Lithium-Ion Battery technology are primarily in three areas.  The
 first is in the area of safety.  The materials recommended by Whittingham were
 titanium sulfide and lithium metal.  It turned out that batteries using lithium
 metal are extremely dangerous.  The first advances were in the material used.
-If you forgo the use of lithium metal in favor of another material that contains
-lithium ions, you get a much more stable battery (Samar, 1981).  Second, the
+Forgoing the use of lithium metal in favor of another material that contains
+lithium ions yields a much more stable battery (Samar, 1981).  Second, the
 composition of the materials (known as the anode and the cathode) is being
 changed experimentally to increase the amount of cycles the battery has and to
 improve its power output.  In one case, that of LG Chemical's CPI subsidiary,
@@ -414,18 +416,18 @@ doing computing via the Internet.  Combined with broadband Internet access,
 Cloud Computing has become one of the largest revolutions in computer history,
 transforming the way people think about their computers and how they should be
 used.  Principally, application suites such as the offerings from Google have
-modified the thought that having control over the software you use day to day is
-a necessity.  Whereas the original shift from faith in a centralized system to
-belief that personal control was better came from the inherent flaws in the
-software being produced and the hardware being designed, today's world sees
-software reaching a very mature state and Internet connections finally being up
-to speed enough to provide near desktop-like experiences.  The off loading of
-the need for computing power to something over the Internet could signal extreme
-changes in the design of mobile computers.
+modified the thought that having control over the software many people use on a
+daily basis a necessity.  Whereas the original shift from faith in a centralized
+system to belief that personal control was better came from the inherent flaws
+in the software being produced and the hardware being designed, today's world
+sees software reaching a very mature state and Internet connections finally
+being up to speed enough to provide near desktop-like experiences.  The off
+loading of the need for computing power to something over the Internet could
+signal extreme changes in the design of mobile computers.
 
 *** Development
 
-Cloud Computing has its roots in the Time-Sharing Computer Utility model that
+Cloud Computing has its roots in the Time-Sharing Computer Utility mode that
 tried to take flight in the 1960s.  However, many of the problems encountered
 then have been solved (massive concurrent access, interface issues, Internet
 (Broadband) access, etc.).  Amazon is widely considered to be the progenitor of
@@ -450,8 +452,8 @@ just the cloud as a computer, there is a whole new breed of software termed
 Software as a Service (SAAS) which offers no install, enterprise grade, software
 services delivered via the cloud.  While this is not necessarily 'traditional'
 cloud computing, it does offload the hardware and software requirements for
-computer solutions to a central server and off of your local hardware
-installation.
+computer solutions to a central server rather than making any demands of local
+hardware.
 
 ** Web 2.0
 
@@ -461,9 +463,9 @@ advent of what has come to be known as Web 2.0.  Tim O'Reilly, in his seminal
 paper on the subject, describes Web 2.0 "as a set of principles and practices
 that tie together a veritable solar system of sites that demonstrate some or all
 of those principles" (2007). The principles he is referring to are things such
-as an emphasis on deep customer collaboration, offering of your applications not
-as delivered software but as web services, and an emphasis on multiple
-light-weight UIs to the same data, especially the web connected devices.
+as an emphasis on deep customer collaboration, delivery of applications over the
+Web rather than in a box, and an emphasis on multiple light-weight UIs to the
+same data, especially the web connected devices.
 
 *** The Web is the Platform
 
@@ -471,40 +473,43 @@ The "Web is the Platform" phrase is just ambiguous enough that it's incredibly
 easy to misinterpret.  Tim O'Reilly notes this as well when he states that the
 term has been adopted by "buzz-word addicted start-ups" with "no real
 understanding of what it means" (2007).  The Web is the Platform, at its core,
-means the use of the Internet to deliver your service to customers (Miller,
-2005).  This is in stark contrast to the model of 'shrink wrapped software'
-where a long development cycle is concluded with a monolithic release that
-contains maybe a years worth of work available for repurchasing.  In that model,
-a customer would buy a license to use a particular release of your software
-forever and would only purchase a new version if the features warranted it.  So
-in a strict sense if you use the Web to deliver your software then you are using
-the Web as a platform.  However, you would not be very Web 2.0.
+means the use of the Internet to deliver services to customers (Miller, 2005).
+This is in stark contrast to the model of 'shrink wrapped software' where a long
+development cycle is concluded with a monolithic release that contains maybe a
+year's worth of work available for repurchasing.  In that model, a customer
+would buy a license to use a particular release of a software system forever and
+would only purchase a new version if the features warranted it.  So in a strict
+sense if a company uses the Web to deliver its software then it is using the Web
+as a platform.  However, it would not, by the that single virtue, be very Web
+2.0.
 
-To be Web 2.0, you must also pursue an aggressive release schedule which
-delivers new features that are ready to be used on a regular basis to your
-customers (Miller, 2005).  This is what advocates of Web 2.0 say is the
-advantage of the Web as Platform; the ability to deliver features to your
-audience at a much higher rate (O'Reilly, 2007).
+To be Web 2.0, a company or service provider must also pursue an aggressive
+release schedule which delivers new features that are ready to be used on a
+regular basis to customers (Miller, 2005).  This is what advocates of Web
+2.0 say is the advantage of the Web as Platform; the ability to deliver features
+to users of a given software system at a much higher rate (O'Reilly, 2007).
 
 *** Key Properties
 
-That being said, there are many key properties that have come to define Web 2.0.
-Going back to O'Reilly, software vendors are judged on a continuum regarding
-their adherence to the general principles of Web 2.0 rather than being strictly
-'in' or 'out' (2007).  Here I will define the core principles of Web 2.0 that
-have been identified already.
+There are many key properties that have come to define Web 2.0.  Going back to
+O'Reilly, it isn't possible to be strictly 'in' or 'out' of Web 2.0.  Rather,
+software vendors are judged on a continuum regarding their adherence to the
+general principles of Web 2.0 (2007).  Thus, company A could be very Web 2.0
+wheras company B could exhibit some of the necessary qualities but in the end
+still be very traditional in its approaches to business and service provision.
+The following sections will define the core principles of Web 2.0 that have been
+identified already.
 
 There is a massive emphasis on collaboration at many levels in Web 2.0
-(O'Reilly, 2007).
-
-At the developer/vendor level, there is in emphasis on the use of open tools and
-technologies to promote the maximum amount of interoperability possible without
-literal reproduction of services (Miller, 2005).  For example, the social
-bookmarking site Delicious.com allows anyone to access their data stream for any
-purpose (with the exception that you are not to create a search engine using
-it).  This could be as simple as including your latest delicious bookmarks on
-the homepage of your blog or as complex as designing a popular tag portal that
-includes advertisements based on the most popular tags clicked.  The point is,
+(O'Reilly, 2007).  At the developer/vendor level, there is an emphasis on the
+use of open tools and technologies to promote the maximum amount of
+interoperability possible without literal reproduction of services (Miller,
+2005).  For example, the social bookmarking site Delicious.com allows anyone to
+access their data stream for any purpose (with the exception that no user of
+that data create a search engine using it).  This could be as simple as
+including a particular users latest delicious bookmarks on the homepage of their
+blog or as complex as designing a popular tag portal that includes
+advertisements based on the most popular tags clicked.  The point is,
 Delicious.com opens up their data rather than creating a proprietary model that
 attempts to lock out other services.
 
@@ -515,11 +520,12 @@ predicated on microcontent" (2006).  Another way to put this would be for a
 shift from one-way delivery of content to two-way content production
 participation (Alexander, 2006).  A key feature of Web 1.0 was that the customer
 was seen primarily as a consumer of content rather than a participant in its
-creation.  So even if you had a dynamically created page with a database
-back-end etc., you would still be in control of all of the variables in order to
-create the user experience you desired.  Then, customers would use your service
-if they liked what you did or they would not.  In Web 2.0, you let the user have
-a much larger degree of control on their own experience with your service.
+creation.  So even if a company had a dynamically created page with a database
+back-end etc., they would still be in control of all of the variables in order
+to create the user experience they desired.  Then, customers would use that
+service if they liked what the company did or they would not.  In Web 2.0, that
+same company would let the user have a much larger degree of control over their
+own experience with the service.
 
 O'Reilly gives an example of this at the time his paper was written: Barnes and
 Noble vs. Amazon (2007).  Barnes and Noble does not offer less books than Amazon
@@ -537,25 +543,27 @@ Closely associated with collaboration, the principle of openness is primarily in
 reference to data.  In the seven discreet core competencies of Web 2.0
 organizations that O'Reilly documents, he lists "control over unique,
 hard-to-recreate data sources that get richer as more people use them."
-However, control here does not imply hiding (2007).  Instead, it means that you
-control the interfaces by which the data can be manipulated and added to. Again
-in the case of Delicious, they have defined APIs for adding new bookmarks,
-accessing current bookmarks, accessing popular bookmarks, etc. that allow others
-to create new views into that data that customers may find add enough value to
-the raw data that they are willing to pay for it.
+However, control here does not imply hiding (2007).  Instead, it means that the
+corporations who set up the services that created the data control the
+interfaces by which the data can be manipulated and added to. Again in the case
+of Delicious, they have defined APIs for adding new bookmarks, accessing current
+bookmarks, accessing popular bookmarks, etc. that allow others to create new
+views into that data that customers may find add enough value to the raw data
+that they are willing to pay for it.
 
 Of course, the other part of the quote indicates that the data gets better as
 more people uses it.  Services like Delicious, Reddit, and Digg are so valuable
 because of the amount of people using them.  It would be possible to create a
-Delicious application that only I could use on my personal machine (i.e. the
-bookmarking feature of your browser), but that wouldn't be very valuable outside
-of my own personal use.  But if 100,000 people are all using your bookmarking
-service, suddenly the information that can be derived from the service is much
-more interesting to a much wider audience.  And obviously, the more popular your
-particular service is, the harder it becomes to reproduce your data set because
-the market has shrunk.  In the words of O'Reilly, "the race is on to own certain
-classes of core data."  Once you own the data, then you can expose that data to
-others and allow them to create other interfaces (2007).
+Delicious application that could only be used by a single person (i.e. the
+bookmarking feature of any modern browser), but that wouldn't be very valuable
+outside of any one person's use.  But if 100,000 people are all using a
+bookmarking service, suddenly the information that can be derived from the
+service is much more interesting to a much wider audience.  And obviously, the
+more popular a particular service is, the harder it becomes to reproduce that
+data set because the market has shrunk.  In the words of O'Reilly, "the race is
+on to own certain classes of core data."  Once the data is safely centralized
+under the auspices of a partcular company it's then free to be exposed to
+others, allowing them to create other interfaces (2007).
 
 A third principle at the core of Web 2.0 is the delivery of software quickly
 with an emphasis on streamlining for a specific purpose rather than creating the
@@ -569,14 +577,14 @@ data and other people or businesses are free to attempt to build that
 information over the map information.  Thus, the business model of today's Web
 2.0 corporations is adding value to data through the interface.
 
-Because the sources of data are exposing it to other businesses and to the
+Because the data sources are being exposed to other businesses and to the
 public, it's possible to create what has become known as mashup software.  This
 is software that doesn't create any data of its own, but instead aggregates data
 in an interesting way that may or may not be more useful to the customer.  One
 company provides a comprehensive map database with an API, another company
 provides an atlas service, and another provides a location based history
 service.  Finally, a fourth company comes along and does nothing but provide a
-mashup of the 3, allowing you to browse a location, view statistics such as
+mashup of the 3, allowing customers to browse a location, view statistics such as
 population density, and look at historical highlights.  That's the heart of
 mashup software and a significant part of what defines Web 2.0.
 
@@ -649,18 +657,18 @@ near future.
 Cloud Computing is what is making this possible.  Cloud Computing has two major
 sides: business and consumer.  On the one hand, Cloud Computing describes the
 use of outsourced data centers and computing clusters rather than the effort to
-build and administer your own.  Businesses such as Amazon have tremendous
-infrastructure already set up and have somewhat recently begun to farm it out.
-Smaller shops who need more computing power than they want to provide for
-themselves can then pay a utility like fee to Amazon and begin to use their
-hardware.  On the consumer end, then, is the Web 2.0 applications that are being
-developed and hosted on that hardware.  These are Cloud Computing because an
-application that used to be Desktop oriented and delivered via shrink-wrapped
-packages are now being delivered via the Web and utilized via your browser.
-Both sides of this benefit greatly by the high-penetration of broadband Internet
-access.  It's come to the point now that for day to day usage, most people could
-really get away with installing nothing on their machine and instead accessing
-everything via the web, almost like a thin-client.
+build and administer locally owned ones.  Businesses such as Amazon have
+tremendous infrastructure already set up and have somewhat recently begun to
+farm it out.  Smaller shops who need more computing power than they want to
+provide for themselves can then pay a utility like fee to Amazon and begin to
+use their hardware.  On the consumer end, then, is the Web 2.0 applications that
+are being developed and hosted on that hardware.  These are Cloud Computing
+because an application that used to be hosted on the Desktop and delivered via
+shrink-wrapped packages are now being delivered via the Web and utilized via a
+browser.  Both sides of this benefit greatly by the high-penetration of
+broadband Internet access.  It's come to the point now that for day to day
+usage, most people could get away comfortably with installing nothing on their
+machine and instead accessing everything via the web, almost like a thin-client.
 
 Netbooks are a step in that direction.  While not completely thin, they are
 stripped down and designed to work with Internet applications rather than
