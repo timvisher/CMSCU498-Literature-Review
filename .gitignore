@@ -1,13 +1,8 @@
 *#*#
 .#*
 *~
-build*
-scratch
+build/
+*.scratch
 ._*
 .DS_Store
-*aux
-*dvi
-*log
-*out
-*pdf
-*toc
+*.bak
