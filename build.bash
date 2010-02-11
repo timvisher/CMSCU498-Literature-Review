@@ -1,17 +1,20 @@
 if [ -d build ] ; then
     rm -r build
 fi
+
+TEX_FILE=$1
+
 mkdir build
-cp literatureReview.tex build/
+cp $TEX_FILE.tex build/
 cp bibliography.bib build/
 cd build/
 mkdir latex
-mv literatureReview.tex bibliography.bib latex
+mv $TEX_FILE.tex bibliography.bib latex
 cd latex
-latex literatureReview.tex
-latex literatureReview.tex
-bibtex literatureReview.aux
-latex literatureReview.tex
-pdflatex literatureReview.tex
-mv literatureReview.pdf ../
+latex $TEX_FILE.tex
+latex $TEX_FILE.tex
+bibtex $TEX_FILE.aux
+latex $TEX_FILE.tex
+pdflatex $TEX_FILE.tex
+mv $TEX_FILE.pdf ../
 
